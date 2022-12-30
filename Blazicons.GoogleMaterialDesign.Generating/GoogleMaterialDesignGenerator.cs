@@ -1,5 +1,4 @@
 ﻿using Blazicons.Generating;
-using CodeCasing;
 using Microsoft.CodeAnalysis;
 using Microsoft.VisualStudio.Threading;
 
@@ -12,7 +11,7 @@ internal class GoogleMaterialDesignGenerator : ISourceGenerator
     {
         using var taskContext = new JoinableTaskContext();
         var taskFactory = new JoinableTaskFactory(taskContext);
-        var downloader = new RepoDownloader(new Uri("https://github.com/marella/material-design-icons/archive/refs/heads/main.zip"));
+        var downloader = new RepoDownloader(new Uri(Properties.Resources.DownloadAddress));
         taskFactory.Run(
             async () =>
             {
@@ -39,5 +38,6 @@ internal class GoogleMaterialDesignGenerator : ISourceGenerator
 
     public void Initialize(GeneratorInitializationContext context)
     {
+        // required by ISourceGenerator
     }
 }
