@@ -27,3 +27,6 @@ Finally, add the Blazicon components to your Blazor pages/components.
 
 ## Parameters & Styling
 See the [Blazicons](https://github.com/kyleherzog/Blazicons) documentation for details on parameters and styling.
+
+## Credits
+Thanks to the creators of [Google Material Design Icons](https://github.com/marella/material-design-icons)
