@@ -1449,7 +1449,7 @@ public static SvgIcon CarRepair => SvgIcon.FromContent("<path d='M16.22 12c.68 0
 /// <summary>
 /// Gets the Cases SvgIcon from the GoogleMaterialFilledIcon library.
 /// </summary>
-public static SvgIcon Cases => SvgIcon.FromContent("<path d='M18 6V4l-2-2h-5L9 4v2H5v11s1 2 2 2h13s2-.98 2-2V6h-4zM4 9H2v11c0 1.11.89 2 2 2h14c1.11 0 2-.89 2-2H4V9zm7-4c0-.55.53-1 1-1h3c.46 0 1 .54 1 1v1h-5V5zM5 6h17v11c0 1.1-.9 2-2 2H7c-1.1 0-2-.9-2-2V6z'></path>", attributeSet0);
+public static SvgIcon Cases => SvgIcon.FromContent("<path d='M18 5V3c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H5v11c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5h-5zm-2 0h-4V3h4v2zM3 9H1v11c0 1.11.89 2 2 2h16v-2H3V9z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Casino SvgIcon from the GoogleMaterialFilledIcon library.
 /// </summary>
