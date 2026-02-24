@@ -5,7 +5,7 @@ Check out the [Demo Site](http://blazicons.com).
 
 ![Nuget](https://img.shields.io/nuget/v/Blazicons.GoogleMaterialDesign)
 
-[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.GoogleMaterialDesign?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=20&branchName=main)
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status%2FBlazicons.GoogleMaterialDesign?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=41&branchName=main)
 
 ## Getting Started
 To get started using the Google Material Design Blazicons, just install the Blazicons.GoogleMaterialDesign NuGet package.
