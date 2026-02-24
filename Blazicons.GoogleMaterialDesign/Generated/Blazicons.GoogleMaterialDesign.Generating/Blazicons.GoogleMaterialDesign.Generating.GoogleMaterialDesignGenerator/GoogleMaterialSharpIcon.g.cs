@@ -186,6 +186,10 @@ public static SvgIcon Six0fps => SvgIcon.FromContent("<path d='M19 8v8h-4V8h4m3-
 /// </summary>
 public static SvgIcon Six0fpsSelect => SvgIcon.FromContent("<path d='M18 6v6h-3V6h3zm2-2h-7v10h7V4zm-9 2V4H4v10h7V8H6V6h5zm-2 4v2H6v-2h3zM5 22H3v-5h2v5zm4 0H7v-5h2v5zm4 0h-2v-5h2v5zm8 0h-6v-5h6v5z'></path>", attributeSet0);
 /// <summary>
+/// Gets the SixFtApart SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon SixFtApart => SvgIcon.FromContent("<path d='M6 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85a6.95 6.95 0 0 0-5.56 0A2.01 2.01 0 0 0 2 9.43V10h8v-.57zM18 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85a6.95 6.95 0 0 0-5.56 0A2.01 2.01 0 0 0 14 9.43V10h8v-.57zM19 17v-2.01L5 15v2l-3-3 3-3v2.01L19 13v-2l3 3-3 3zm-9 2v-1H7v4h3v-2.5H8V19h2zm-1 1.5v.5H8v-.5h1zm8.5-1.5h-1v3h-1v-3h-1v-1h3v1zm-5 0v.5h1v1h-1V22h-1v-4H14v1h-1.5z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Sixk SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Sixk => SvgIcon.FromContent("<path d='M8 12.5h1.5V14H8v-1.5zM21 3H3v18h18V3zm-10 7.5H8v1h3V15H6.5V9H11v1.5zm7 4.5h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25 9H18l-2.25 3L18 15z'></path>", attributeSet0);
@@ -197,10 +201,6 @@ public static SvgIcon SixkPlus => SvgIcon.FromContent("<path d='M7.5 12.5h1V14h-
 /// Gets the Sixmp SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Sixmp => SvgIcon.FromContent("<path d='M15 14h1.5v1.5H15z'></path><path d='M3 3v18h18V3H3zm7 2.5h4.5V7h-3v1h3v3.5H10v-6zm2.5 13H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5v6zM18 17h-3v1.5h-1.5v-6H18V17z'></path><path d='M11.5 9H13v1.5h-1.5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the SixFtApart SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon SixFtApart => SvgIcon.FromContent("<path d='M6 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85a6.95 6.95 0 0 0-5.56 0A2.01 2.01 0 0 0 2 9.43V10h8v-.57zM18 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85a6.95 6.95 0 0 0-5.56 0A2.01 2.01 0 0 0 14 9.43V10h8v-.57zM19 17v-2.01L5 15v2l-3-3 3-3v2.01L19 13v-2l3 3-3 3zm-9 2v-1H7v4h3v-2.5H8V19h2zm-1 1.5v.5H8v-.5h1zm8.5-1.5h-1v3h-1v-3h-1v-1h3v1zm-5 0v.5h1v1h-1V22h-1v-4H14v1h-1.5z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Sevenk SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -242,6 +242,14 @@ public static SvgIcon Ninemp => SvgIcon.FromContent("<path d='M15 14h1.5v1.5H15z
 /// </summary>
 public static SvgIcon Abc => SvgIcon.FromContent("<path d='M21 11h-1.5v-.5h-2v3h2V13H21v2h-5V9h5v2zM8 9v6H6.5v-1.5h-2V15H3V9h5zm-1.5 1.5h-2V12h2v-1.5zm7 1.5c.55 0 1 .45 1 1v1c0 .55-.45 1-1 1h-4V9h4c.55 0 1 .45 1 1v1c0 .55-.45 1-1 1zM11 10.5v.75h2v-.75h-2zm2 2.25h-2v.75h2v-.75z'></path>", attributeSet0);
 /// <summary>
+/// Gets the AccessAlarm SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon AccessAlarm => SvgIcon.FromContent("<path d='m22 5.72-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM7.88 3.39 6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM12.5 8H11v6l4.75 2.85.75-1.23-4-2.37V8zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z'></path>", attributeSet0);
+/// <summary>
+/// Gets the AccessAlarms SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon AccessAlarms => SvgIcon.FromContent("<path d='m22 5.7-4.6-3.9-1.3 1.5 4.6 3.9L22 5.7zM7.9 3.4 6.6 1.9 2 5.7l1.3 1.5 4.6-3.8zM12.5 8H11v6l4.7 2.9.8-1.2-4-2.4V8zM12 4c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 16c-3.9 0-7-3.1-7-7s3.1-7 7-7 7 3.1 7 7-3.1 7-7 7z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Accessibility SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Accessibility => SvgIcon.FromContent("<path d='M12 2c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm9 7h-6v13h-2v-6h-2v6H9V9H3V7h18v2z'></path>", attributeSet0);
@@ -257,14 +265,6 @@ public static SvgIcon Accessible => SvgIcon.FromContent("<circle cx='12' cy='4' 
 /// Gets the AccessibleForward SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AccessibleForward => SvgIcon.FromContent("<circle cx='18' cy='4.54' r='2'></circle><path d='M15 17h-2c0 1.65-1.35 3-3 3s-3-1.35-3-3 1.35-3 3-3v-2c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5zm5-3.5h-3.86l1.67-3.67C18.42 8.5 17.44 7 15.96 7h-5.2c-.81 0-1.54.47-1.87 1.2L8.22 10l1.92.53.65-1.53H13l-3.12 7H18v5h2v-7.5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the AccessAlarm SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon AccessAlarm => SvgIcon.FromContent("<path d='m22 5.72-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM7.88 3.39 6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM12.5 8H11v6l4.75 2.85.75-1.23-4-2.37V8zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the AccessAlarms SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon AccessAlarms => SvgIcon.FromContent("<path d='m22 5.7-4.6-3.9-1.3 1.5 4.6 3.9L22 5.7zM7.9 3.4 6.6 1.9 2 5.7l1.3 1.5 4.6-3.8zM12.5 8H11v6l4.7 2.9.8-1.2-4-2.4V8zM12 4c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 16c-3.9 0-7-3.1-7-7s3.1-7 7-7 7 3.1 7 7-3.1 7-7 7z'></path>", attributeSet0);
 /// <summary>
 /// Gets the AccessTime SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -306,10 +306,6 @@ public static SvgIcon Adb => SvgIcon.FromContent("<path d='M5 16c0 3.87 3.13 7 7
 /// </summary>
 public static SvgIcon Add => SvgIcon.FromContent("<path d='M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Addchart SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Addchart => SvgIcon.FromContent("<path d='M11 9h2v8h-2V9zm-2 8v-6H7v6h2zm10 2H5V5h6V3H3v18h18v-8h-2v6zm-4-6v4h2v-4h-2zm4-8V2h-2v3h-3v2h3v3h2V7h3V5h-3z'></path>", attributeSet0);
-/// <summary>
 /// Gets the AddAlarm SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AddAlarm => SvgIcon.FromContent("<path d='M7.88 3.39 6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7zm1-11h-2v3H8v2h3v3h2v-3h3v-2h-3V9z'></path>", attributeSet0);
@@ -333,6 +329,10 @@ public static SvgIcon AddBusiness => SvgIcon.FromContent("<path d='M15 17h2v-3h1
 /// Gets the AddCard SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AddCard => SvgIcon.FromContent("<path d='M2.01 4 2 20h12v-2H4v-6h18V4H2.01zM20 8H4V6h16v2zm4 9v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Addchart SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Addchart => SvgIcon.FromContent("<path d='M11 9h2v8h-2V9zm-2 8v-6H7v6h2zm10 2H5V5h6V3H3v18h18v-8h-2v6zm-4-6v4h2v-4h-2zm4-8V2h-2v3h-3v2h3v3h2V7h3V5h-3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the AddChart SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -598,18 +598,6 @@ public static SvgIcon Apartment => SvgIcon.FromContent("<path d='M17 11V3H7v4H3v
 /// </summary>
 public static SvgIcon Api => SvgIcon.FromContent("<path d='m14 12-2 2-2-2 2-2 2 2zm-2-6 2.12 2.12 2.5-2.5L12 1 7.38 5.62l2.5 2.5L12 6zm-6 6 2.12-2.12-2.5-2.5L1 12l4.62 4.62 2.5-2.5L6 12zm12 0-2.12 2.12 2.5 2.5L23 12l-4.62-4.62-2.5 2.5L18 12zm-6 6-2.12-2.12-2.5 2.5L12 23l4.62-4.62-2.5-2.5L12 18z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Approval SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Approval => SvgIcon.FromContent("<path d='M4 14v8h16v-8H4zm14 4H6v-2h12v2zM12 2C9.24 2 7 4.24 7 7l5 7 5-7c0-2.76-2.24-5-5-5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Apps SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Apps => SvgIcon.FromContent("<path d='M4 8h4V4H4v4zm6 12h4v-4h-4v4zm-6 0h4v-4H4v4zm0-6h4v-4H4v4zm6 0h4v-4h-4v4zm6-10v4h4V4h-4zm-6 4h4V4h-4v4zm6 6h4v-4h-4v4zm0 6h4v-4h-4v4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the AppsOutage SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon AppsOutage => SvgIcon.FromContent("<path d='M4 8h4V4H4v4zm6 12h4v-4h-4v4zm-6 0h4v-4H4v4zm0-6h4v-4H4v4zm6 0h4v-4h-4v4zm6 6h4v-4h-4v4zm3-20c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm.5 8h-1V7h1v1zm0-2h-1V2h1v4zM16 14h4v-2.07c-.33.05-.66.07-1 .07-1.07 0-2.09-.24-3-.68V14zM10 4v4h2.68c-.44-.91-.68-1.93-.68-3 0-.34.02-.67.07-1H10z'></path>", attributeSet0);
-/// <summary>
 /// Gets the AppBlocking SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AppBlocking => SvgIcon.FromContent("<path d='M18 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm-2.5 4A2.5 2.5 0 0 1 18 9.5c.42 0 .8.11 1.15.29l-3.36 3.36c-.18-.35-.29-.73-.29-1.15zm2.5 2.5c-.42 0-.8-.11-1.15-.29l3.36-3.36c.18.35.29.73.29 1.15a2.5 2.5 0 0 1-2.5 2.5z'></path><path d='M19 23v-6h-2v1H7V6h10v1h2V.94L5 1v22h14z'></path>", attributeSet0);
@@ -618,6 +606,14 @@ public static SvgIcon AppBlocking => SvgIcon.FromContent("<path d='M18 8c-2.21 0
 /// </summary>
 public static SvgIcon AppRegistration => SvgIcon.FromContent("<path d='M10 4h4v4h-4zM4 16h4v4H4zm0-6h4v4H4zm0-6h4v4H4zm12 0h4v4h-4zm-5 13.86V20h2.1l5.98-5.97-2.12-2.12zm3-5.83V10h-4v4h2.03zm3.671-.824 1.415-1.414 2.12 2.12-1.413 1.415z'></path>", attributeSet0);
 /// <summary>
+/// Gets the Approval SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Approval => SvgIcon.FromContent("<path d='M4 14v8h16v-8H4zm14 4H6v-2h12v2zM12 2C9.24 2 7 4.24 7 7l5 7 5-7c0-2.76-2.24-5-5-5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Apps SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Apps => SvgIcon.FromContent("<path d='M4 8h4V4H4v4zm6 12h4v-4h-4v4zm-6 0h4v-4H4v4zm0-6h4v-4H4v4zm6 0h4v-4h-4v4zm6-10v4h4V4h-4zm-6 4h4V4h-4v4zm6 6h4v-4h-4v4zm0 6h4v-4h-4v4z'></path>", attributeSet0);
+/// <summary>
 /// Gets the AppSettingsAlt SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AppSettingsAlt => SvgIcon.FromContent("<path d='m21.81 12.74-.82-.63v-.22l.8-.63c.16-.12.2-.34.1-.51l-.85-1.48a.395.395 0 0 0-.35-.2c-.05 0-.1.01-.15.03l-.95.38c-.08-.05-.11-.07-.19-.11l-.15-1.01a.408.408 0 0 0-.4-.36h-1.71c-.2 0-.37.15-.4.34l-.14 1.01c-.03.02-.07.03-.1.05l-.09.06-.95-.38a.401.401 0 0 0-.5.17l-.85 1.48c-.1.17-.06.39.1.51l.8.63v.23l-.8.63a.39.39 0 0 0-.1.51l.85 1.48c.07.13.21.2.35.2.05 0 .1-.01.15-.03l.95-.37c.08.05.12.07.2.11l.15 1.01c.03.2.2.34.4.34h1.71c.2 0 .37-.15.4-.34l.15-1.01c.03-.02.07-.03.1-.05l.09-.06.95.38a.401.401 0 0 0 .5-.17l.85-1.48a.39.39 0 0 0-.1-.51zM18 13.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 23V1h14v6h-2V6H7v12h10v-1h2v6H5z'></path>", attributeSet0);
@@ -625,6 +621,10 @@ public static SvgIcon AppSettingsAlt => SvgIcon.FromContent("<path d='m21.81 12.
 /// Gets the AppShortcut SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AppShortcut => SvgIcon.FromContent("<path d='M17 18H7V6h10v1h2V1H5v22h14v-6h-2zm3.38-8.38L21 11l.62-1.38L23 9l-1.38-.62L21 7l-.62 1.38L19 9z'></path><path d='m16 8-1.25 2.75L12 12l2.75 1.25L16 16l1.25-2.75L20 12l-2.75-1.25zm5 5-.62 1.38L19 15l1.38.62L21 17l.62-1.38L23 15l-1.38-.62z'></path>", attributeSet0);
+/// <summary>
+/// Gets the AppsOutage SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon AppsOutage => SvgIcon.FromContent("<path d='M4 8h4V4H4v4zm6 12h4v-4h-4v4zm-6 0h4v-4H4v4zm0-6h4v-4H4v4zm6 0h4v-4h-4v4zm6 6h4v-4h-4v4zm3-20c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm.5 8h-1V7h1v1zm0-2h-1V2h1v4zM16 14h4v-2.07c-.33.05-.66.07-1 .07-1.07 0-2.09-.24-3-.68V14zM10 4v4h2.68c-.44-.91-.68-1.93-.68-3 0-.34.02-.67.07-1H10z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Architecture SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -774,10 +774,6 @@ public static SvgIcon AssuredWorkload => SvgIcon.FromContent("<path d='M5 10h2v7
 /// </summary>
 public static SvgIcon Atm => SvgIcon.FromContent("<path d='M8 9v1.5h2.25V15h1.5v-4.5H14V9H8zM7 9H2v6h1.5v-1.5h2V15H7V9zm-1.5 3h-2v-1.5h2V12zM22 9h-6.5v6H17v-4.5h1V14h1.5v-3.51h1V15H22V9z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Attachment SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Attachment => SvgIcon.FromContent("<path d='M18.5 16H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h12.5a2.5 2.5 0 0 1 0 5H9c-.55 0-1-.45-1-1s.45-1 1-1h9.5V9.5H9a2.5 2.5 0 0 0 0 5h10.5c2.21 0 4-1.79 4-4s-1.79-4-4-4H7c-3.04 0-5.5 2.46-5.5 5.5s2.46 5.5 5.5 5.5h11.5V16z'></path>", attributeSet0);
-/// <summary>
 /// Gets the AttachEmail SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AttachEmail => SvgIcon.FromContent("<path d='M21 10V2H1v16h13v-5c0-1.66 1.34-3 3-3h4zm-10 1L3 6V4l8 5 8-5v2l-8 5z'></path><path d='M21 14v4c0 1.1-.9 2-2 2s-2-.9-2-2v-4.5c0-.28.22-.5.5-.5s.5.22.5.5V18h2v-4.5a2.5 2.5 0 0 0-5 0V18c0 2.21 1.79 4 4 4s4-1.79 4-4v-4h-2z'></path>", attributeSet0);
@@ -785,6 +781,10 @@ public static SvgIcon AttachEmail => SvgIcon.FromContent("<path d='M21 10V2H1v16
 /// Gets the AttachFile SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AttachFile => SvgIcon.FromContent("<path d='M16.5 6v11.5c0 2.21-1.79 4-4 4s-4-1.79-4-4V5a2.5 2.5 0 0 1 5 0v10.5c0 .55-.45 1-1 1s-1-.45-1-1V6H10v9.5a2.5 2.5 0 0 0 5 0V5c0-2.21-1.79-4-4-4S7 2.79 7 5v12.5c0 3.04 2.46 5.5 5.5 5.5s5.5-2.46 5.5-5.5V6h-1.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Attachment SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Attachment => SvgIcon.FromContent("<path d='M18.5 16H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h12.5a2.5 2.5 0 0 1 0 5H9c-.55 0-1-.45-1-1s.45-1 1-1h9.5V9.5H9a2.5 2.5 0 0 0 0 5h10.5c2.21 0 4-1.79 4-4s-1.79-4-4-4H7c-3.04 0-5.5 2.46-5.5 5.5s2.46 5.5 5.5 5.5h11.5V16z'></path>", attributeSet0);
 /// <summary>
 /// Gets the AttachMoney SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -798,21 +798,13 @@ public static SvgIcon Attractions => SvgIcon.FromContent("<path d='M10.44 18.75c
 /// </summary>
 public static SvgIcon Attribution => SvgIcon.FromContent("<path d='M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm-2.75-5.5h1.5V19h2.5v-4.5h1.5v-6h-5.5z'></path><circle cx='12' cy='6.5' r='1.5'></circle>", attributeSet0);
 /// <summary>
-/// Gets the Audiotrack SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Audiotrack => SvgIcon.FromContent("<path d='M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the AudioFile SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AudioFile => SvgIcon.FromContent("<path d='M14 2H4v20h16V8l-6-6zm2 11h-3v3.75c0 1.24-1.01 2.25-2.25 2.25S8.5 17.99 8.5 16.75s1.01-2.25 2.25-2.25c.46 0 .89.14 1.25.38V11h4v2zm-3-4V3.5L18.5 9H13z'></path>", attributeSet0);
 /// <summary>
-/// Gets the AutofpsSelect SvgIcon from the GoogleMaterialSharpIcon library.
+/// Gets the Audiotrack SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
-public static SvgIcon AutofpsSelect => SvgIcon.FromContent("<path d='M12.03 6.3h-.06l-1.02 2.89h2.1zM3 17h2v5H3z'></path><path d='M12 15c3.31 0 6-2.69 6-6s-2.69-6-6-6-6 2.69-6 6 2.69 6 6 6zm-.63-10h1.25l2.63 7h-1.21l-.63-1.79h-2.83L9.96 12H8.74l2.63-7zM7 17h2v5H7zm4 0h2v5h-2zm4 0h6v5h-6z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Autorenew SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Autorenew => SvgIcon.FromContent("<path d='M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8A5.87 5.87 0 0 1 6 12c0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z'></path>", attributeSet0);
+public static SvgIcon Audiotrack => SvgIcon.FromContent("<path d='M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the AutoAwesome SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -842,6 +834,10 @@ public static SvgIcon AutoFixNormal => SvgIcon.FromContent("<path d='m20 7 .94-2
 /// </summary>
 public static SvgIcon AutoFixOff => SvgIcon.FromContent("<path d='m20 7 .94-2.06L23 4l-2.06-.94L20 1l-.94 2.06L17 4l2.06.94zm-5.83 1.42 1.41 1.41-1.46 1.46 1.42 1.42 2.87-2.88-4.24-4.24-2.88 2.87 1.42 1.42zM1.39 4.22l7.07 7.07-6.87 6.88 4.24 4.24 6.88-6.87 7.07 7.07 1.41-1.42L2.81 2.81z'></path>", attributeSet0);
 /// <summary>
+/// Gets the AutofpsSelect SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon AutofpsSelect => SvgIcon.FromContent("<path d='M12.03 6.3h-.06l-1.02 2.89h2.1zM3 17h2v5H3z'></path><path d='M12 15c3.31 0 6-2.69 6-6s-2.69-6-6-6-6 2.69-6 6 2.69 6 6 6zm-.63-10h1.25l2.63 7h-1.21l-.63-1.79h-2.83L9.96 12H8.74l2.63-7zM7 17h2v5H7zm4 0h2v5h-2zm4 0h6v5h-6z'></path>", attributeSet0);
+/// <summary>
 /// Gets the AutoGraph SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AutoGraph => SvgIcon.FromContent("<path d='M14.06 9.94 12 9l2.06-.94L15 6l.94 2.06L18 9l-2.06.94L15 12l-.94-2.06zM4 14l.94-2.06L7 11l-2.06-.94L4 8l-.94 2.06L1 11l2.06.94L4 14zm4.5-5 1.09-2.41L12 5.5 9.59 4.41 8.5 2 7.41 4.41 5 5.5l2.41 1.09L8.5 9zm-4 11.5 6-6.01 4 4L23 8.93l-1.41-1.41-7.09 7.97-4-4L3 19l1.5 1.5z'></path>", attributeSet0);
@@ -849,6 +845,10 @@ public static SvgIcon AutoGraph => SvgIcon.FromContent("<path d='M14.06 9.94 12 
 /// Gets the AutoMode SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon AutoMode => SvgIcon.FromContent("<path d='M19.03 3.56c-1.67-1.39-3.74-2.3-6.03-2.51v2.01c1.73.19 3.31.88 4.61 1.92l1.42-1.42zM11 3.06V1.05c-2.29.2-4.36 1.12-6.03 2.51l1.42 1.42A8.928 8.928 0 0 1 11 3.06zM4.98 6.39 3.56 4.97C2.17 6.64 1.26 8.71 1.05 11h2.01c.19-1.73.88-3.31 1.92-4.61zM20.94 11h2.01c-.21-2.29-1.12-4.36-2.51-6.03l-1.42 1.42A8.928 8.928 0 0 1 20.94 11zM7 12l3.44 1.56L12 17l1.56-3.44L17 12l-3.44-1.56L12 7l-1.56 3.44z'></path><path d='M12 21a8.96 8.96 0 0 1-7.46-4H7v-2H1v6h2v-2.7c1.99 2.84 5.27 4.7 9 4.7 4.87 0 9-3.17 10.44-7.56l-1.96-.45C19.25 18.48 15.92 21 12 21z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Autorenew SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Autorenew => SvgIcon.FromContent("<path d='M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8A5.87 5.87 0 0 1 6 12c0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z'></path>", attributeSet0);
 /// <summary>
 /// Gets the AutoStories SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -861,6 +861,10 @@ public static SvgIcon AvTimer => SvgIcon.FromContent("<path d='M11 17c0 .55.45 1
 /// Gets the BabyChangingStation SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BabyChangingStation => SvgIcon.FromContent("<path d='M14 8v2h-3L8.31 8.82 7 12.75V22H3V12l1.58-4.63A2 2 0 0 1 6.46 6c.28 0 .56.05.84.18l4.15 1.83L14 8zM8 1c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm1 18h12v-2H9v2zm10.5-3c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zM13 13v-2H9v2h2v3h6v-5h-2v2h-2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the BackHand SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon BackHand => SvgIcon.FromContent("<path d='M2.21 10.47 5 9.36 7.25 15H8V2h2.5v10h1V0H14v12h1V1.5h2.5V12h1V4.5H21V16c0 4.42-3.58 8-8 8-3.26 0-6.19-1.99-7.4-5.02l-3.39-8.51z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Backpack SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -877,10 +881,6 @@ public static SvgIcon Backup => SvgIcon.FromContent("<path d='M19.35 10.04A7.49 
 /// Gets the BackupTable SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BackupTable => SvgIcon.FromContent("<path d='M20 6v14H6v2h16V6z'></path><path d='M18 2H2v16h16V2zM9 16H4v-5h5v5zm7 0h-5v-5h5v5zm0-7H4V4h12v5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the BackHand SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon BackHand => SvgIcon.FromContent("<path d='M2.21 10.47 5 9.36 7.25 15H8V2h2.5v10h1V0H14v12h1V1.5h2.5V12h1V4.5H21V16c0 4.42-3.58 8-8 8-3.26 0-6.19-1.99-7.4-5.02l-3.39-8.51z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Badge SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1090,10 +1090,6 @@ public static SvgIcon Book => SvgIcon.FromContent("<path d='M20 2H4v20h16V2zM6 4
 /// </summary>
 public static SvgIcon Bookmark => SvgIcon.FromContent("<path d='M19 3H5v18l7-3 7 3V3z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Bookmarks SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Bookmarks => SvgIcon.FromContent("<path d='m19 18 2 1V1H7v2h12v15zM17 5H3v18l7-3 7 3V5z'></path>", attributeSet0);
-/// <summary>
 /// Gets the BookmarkAdd SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BookmarkAdd => SvgIcon.FromContent("<path d='M21 7h-2v2h-2V7h-2V5h2V3h2v2h2v2zm-2 14-7-3-7 3V3h9a5.002 5.002 0 0 0 5 7.9V21z'></path>", attributeSet0);
@@ -1109,6 +1105,10 @@ public static SvgIcon BookmarkBorder => SvgIcon.FromContent("<path d='M19 3H5v18
 /// Gets the BookmarkRemove SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BookmarkRemove => SvgIcon.FromContent("<path d='M21 7h-6V5h6v2zm-2 3.9c-.64.13-1.32.14-2.02 0-1.91-.38-3.47-1.92-3.87-3.83A5.02 5.02 0 0 1 14 3H5v18l7-3 7 3V10.9z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Bookmarks SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Bookmarks => SvgIcon.FromContent("<path d='m19 18 2 1V1H7v2h12v15zM17 5H3v18l7-3 7 3V5z'></path>", attributeSet0);
 /// <summary>
 /// Gets the BookOnline SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1230,6 +1230,10 @@ public static SvgIcon BroadcastOnPersonal => SvgIcon.FromContent("<path d='M17 8
 /// </summary>
 public static SvgIcon BrokenImage => SvgIcon.FromContent("<path d='M21 3v8.59l-3-3.01-4 4.01-4-4-4 4-3-3.01V3h18zm-3 8.42 3 3.01V21H3v-8.58l3 2.99 4-4 4 4 4-3.99z'></path>", attributeSet0);
 /// <summary>
+/// Gets the BrowseGallery SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon BrowseGallery => SvgIcon.FromContent("<path d='M9 3a9 9 0 1 0 .001 18.001A9 9 0 0 0 9 3zm2.79 13.21L8 12.41V7h2v4.59l3.21 3.21-1.42 1.41z'></path><path d='M17.99 3.52v2.16A6.99 6.99 0 0 1 22 12c0 2.79-1.64 5.2-4.01 6.32v2.16C21.48 19.24 24 15.91 24 12s-2.52-7.24-6.01-8.48z'></path>", attributeSet0);
+/// <summary>
 /// Gets the BrowserNotSupported SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BrowserNotSupported => SvgIcon.FromContent("<path d='M19 6v10.5l2 2V4H6.5l2 2zM3.22 3.32 1.95 4.59 3 5.64V20h14.36l2.06 2.06 1.27-1.27L3.22 3.32zM15 18H5V7.64L15.36 18H15z'></path>", attributeSet0);
@@ -1237,10 +1241,6 @@ public static SvgIcon BrowserNotSupported => SvgIcon.FromContent("<path d='M19 6
 /// Gets the BrowserUpdated SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BrowserUpdated => SvgIcon.FromContent("<path d='M22 13v5h-5l1 1v2H6v-2l1-1H2V3h10v2H4v11h16v-3h2zm-7 2-5-5h4V3h2v7h4l-5 5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the BrowseGallery SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon BrowseGallery => SvgIcon.FromContent("<path d='M9 3a9 9 0 1 0 .001 18.001A9 9 0 0 0 9 3zm2.79 13.21L8 12.41V7h2v4.59l3.21 3.21-1.42 1.41z'></path><path d='M17.99 3.52v2.16A6.99 6.99 0 0 1 22 12c0 2.79-1.64 5.2-4.01 6.32v2.16C21.48 19.24 24 15.91 24 12s-2.52-7.24-6.01-8.48z'></path>", attributeSet0);
 /// <summary>
 /// Gets the BrunchDining SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1274,6 +1274,10 @@ public static SvgIcon Bungalow => SvgIcon.FromContent("<path d='M12 3 4.2 15.5l1
 /// </summary>
 public static SvgIcon BurstMode => SvgIcon.FromContent("<path d='M1 5h2v14H1V5zm4 0h2v14H5V5zm18 0H9v14h14V5zM11 17l2.5-3.15L15.29 16l2.5-3.22L21 17H11z'></path>", attributeSet0);
 /// <summary>
+/// Gets the BusAlert SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon BusAlert => SvgIcon.FromContent("<path d='M4 11V8h7.29c-.77-2.6.21-4.61.37-4.97C2.97 2.67 2 5.02 2 7v9.5c0 .95.38 1.81 1 2.44V22h3v-2h8v2h3v-3.06c.62-.63 1-1.49 1-2.44V13c-1.91 0-3.63-.76-4.89-2H4zm2.5 6c-.83 0-1.5-.67-1.5-1.5S5.67 14 6.5 14s1.5.67 1.5 1.5S7.33 17 6.5 17zm8.5-1.5c0 .83-.67 1.5-1.5 1.5s-1.5-.67-1.5-1.5.67-1.5 1.5-1.5 1.5.67 1.5 1.5z'></path><path d='M18 1c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm.5 8h-1V8h1v1zm0-2h-1V3h1v4z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Business SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Business => SvgIcon.FromContent("<path d='M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z'></path>", attributeSet0);
@@ -1281,10 +1285,6 @@ public static SvgIcon Business => SvgIcon.FromContent("<path d='M12 7V3H2v18h20V
 /// Gets the BusinessCenter SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon BusinessCenter => SvgIcon.FromContent("<path d='M10 16v-1H3.01v6H21v-6h-7v1h-4zm12-9h-6V5l-2-2h-4L8 5v2H2v7h8v-2h4v2h8V7zm-8 0h-4V5h4v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the BusAlert SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon BusAlert => SvgIcon.FromContent("<path d='M4 11V8h7.29c-.77-2.6.21-4.61.37-4.97C2.97 2.67 2 5.02 2 7v9.5c0 .95.38 1.81 1 2.44V22h3v-2h8v2h3v-3.06c.62-.63 1-1.49 1-2.44V13c-1.91 0-3.63-.76-4.89-2H4zm2.5 6c-.83 0-1.5-.67-1.5-1.5S5.67 14 6.5 14s1.5.67 1.5 1.5S7.33 17 6.5 17zm8.5-1.5c0 .83-.67 1.5-1.5 1.5s-1.5-.67-1.5-1.5.67-1.5 1.5-1.5 1.5.67 1.5 1.5z'></path><path d='M18 1c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm.5 8h-1V8h1v1zm0-2h-1V3h1v4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Cabin SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1366,10 +1366,6 @@ public static SvgIcon CallToAction => SvgIcon.FromContent("<path d='M23 3H1v18h2
 /// </summary>
 public static SvgIcon Camera => SvgIcon.FromContent("<path d='m9.4 10.5 4.77-8.26a9.984 9.984 0 0 0-8.49 2.01l3.66 6.35.06-.1zM21.54 9c-.92-2.92-3.15-5.26-6-6.34L11.88 9h9.66zm.26 1h-7.49l.29.5 4.76 8.25A9.91 9.91 0 0 0 22 12c0-.69-.07-1.35-.2-2zM8.54 12l-3.9-6.75A9.958 9.958 0 0 0 2.2 14h7.49l-1.15-2zm-6.08 3c.92 2.92 3.15 5.26 6 6.34L12.12 15H2.46zm11.27 0-3.9 6.76a9.984 9.984 0 0 0 8.49-2.01l-3.66-6.35-.93 1.6z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Cameraswitch SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Cameraswitch => SvgIcon.FromContent("<path d='M14 6h-4L9 7H6v10h12V7h-3l-1-1zm-2 8c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'></path><path d='m8.57.51 4.48 4.48V2.04c4.72.47 8.48 4.23 8.95 8.95h2C23.34 3.02 15.49-1.59 8.57.51zm2.38 21.45c-4.72-.47-8.48-4.23-8.95-8.95H0c.66 7.97 8.51 12.58 15.43 10.48l-4.48-4.48v2.95z'></path>", attributeSet0);
-/// <summary>
 /// Gets the CameraAlt SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CameraAlt => SvgIcon.FromContent("<circle cx='12' cy='12' r='3'></circle><path d='M16.83 4 15 2H9L7.17 4H2v16h20V4h-5.17zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z'></path>", attributeSet0);
@@ -1398,6 +1394,10 @@ public static SvgIcon CameraRear => SvgIcon.FromContent("<path d='M10 20H5v2h5v2
 /// </summary>
 public static SvgIcon CameraRoll => SvgIcon.FromContent("<path d='M14 5V3h-3V1H5v2H2v19h12v-2h8V5h-8zm-2 13h-2v-2h2v2zm0-9h-2V7h2v2zm4 9h-2v-2h2v2zm0-9h-2V7h2v2zm4 9h-2v-2h2v2zm0-9h-2V7h2v2z'></path>", attributeSet0);
 /// <summary>
+/// Gets the Cameraswitch SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Cameraswitch => SvgIcon.FromContent("<path d='M14 6h-4L9 7H6v10h12V7h-3l-1-1zm-2 8c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'></path><path d='m8.57.51 4.48 4.48V2.04c4.72.47 8.48 4.23 8.95 8.95h2C23.34 3.02 15.49-1.59 8.57.51zm2.38 21.45c-4.72-.47-8.48-4.23-8.95-8.95H0c.66 7.97 8.51 12.58 15.43 10.48l-4.48-4.48v2.95z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Campaign SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Campaign => SvgIcon.FromContent("<path d='M18 11v2h4v-2h-4zm-2 6.61c.96.71 2.21 1.65 3.2 2.39.4-.53.8-1.07 1.2-1.6-.99-.74-2.24-1.68-3.2-2.4-.4.54-.8 1.08-1.2 1.61zM20.4 5.6c-.4-.53-.8-1.07-1.2-1.6-.99.74-2.24 1.68-3.2 2.4.4.53.8 1.07 1.2 1.6.96-.72 2.21-1.65 3.2-2.4zM8 9H2v6h3v4h2v-4h1l5 3V6L8 9zm7.5 3c0-1.33-.58-2.53-1.5-3.35v6.69c.92-.81 1.5-2.01 1.5-3.34z'></path>", attributeSet0);
@@ -1418,6 +1418,10 @@ public static SvgIcon CancelScheduleSend => SvgIcon.FromContent("<path d='M16.5 
 /// </summary>
 public static SvgIcon CandlestickChart => SvgIcon.FromContent("<path d='M9 4H7v2H5v12h2v2h2v-2h2V6H9zm10 4h-2V4h-2v4h-2v7h2v5h2v-5h2z'></path>", attributeSet0);
 /// <summary>
+/// Gets the CarCrash SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon CarCrash => SvgIcon.FromContent("<path d='M18 1c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm.5 6h-1V3h1v4zm0 1v1h-1V8h1zm-.59 5c.06.16.09.33.09.5 0 .83-.67 1.5-1.5 1.5s-1.5-.67-1.5-1.5c0-.39.15-.74.39-1.01A7.032 7.032 0 0 1 11.68 9H5.81l1.04-3H11c0-.69.1-1.37.29-2H5.41L3 11v9h3v-2h12v2h3v-7.68c-1.05.51-2.16.69-3.09.68zM7.5 15c-.83 0-1.5-.67-1.5-1.5S6.67 12 7.5 12s1.5.67 1.5 1.5S8.33 15 7.5 15z'></path>", attributeSet0);
+/// <summary>
 /// Gets the CardGiftcard SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CardGiftcard => SvgIcon.FromContent("<path d='M22 6h-4.18c.11-.31.18-.65.18-1a2.996 2.996 0 0 0-5.5-1.65l-.5.67-.5-.68C10.96 2.54 10.05 2 9 2 7.34 2 6 3.34 6 5c0 .35.07.69.18 1H2.01v15H22V6zm-7-2c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM9 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm11 15H4v-2h16v2zm0-5H4V8h5.08L7 10.83 8.62 12 12 7.4l3.38 4.6L17 10.83 14.92 8H20v6z'></path>", attributeSet0);
@@ -1433,10 +1437,6 @@ public static SvgIcon CardTravel => SvgIcon.FromContent("<path d='M22 6h-5V4c0-1
 /// Gets the Carpenter SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Carpenter => SvgIcon.FromContent("<path d='M7 1.5 3.11 5.39l8.13 11.67-1.41 1.41 4.24 4.24 7.07-7.07L7 1.5zm5.66 16.97 4.24-4.24 1.41 1.41-4.24 4.24-1.41-1.41z'></path>", attributeSet0);
-/// <summary>
-/// Gets the CarCrash SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon CarCrash => SvgIcon.FromContent("<path d='M18 1c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm.5 6h-1V3h1v4zm0 1v1h-1V8h1zm-.59 5c.06.16.09.33.09.5 0 .83-.67 1.5-1.5 1.5s-1.5-.67-1.5-1.5c0-.39.15-.74.39-1.01A7.032 7.032 0 0 1 11.68 9H5.81l1.04-3H11c0-.69.1-1.37.29-2H5.41L3 11v9h3v-2h12v2h3v-7.68c-1.05.51-2.16.69-3.09.68zM7.5 15c-.83 0-1.5-.67-1.5-1.5S6.67 12 7.5 12s1.5.67 1.5 1.5S8.33 15 7.5 15z'></path>", attributeSet0);
 /// <summary>
 /// Gets the CarRental SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1458,10 +1458,6 @@ public static SvgIcon Casino => SvgIcon.FromContent("<path d='M21 3H3v18h18V3zM7
 /// </summary>
 public static SvgIcon Cast => SvgIcon.FromContent("<path d='M23 3H1v5h2V5h18v14h-7v2h9V3zM1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0-4v2a9 9 0 0 1 9 9h2c0-6.08-4.93-11-11-11z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Castle SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Castle => SvgIcon.FromContent("<path d='M21 9v2h-2V3h-2v2h-2V3h-2v2h-2V3H9v2H7V3H5v8H3V9H1v12h9v-5h4v5h9V9h-2zm-10 3H9V9h2v3zm4 0h-2V9h2v3z'></path>", attributeSet0);
-/// <summary>
 /// Gets the CastConnected SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CastConnected => SvgIcon.FromContent("<path d='M1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm18-7H5v1.63c3.96 1.28 7.09 4.41 8.37 8.37H19V7zM1 10v2a9 9 0 0 1 9 9h2c0-6.08-4.93-11-11-11zm22-7H1v5h2V5h18v14h-7v2h9V3z'></path>", attributeSet0);
@@ -1469,6 +1465,10 @@ public static SvgIcon CastConnected => SvgIcon.FromContent("<path d='M1 18v3h3c0
 /// Gets the CastForEducation SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CastForEducation => SvgIcon.FromContent("<path d='M23 3H1v5h2V5h18v14h-7v2h9V3zM1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0-4v2a9 9 0 0 1 9 9h2c0-6.08-4.93-11-11-11zm10 1.09v2L14.5 15l3.5-1.91v-2L14.5 13 11 11.09zM14.5 6 9 9l5.5 3L20 9l-5.5-3z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Castle SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Castle => SvgIcon.FromContent("<path d='M21 9v2h-2V3h-2v2h-2V3h-2v2h-2V3H9v2H7V3H5v8H3V9H1v12h9v-5h4v5h9V9h-2zm-10 3H9V9h2v3zm4 0h-2V9h2v3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the CatchingPokemon SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1538,18 +1538,6 @@ public static SvgIcon ChatBubbleOutline => SvgIcon.FromContent("<path d='M22 2H2
 /// </summary>
 public static SvgIcon Check => SvgIcon.FromContent("<path d='M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Checklist SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Checklist => SvgIcon.FromContent("<path d='M22 7h-9v2h9V7zm0 8h-9v2h9v-2zM5.54 11 2 7.46l1.41-1.41 2.12 2.12 4.24-4.24 1.41 1.41L5.54 11zm0 8L2 15.46l1.41-1.41 2.12 2.12 4.24-4.24 1.41 1.41L5.54 19z'></path>", attributeSet0);
-/// <summary>
-/// Gets the ChecklistRtl SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ChecklistRtl => SvgIcon.FromContent("<path d='M11 7H2v2h9V7zm0 8H2v2h9v-2zm5.34-4L12.8 7.46l1.41-1.41 2.12 2.12 4.24-4.24L22 5.34 16.34 11zm0 8-3.54-3.54 1.41-1.41 2.12 2.12 4.24-4.24L22 13.34 16.34 19z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Checkroom SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Checkroom => SvgIcon.FromContent("<path d='M21.6 18.2 13 11.75v-.91a3.496 3.496 0 0 0-.18-6.75A3.51 3.51 0 0 0 8.5 7.5h2c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5c0 .84-.69 1.52-1.53 1.5H11v2.75L2.4 18.2c-.77.58-.36 1.8.6 1.8h18c.96 0 1.37-1.22.6-1.8zM6 18l6-4.5 6 4.5H6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the CheckBox SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CheckBox => SvgIcon.FromContent("<path d='M21 3H3v18h18V3zM10 17l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z'></path>", attributeSet0);
@@ -1565,6 +1553,18 @@ public static SvgIcon CheckCircle => SvgIcon.FromContent("<path d='M12 2C6.48 2 
 /// Gets the CheckCircleOutline SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CheckCircleOutline => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm4.59-12.42L10 14.17l-2.59-2.58L6 13l4 4 8-8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Checklist SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Checklist => SvgIcon.FromContent("<path d='M22 7h-9v2h9V7zm0 8h-9v2h9v-2zM5.54 11 2 7.46l1.41-1.41 2.12 2.12 4.24-4.24 1.41 1.41L5.54 11zm0 8L2 15.46l1.41-1.41 2.12 2.12 4.24-4.24 1.41 1.41L5.54 19z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ChecklistRtl SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ChecklistRtl => SvgIcon.FromContent("<path d='M11 7H2v2h9V7zm0 8H2v2h9v-2zm5.34-4L12.8 7.46l1.41-1.41 2.12 2.12 4.24-4.24L22 5.34 16.34 11zm0 8-3.54-3.54 1.41-1.41 2.12 2.12 4.24-4.24L22 13.34 16.34 19z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Checkroom SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Checkroom => SvgIcon.FromContent("<path d='M21.6 18.2 13 11.75v-.91a3.496 3.496 0 0 0-.18-6.75A3.51 3.51 0 0 0 8.5 7.5h2c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5c0 .84-.69 1.52-1.53 1.5H11v2.75L2.4 18.2c-.77.58-.36 1.8.6 1.8h18c.96 0 1.37-1.22.6-1.8zM6 18l6-4.5 6 4.5H6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ChevronLeft SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1602,13 +1602,13 @@ public static SvgIcon CircleNotifications => SvgIcon.FromContent("<path d='M12 2
 /// </summary>
 public static SvgIcon Class => SvgIcon.FromContent("<path d='M20 2H4v20h16V2zM6 4h5v8l-2.5-1.5L6 12V4z'></path>", attributeSet0);
 /// <summary>
-/// Gets the CleaningServices SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon CleaningServices => SvgIcon.FromContent("<path d='M15 11V1H9v10H3v12h18V11h-6zm4 10h-2v-4h-2v4h-2v-4h-2v4H9v-4H7v4H5v-8h14v8z'></path>", attributeSet0);
-/// <summary>
 /// Gets the CleanHands SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CleanHands => SvgIcon.FromContent("<path d='m14.99 7 1.37-.63.63-1.37.63 1.37 1.37.63-1.37.63L16.99 9l-.63-1.37L14.99 7zM20 14c1.1 0 2-.9 2-2s-2-4-2-4-2 2.9-2 4 .9 2 2 2zM1 22h4V11H1v11zM9.24 9.5 15 11.65V11a5 5 0 0 0-4-4.9V4h2c.57 0 1.1.17 1.55.45l1.43-1.43A4.899 4.899 0 0 0 13 2H7.5v2H9v2.11c-1.78.37-3.2 1.68-3.75 3.39h3.99zM22 17h-9l-2.09-.73.33-.94L13 16h4v-2l-8.03-3H7v9.02L14 22l8-3v-2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the CleaningServices SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon CleaningServices => SvgIcon.FromContent("<path d='M15 11V1H9v10H3v12h18V11h-6zm4 10h-2v-4h-2v4h-2v-4h-2v4H9v-4H7v4H5v-8h14v8z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Clear SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1710,13 +1710,13 @@ public static SvgIcon ColorLens => SvgIcon.FromContent("<path d='M12 3a9 9 0 0 0
 /// </summary>
 public static SvgIcon Comment => SvgIcon.FromContent("<path d='M21.99 2H2v16h16l4 4-.01-20zM18 14H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the CommentsDisabled SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon CommentsDisabled => SvgIcon.FromContent("<path d='M16.83 14H18v-2h-3.17l-1-1H18V9h-6.17l-1-1H18V6H8.83l-4-4H22v17.17L16.83 14zM2.1 2.1.69 3.51 2 4.83V18h13.17l5.31 5.31 1.41-1.41L2.1 2.1zM6 9h.17l2 2H6V9zm0 5v-2h3.17l2 2H6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the CommentBank SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CommentBank => SvgIcon.FromContent("<path d='M2 2v20l4-4h16V2H2zm17 11-2.5-1.5L14 13V5h5v8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the CommentsDisabled SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon CommentsDisabled => SvgIcon.FromContent("<path d='M16.83 14H18v-2h-3.17l-1-1H18V9h-6.17l-1-1H18V6H8.83l-4-4H22v17.17L16.83 14zM2.1 2.1.69 3.51 2 4.83V18h13.17l5.31 5.31 1.41-1.41L2.1 2.1zM6 9h.17l2 2H6V9zm0 5v-2h3.17l2 2H6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Commit SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1770,17 +1770,13 @@ public static SvgIcon ConnectWithoutContact => SvgIcon.FromContent("<path d='M11
 /// </summary>
 public static SvgIcon Construction => SvgIcon.FromContent("<path d='m13.783 15.172 2.121-2.121 5.996 5.996-2.121 2.121zM17.5 10c1.93 0 3.5-1.57 3.5-3.5 0-.58-.16-1.12-.41-1.6l-2.7 2.7-1.49-1.49 2.7-2.7c-.48-.25-1.02-.41-1.6-.41C15.57 3 14 4.57 14 6.5c0 .41.08.8.21 1.16l-1.85 1.85-1.78-1.78.71-.71-1.41-1.41L12 3.49a3 3 0 0 0-4.24 0L4.22 7.03l1.41 1.41H2.81l-.71.71 3.54 3.54.71-.71V9.15l1.41 1.41.71-.71 1.78 1.78-7.41 7.41 2.12 2.12L16.34 9.79c.36.13.75.21 1.16.21z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Contactless SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Contactless => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM8.46 14.45l-1.36-.62c.28-.61.41-1.24.4-1.86a4.42 4.42 0 0 0-.4-1.8l1.36-.63c.35.75.53 1.56.54 2.4.01.86-.17 1.7-.54 2.51zm3.07 1.56-1.3-.74c.52-.92.78-1.98.78-3.15 0-1.19-.27-2.33-.8-3.4l1.34-.67c.64 1.28.96 2.65.96 4.07 0 1.43-.33 2.74-.98 3.89zm3.14 1.32-1.35-.66c.78-1.6 1.18-3.18 1.18-4.69 0-1.51-.4-3.07-1.18-4.64l1.34-.67c.9 1.78 1.34 3.56 1.34 5.31 0 1.74-.44 3.54-1.33 5.35z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Contacts SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Contacts => SvgIcon.FromContent("<path d='M20 0H4v2h16V0zM4 24h16v-2H4v2zM22 4H2v16h20V4zM12 6.75c1.24 0 2.25 1.01 2.25 2.25s-1.01 2.25-2.25 2.25S9.75 10.24 9.75 9 10.76 6.75 12 6.75zM17 17H7v-1.5c0-1.67 3.33-2.5 5-2.5s5 .83 5 2.5V17z'></path>", attributeSet0);
-/// <summary>
 /// Gets the ContactEmergency SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ContactEmergency => SvgIcon.FromContent("<path d='M23.99 3H0v18h23.99V3zM9 8c1.65 0 3 1.35 3 3s-1.35 3-3 3-3-1.35-3-3 1.35-3 3-3zM2.08 19c1.38-2.39 3.96-4 6.92-4s5.54 1.61 6.92 4H2.08zm18.89-9.15-.75 1.3-1.47-.85V12h-1.5v-1.7l-1.47.85-.75-1.3L16.5 9l-1.47-.85.75-1.3 1.47.85V6h1.5v1.7l1.47-.85.75 1.3L19.5 9l1.47.85z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Contactless SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Contactless => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM8.46 14.45l-1.36-.62c.28-.61.41-1.24.4-1.86a4.42 4.42 0 0 0-.4-1.8l1.36-.63c.35.75.53 1.56.54 2.4.01.86-.17 1.7-.54 2.51zm3.07 1.56-1.3-.74c.52-.92.78-1.98.78-3.15 0-1.19-.27-2.33-.8-3.4l1.34-.67c.64 1.28.96 2.65.96 4.07 0 1.43-.33 2.74-.98 3.89zm3.14 1.32-1.35-.66c.78-1.6 1.18-3.18 1.18-4.69 0-1.51-.4-3.07-1.18-4.64l1.34-.67c.9 1.78 1.34 3.56 1.34 5.31 0 1.74-.44 3.54-1.33 5.35z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ContactMail SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1793,6 +1789,10 @@ public static SvgIcon ContactPage => SvgIcon.FromContent("<path d='M14 2H4v20h16
 /// Gets the ContactPhone SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ContactPhone => SvgIcon.FromContent("<path d='M23.99 3H0v18h24l-.01-18zM8 6c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm6 12H2v-1c0-2 4-3.1 6-3.1s6 1.1 6 3.1v1zm3.85-4h1.64L21 16l-1.99 1.99A7.512 7.512 0 0 1 16.28 14c-.18-.64-.28-1.31-.28-2s.1-1.36.28-2a7.474 7.474 0 0 1 2.73-3.99L21 8l-1.51 2h-1.64c-.22.63-.35 1.3-.35 2s.13 1.37.35 2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Contacts SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Contacts => SvgIcon.FromContent("<path d='M20 0H4v2h16V0zM4 24h16v-2H4v2zM22 4H2v16h20V4zM12 6.75c1.24 0 2.25 1.01 2.25 2.25s-1.01 2.25-2.25 2.25S9.75 10.24 9.75 9 10.76 6.75 12 6.75zM17 17H7v-1.5c0-1.67 3.33-2.5 5-2.5s5 .83 5 2.5V17z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ContactSupport SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1842,13 +1842,17 @@ public static SvgIcon ControlPointDuplicate => SvgIcon.FromContent("<path d='M16
 /// </summary>
 public static SvgIcon Cookie => SvgIcon.FromContent("<path d='M21.95 10.99c-1.79-.03-3.7-1.95-2.68-4.22-2.98 1-5.77-1.59-5.19-4.56C6.95.71 2 6.58 2 12c0 5.52 4.48 10 10 10 5.89 0 10.54-5.08 9.95-11.01zM8.5 15c-.83 0-1.5-.67-1.5-1.5S7.67 12 8.5 12s1.5.67 1.5 1.5S9.33 15 8.5 15zm2-5C9.67 10 9 9.33 9 8.5S9.67 7 10.5 7s1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4.5 6c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Copyright SvgIcon from the GoogleMaterialSharpIcon library.
+/// Gets the CoPresent SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
-public static SvgIcon Copyright => SvgIcon.FromContent("<path d='M10.08 10.86c.05-.33.16-.62.3-.87s.34-.46.59-.62c.24-.15.54-.22.91-.23.23.01.44.05.63.13.2.09.38.21.52.36s.25.33.34.53.13.42.14.64h1.79c-.02-.47-.11-.9-.28-1.29s-.4-.73-.7-1.01-.66-.5-1.08-.66-.88-.23-1.39-.23c-.65 0-1.22.11-1.7.34s-.88.53-1.2.92-.56.84-.71 1.36S8 11.29 8 11.87v.27c0 .58.08 1.12.23 1.64s.39.97.71 1.35.72.69 1.2.91c.48.22 1.05.34 1.7.34.47 0 .91-.08 1.32-.23s.77-.36 1.08-.63.56-.58.74-.94.29-.74.3-1.15h-1.79c-.01.21-.06.4-.15.58s-.21.33-.36.46-.32.23-.52.3c-.19.07-.39.09-.6.1-.36-.01-.66-.08-.89-.23-.25-.16-.45-.37-.59-.62s-.25-.55-.3-.88-.08-.67-.08-1v-.27c0-.35.03-.68.08-1.01zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z'></path>", attributeSet0);
+public static SvgIcon CoPresent => SvgIcon.FromContent("<path d='M23 3H1v10h2V5h18v16h2z'></path><circle cx='9' cy='10' r='4'></circle><path d='M15.39 16.56C13.71 15.7 11.53 15 9 15s-4.71.7-6.39 1.56A2.97 2.97 0 0 0 1 19.22V22h16v-2.78c0-1.12-.61-2.15-1.61-2.66z'></path>", attributeSet0);
 /// <summary>
 /// Gets the CopyAll SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon CopyAll => SvgIcon.FromContent("<path d='M20 2H7v16h13V2zm-2 14H9V4h9v12zM3 15v-2h2v2H3zm0-5.5h2v2H3v-2zM10 20h2v2h-2v-2zm-7-1.5v-2h2v2H3zM5 22H3v-2h2v2zm3.5 0h-2v-2h2v2zm7 0h-2v-2h2v2zM3 6h2v2H3V6z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Copyright SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Copyright => SvgIcon.FromContent("<path d='M10.08 10.86c.05-.33.16-.62.3-.87s.34-.46.59-.62c.24-.15.54-.22.91-.23.23.01.44.05.63.13.2.09.38.21.52.36s.25.33.34.53.13.42.14.64h1.79c-.02-.47-.11-.9-.28-1.29s-.4-.73-.7-1.01-.66-.5-1.08-.66-.88-.23-1.39-.23c-.65 0-1.22.11-1.7.34s-.88.53-1.2.92-.56.84-.71 1.36S8 11.29 8 11.87v.27c0 .58.08 1.12.23 1.64s.39.97.71 1.35.72.69 1.2.91c.48.22 1.05.34 1.7.34.47 0 .91-.08 1.32-.23s.77-.36 1.08-.63.56-.58.74-.94.29-.74.3-1.15h-1.79c-.01.21-.06.4-.15.58s-.21.33-.36.46-.32.23-.52.3c-.19.07-.39.09-.6.1-.36-.01-.66-.08-.89-.23-.25-.16-.45-.37-.59-.62s-.25-.55-.3-.88-.08-.67-.08-1v-.27c0-.35.03-.68.08-1.01zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Coronavirus SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -1865,10 +1869,6 @@ public static SvgIcon Cottage => SvgIcon.FromContent("<path d='M12 3 6 7.58V6H4v
 /// Gets the Countertops SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Countertops => SvgIcon.FromContent("<path d='M18 10V7c0-1.66-1.34-3-3-3s-3 1.34-3 3h2c0-.55.45-1 1-1s1 .45 1 1v3H8c1.1 0 2-.9 2-2V4H4v4c0 1.1.9 2 2 2H2v2h2v8h16v-8h2v-2h-4zm-5 8h-2v-6h2v6z'></path>", attributeSet0);
-/// <summary>
-/// Gets the CoPresent SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon CoPresent => SvgIcon.FromContent("<path d='M23 3H1v10h2V5h18v16h2z'></path><circle cx='9' cy='10' r='4'></circle><path d='M15.39 16.56C13.71 15.7 11.53 15 9 15s-4.71.7-6.39 1.56A2.97 2.97 0 0 0 1 19.22V22h16v-2.78c0-1.12-.61-2.15-1.61-2.66z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Create SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -2018,14 +2018,6 @@ public static SvgIcon Dashboard => SvgIcon.FromContent("<path d='M3 13h8V3H3v10z
 /// </summary>
 public static SvgIcon DashboardCustomize => SvgIcon.FromContent("<path d='M3 3h8v8H3V3zm10 0h8v8h-8V3zM3 13h8v8H3v-8zm15 0h-2v3h-3v2h3v3h2v-3h3v-2h-3v-3z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Dataset SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Dataset => SvgIcon.FromContent("<path d='M21 3H3v18h18V3zM11 17H7v-4h4v4zm0-6H7V7h4v4zm6 6h-4v-4h4v4zm0-6h-4V7h4v4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DatasetLinked SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DatasetLinked => SvgIcon.FromContent("<path d='M8.09 17H7v-4h3.69c.95-.63 2.09-1 3.31-1h6c.34 0 .67.04 1 .09V3H3v18h5.81C8.3 20.12 8 19.09 8 18c0-.34.04-.67.09-1zM13 7h4v4h-4V7zM7 7h4v4H7V7z'></path><path d='M12 18c0-1.1.9-2 2-2h2v-2h-2c-2.21 0-4 1.79-4 4s1.79 4 4 4h2v-2h-2c-1.1 0-2-.9-2-2zm8-4h-2v2h2c1.1 0 2 .9 2 2s-.9 2-2 2h-2v2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z'></path><path d='M14 17h6v2h-6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the DataArray SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon DataArray => SvgIcon.FromContent("<path d='M15 4v2h3v12h-3v2h5V4zM4 20h5v-2H6V6h3V4H4z'></path>", attributeSet0);
@@ -2045,6 +2037,14 @@ public static SvgIcon DataSaverOff => SvgIcon.FromContent("<path d='M13 2.05v3.0
 /// Gets the DataSaverOn SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon DataSaverOn => SvgIcon.FromContent("<path d='M11 8v3H8v2h3v3h2v-3h3v-2h-3V8h-2zm2-5.95v3.03c3.39.49 6 3.39 6 6.92 0 .9-.18 1.75-.48 2.54l2.6 1.53c.56-1.24.88-2.62.88-4.07 0-5.18-3.95-9.45-9-9.95zM12 19c-3.87 0-7-3.13-7-7 0-3.53 2.61-6.43 6-6.92V2.05c-5.06.5-9 4.76-9 9.95 0 5.52 4.47 10 9.99 10 3.31 0 6.24-1.61 8.06-4.09l-2.6-1.53A6.95 6.95 0 0 1 12 19z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Dataset SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Dataset => SvgIcon.FromContent("<path d='M21 3H3v18h18V3zM11 17H7v-4h4v4zm0-6H7V7h4v4zm6 6h-4v-4h4v4zm0-6h-4V7h4v4z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DatasetLinked SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DatasetLinked => SvgIcon.FromContent("<path d='M8.09 17H7v-4h3.69c.95-.63 2.09-1 3.31-1h6c.34 0 .67.04 1 .09V3H3v18h5.81C8.3 20.12 8 19.09 8 18c0-.34.04-.67.09-1zM13 7h4v4h-4V7zM7 7h4v4H7V7z'></path><path d='M12 18c0-1.1.9-2 2-2h2v-2h-2c-2.21 0-4 1.79-4 4s1.79 4 4 4h2v-2h-2c-1.1 0-2-.9-2-2zm8-4h-2v2h2c1.1 0 2 .9 2 2s-.9 2-2 2h-2v2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z'></path><path d='M14 17h6v2h-6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the DataThresholding SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -2150,6 +2150,10 @@ public static SvgIcon DeveloperBoardOff => SvgIcon.FromContent("<path d='M7.83 5
 /// </summary>
 public static SvgIcon DeveloperMode => SvgIcon.FromContent("<path d='M7 5h10v2h2V1.01L5 1v6h2V5zm8.41 11.59L20 12l-4.59-4.59L14 8.83 17.17 12 14 15.17l1.41 1.42zM10 15.17 6.83 12 10 8.83 8.59 7.41 4 12l4.59 4.59L10 15.17zM17 19H7v-2H5v6h14v-6h-2v2z'></path>", attributeSet0);
 /// <summary>
+/// Gets the DeviceHub SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DeviceHub => SvgIcon.FromContent("<path d='m17 16-4-4V8.82C14.16 8.4 15 7.3 15 6c0-1.66-1.34-3-3-3S9 4.34 9 6c0 1.3.84 2.4 2 2.82V12l-4 4H3v5h5v-3.05l4-4.2 4 4.2V21h5v-5h-4z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Devices SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Devices => SvgIcon.FromContent("<path d='M4 6h18V4H2v13H0v3h14v-3H4V6zm20 2h-8v12h8V8zm-2 9h-4v-7h4v7z'></path>", attributeSet0);
@@ -2161,10 +2165,6 @@ public static SvgIcon DevicesFold => SvgIcon.FromContent("<path d='M17 3V-.03l-7
 /// Gets the DevicesOther SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon DevicesOther => SvgIcon.FromContent("<path d='M3 6h18V4H1v16h6v-2H3V6zm10 6H9v1.78c-.61.55-1 1.33-1 2.22 0 .89.39 1.67 1 2.22V20h4v-1.78c.61-.55 1-1.34 1-2.22s-.39-1.67-1-2.22V12zm-2 5.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM23 8h-8v12h8V8zm-2 10h-4v-8h4v8z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DeviceHub SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DeviceHub => SvgIcon.FromContent("<path d='m17 16-4-4V8.82C14.16 8.4 15 7.3 15 6c0-1.66-1.34-3-3-3S9 4.34 9 6c0 1.3.84 2.4 2 2.82V12l-4 4H3v5h5v-3.05l4-4.2 4 4.2V21h5v-5h-4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the DeviceThermostat SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -2278,13 +2278,13 @@ public static SvgIcon DisabledByDefault => SvgIcon.FromContent("<path d='M3 3v18
 /// </summary>
 public static SvgIcon DisabledVisible => SvgIcon.FromContent("<path d='M21.99 12.34c.01-.11.01-.23.01-.34 0-5.52-4.48-10-10-10S2 6.48 2 12c0 5.17 3.93 9.43 8.96 9.95a9.343 9.343 0 0 1-2.32-2.68A8.01 8.01 0 0 1 4 12c0-1.85.63-3.55 1.69-4.9l5.66 5.66c.56-.4 1.17-.73 1.82-1L7.1 5.69A7.902 7.902 0 0 1 12 4c4.24 0 7.7 3.29 7.98 7.45.71.22 1.39.52 2.01.89zM17 13c-3.18 0-5.9 1.87-7 4.5 1.1 2.63 3.82 4.5 7 4.5s5.9-1.87 7-4.5c-1.1-2.63-3.82-4.5-7-4.5zm0 7a2.5 2.5 0 0 1 0-5 2.5 2.5 0 0 1 0 5zm1.5-2.5c0 .83-.67 1.5-1.5 1.5s-1.5-.67-1.5-1.5.67-1.5 1.5-1.5 1.5.67 1.5 1.5z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Discount SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Discount => SvgIcon.FromContent("<path d='M12.79 21 3 11.21v2.83l9.79 9.79 9.04-9.04-1.42-1.41z'></path><path d='m3 9.04 9.79 9.79 9.04-9.04L12.04 0H3v9.04zM7.25 3a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z'></path>", attributeSet0);
-/// <summary>
 /// Gets the DiscFull SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon DiscFull => SvgIcon.FromContent("<path d='M20 16h2v-2h-2v2zm0-9v5h2V7h-2zM10 4c-4.42 0-8 3.58-8 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm0 10c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Discount SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Discount => SvgIcon.FromContent("<path d='M12.79 21 3 11.21v2.83l9.79 9.79 9.04-9.04-1.42-1.41z'></path><path d='m3 9.04 9.79 9.79 9.04-9.04L12.04 0H3v9.04zM7.25 3a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z'></path>", attributeSet0);
 /// <summary>
 /// Gets the DisplaySettings SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -2314,6 +2314,22 @@ public static SvgIcon Dock => SvgIcon.FromContent("<path d='M8 23h8v-2H8v2zM18 1
 /// </summary>
 public static SvgIcon DocumentScanner => SvgIcon.FromContent("<path d='M7 3H4v3H2V1h5v2zm15 3V1h-5v2h3v3h2zM7 21H4v-3H2v5h5v-2zm13-3v3h-3v2h5v-5h-2zM19 4v16H5V4h14zm-4 4H9v2h6V8zm0 3H9v2h6v-2zm0 3H9v2h6v-2z'></path>", attributeSet0);
 /// <summary>
+/// Gets the DoDisturb SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoDisturb => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8 0-1.85.63-3.55 1.69-4.9L16.9 18.31A7.902 7.902 0 0 1 12 20zm6.31-3.1L7.1 5.69A7.902 7.902 0 0 1 12 4c4.42 0 8 3.58 8 8 0 1.85-.63 3.55-1.69 4.9z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoDisturbAlt SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoDisturbAlt => SvgIcon.FromContent("<path d='M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoDisturbOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoDisturbOff => SvgIcon.FromContent("<path d='M17 11v2h-.88l4.33 4.33A9.9 9.9 0 0 0 22 12c0-5.52-4.48-10-10-10a9.9 9.9 0 0 0-5.33 1.55L14.12 11H17zM2.41 2.13 1 3.54l2.78 2.78A9.92 9.92 0 0 0 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78L20.46 23l1.41-1.41L2.41 2.13zM7 13v-2h1.46l2 2H7z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoDisturbOn SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoDisturbOn => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Domain SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Domain => SvgIcon.FromContent("<path d='M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z'></path>", attributeSet0);
@@ -2342,70 +2358,6 @@ public static SvgIcon DoneAll => SvgIcon.FromContent("<path d='m18 7-1.41-1.41-6
 /// </summary>
 public static SvgIcon DoneOutline => SvgIcon.FromContent("<path d='m19.77 4.93 1.4 1.4L8.43 19.07l-5.6-5.6 1.4-1.4 4.2 4.2L19.77 4.93m0-2.83L8.43 13.44l-4.2-4.2L0 13.47l8.43 8.43L24 6.33 19.77 2.1z'></path>", attributeSet0);
 /// <summary>
-/// Gets the DonutLarge SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DonutLarge => SvgIcon.FromContent("<path d='M13 5.08A7 7 0 0 1 18.92 11h3.03c-.47-4.72-4.23-8.48-8.95-8.95v3.03zM18.92 13A7 7 0 0 1 13 18.92v3.03c4.72-.47 8.48-4.23 8.95-8.95h-3.03zM11 18.92c-3.39-.49-6-3.4-6-6.92s2.61-6.43 6-6.92V2.05c-5.05.5-9 4.76-9 9.95 0 5.19 3.95 9.45 9 9.95v-3.03z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DonutSmall SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DonutSmall => SvgIcon.FromContent("<path d='M13 9.18c.85.3 1.51.97 1.82 1.82h7.13c-.47-4.72-4.23-8.48-8.95-8.95v7.13zm-2 5.64C9.84 14.4 9 13.3 9 12c0-1.3.84-2.4 2-2.82V2.05c-5.05.5-9 4.76-9 9.95 0 5.19 3.95 9.45 9 9.95v-7.13zM14.82 13c-.3.85-.97 1.51-1.82 1.82v7.13c4.72-.47 8.48-4.23 8.95-8.95h-7.13z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Doorbell SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Doorbell => SvgIcon.FromContent("<path d='M12 3 4 9v12h16V9l-8-6zm0 14.5c-.55 0-1-.45-1-1h2c0 .55-.45 1-1 1zm4-1.5H8v-1h1v-2.34c0-1.54.82-2.82 2.25-3.16v-1h1.5v1c1.44.34 2.25 1.62 2.25 3.16V15h1v1z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoorBack SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoorBack => SvgIcon.FromContent("<path d='M19 19V3H5v16H3v2h18v-2h-2zm-8-6H9v-2h2v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoorFront SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoorFront => SvgIcon.FromContent("<path d='M19 19V3H5v16H3v2h18v-2h-2zm-4-6h-2v-2h2v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoorSliding SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoorSliding => SvgIcon.FromContent("<path d='M20 19V3h-7.25v16h-1.5V3H4v16H3v2h18v-2h-1zm-10-6H8v-2h2v2zm6 0h-2v-2h2v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoubleArrow SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoubleArrow => SvgIcon.FromContent("<path d='M15.5 5H11l5 7-5 7h4.5l5-7z'></path><path d='M8.5 5H4l5 7-5 7h4.5l5-7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DownhillSkiing SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DownhillSkiing => SvgIcon.FromContent("<path d='M18.5 4.5c0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2 2 .9 2 2zm-2.72 16.4.76.27a5.933 5.933 0 0 0 4.34-.17L22 22.13c-1.05.55-2.24.87-3.5.87-.86 0-1.68-.14-2.45-.41L2 17.47l.5-1.41 6.9 2.51 1.72-4.44-3.57-3.73c-.89-.94-.67-2.47.45-3.12l3.48-2.01c1.1-.64 2.52-.1 2.91 1.11l.33 1.08a5.017 5.017 0 0 0 2.83 3.14l.52-1.6 1.43.46-1.12 3.45A7.029 7.029 0 0 1 13 8.59l-2.53 1.45 3.03 3.46-2.22 5.76 3.09 1.12 2.1-6.44c.46.18.94.31 1.44.41l-2.13 6.55z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Download SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Download => SvgIcon.FromContent("<path d='M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Downloading SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Downloading => SvgIcon.FromContent("<path d='M18.32 4.26A9.949 9.949 0 0 0 13 2.05v2.02c1.46.18 2.79.76 3.9 1.62l1.42-1.43zM19.93 11h2.02c-.2-2.01-1-3.84-2.21-5.32L18.31 7.1a7.941 7.941 0 0 1 1.62 3.9zm-1.62 5.9 1.43 1.43a9.981 9.981 0 0 0 2.21-5.32h-2.02a7.945 7.945 0 0 1-1.62 3.89zM13 19.93v2.02c2.01-.2 3.84-1 5.32-2.21l-1.43-1.43c-1.1.86-2.43 1.44-3.89 1.62zM13 12V7h-2v5H7l5 5 5-5h-4zm-2 7.93v2.02c-5.05-.5-9-4.76-9-9.95s3.95-9.45 9-9.95v2.02C7.05 4.56 4 7.92 4 12s3.05 7.44 7 7.93z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DownloadDone SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DownloadDone => SvgIcon.FromContent("<path d='M5 18h14v2H5v-2zm4.6-2.7L5 10.7l2-1.9 2.6 2.6L17 4l2 2-9.4 9.3z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DownloadForOffline SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DownloadForOffline => SvgIcon.FromContent("<path d='M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2zm-1 8V6h2v4h3l-4 4-4-4h3zm6 7H7v-2h10v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoDisturb SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoDisturb => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8 0-1.85.63-3.55 1.69-4.9L16.9 18.31A7.902 7.902 0 0 1 12 20zm6.31-3.1L7.1 5.69A7.902 7.902 0 0 1 12 4c4.42 0 8 3.58 8 8 0 1.85-.63 3.55-1.69 4.9z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoDisturbAlt SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoDisturbAlt => SvgIcon.FromContent("<path d='M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoDisturbOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoDisturbOff => SvgIcon.FromContent("<path d='M17 11v2h-.88l4.33 4.33A9.9 9.9 0 0 0 22 12c0-5.52-4.48-10-10-10a9.9 9.9 0 0 0-5.33 1.55L14.12 11H17zM2.41 2.13 1 3.54l2.78 2.78A9.92 9.92 0 0 0 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78L20.46 23l1.41-1.41L2.41 2.13zM7 13v-2h1.46l2 2H7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the DoDisturbOn SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon DoDisturbOn => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z'></path>", attributeSet0);
-/// <summary>
 /// Gets the DoNotDisturb SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon DoNotDisturb => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8 0-1.85.63-3.55 1.69-4.9L16.9 18.31A7.902 7.902 0 0 1 12 20zm6.31-3.1L7.1 5.69A7.902 7.902 0 0 1 12 4c4.42 0 8 3.58 8 8 0 1.85-.63 3.55-1.69 4.9z'></path>", attributeSet0);
@@ -2433,6 +2385,54 @@ public static SvgIcon DoNotStep => SvgIcon.FromContent("<path d='m1.39 4.22 8.24
 /// Gets the DoNotTouch SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon DoNotTouch => SvgIcon.FromContent("<path d='m13 10.17-2.5-2.5V1H13v9.17zM20 4h-2.5v7h-1V2H14v9.17l6 6V4zM9.5 3H7.01v1.18L9.5 6.67V3zm11.69 18.19L2.81 2.81 1.39 4.22 7 9.83v4.3l-3.32-1.9L2 13.88 9.68 22h9.54l.56.61 1.41-1.42z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DonutLarge SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DonutLarge => SvgIcon.FromContent("<path d='M13 5.08A7 7 0 0 1 18.92 11h3.03c-.47-4.72-4.23-8.48-8.95-8.95v3.03zM18.92 13A7 7 0 0 1 13 18.92v3.03c4.72-.47 8.48-4.23 8.95-8.95h-3.03zM11 18.92c-3.39-.49-6-3.4-6-6.92s2.61-6.43 6-6.92V2.05c-5.05.5-9 4.76-9 9.95 0 5.19 3.95 9.45 9 9.95v-3.03z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DonutSmall SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DonutSmall => SvgIcon.FromContent("<path d='M13 9.18c.85.3 1.51.97 1.82 1.82h7.13c-.47-4.72-4.23-8.48-8.95-8.95v7.13zm-2 5.64C9.84 14.4 9 13.3 9 12c0-1.3.84-2.4 2-2.82V2.05c-5.05.5-9 4.76-9 9.95 0 5.19 3.95 9.45 9 9.95v-7.13zM14.82 13c-.3.85-.97 1.51-1.82 1.82v7.13c4.72-.47 8.48-4.23 8.95-8.95h-7.13z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoorBack SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoorBack => SvgIcon.FromContent("<path d='M19 19V3H5v16H3v2h18v-2h-2zm-8-6H9v-2h2v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Doorbell SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Doorbell => SvgIcon.FromContent("<path d='M12 3 4 9v12h16V9l-8-6zm0 14.5c-.55 0-1-.45-1-1h2c0 .55-.45 1-1 1zm4-1.5H8v-1h1v-2.34c0-1.54.82-2.82 2.25-3.16v-1h1.5v1c1.44.34 2.25 1.62 2.25 3.16V15h1v1z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoorFront SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoorFront => SvgIcon.FromContent("<path d='M19 19V3H5v16H3v2h18v-2h-2zm-4-6h-2v-2h2v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoorSliding SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoorSliding => SvgIcon.FromContent("<path d='M20 19V3h-7.25v16h-1.5V3H4v16H3v2h18v-2h-1zm-10-6H8v-2h2v2zm6 0h-2v-2h2v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DoubleArrow SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DoubleArrow => SvgIcon.FromContent("<path d='M15.5 5H11l5 7-5 7h4.5l5-7z'></path><path d='M8.5 5H4l5 7-5 7h4.5l5-7z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DownhillSkiing SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DownhillSkiing => SvgIcon.FromContent("<path d='M18.5 4.5c0 1.1-.9 2-2 2s-2-.9-2-2 .9-2 2-2 2 .9 2 2zm-2.72 16.4.76.27a5.933 5.933 0 0 0 4.34-.17L22 22.13c-1.05.55-2.24.87-3.5.87-.86 0-1.68-.14-2.45-.41L2 17.47l.5-1.41 6.9 2.51 1.72-4.44-3.57-3.73c-.89-.94-.67-2.47.45-3.12l3.48-2.01c1.1-.64 2.52-.1 2.91 1.11l.33 1.08a5.017 5.017 0 0 0 2.83 3.14l.52-1.6 1.43.46-1.12 3.45A7.029 7.029 0 0 1 13 8.59l-2.53 1.45 3.03 3.46-2.22 5.76 3.09 1.12 2.1-6.44c.46.18.94.31 1.44.41l-2.13 6.55z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Download SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Download => SvgIcon.FromContent("<path d='M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DownloadDone SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DownloadDone => SvgIcon.FromContent("<path d='M5 18h14v2H5v-2zm4.6-2.7L5 10.7l2-1.9 2.6 2.6L17 4l2 2-9.4 9.3z'></path>", attributeSet0);
+/// <summary>
+/// Gets the DownloadForOffline SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon DownloadForOffline => SvgIcon.FromContent("<path d='M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2zm-1 8V6h2v4h3l-4 4-4-4h3zm6 7H7v-2h10v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Downloading SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Downloading => SvgIcon.FromContent("<path d='M18.32 4.26A9.949 9.949 0 0 0 13 2.05v2.02c1.46.18 2.79.76 3.9 1.62l1.42-1.43zM19.93 11h2.02c-.2-2.01-1-3.84-2.21-5.32L18.31 7.1a7.941 7.941 0 0 1 1.62 3.9zm-1.62 5.9 1.43 1.43a9.981 9.981 0 0 0 2.21-5.32h-2.02a7.945 7.945 0 0 1-1.62 3.89zM13 19.93v2.02c2.01-.2 3.84-1 5.32-2.21l-1.43-1.43c-1.1.86-2.43 1.44-3.89 1.62zM13 12V7h-2v5H7l5 5 5-5h-4zm-2 7.93v2.02c-5.05-.5-9-4.76-9-9.95s3.95-9.45 9-9.95v2.02C7.05 4.56 4 7.92 4 12s3.05 7.44 7 7.93z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Drafts SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -2622,6 +2622,10 @@ public static SvgIcon EmergencyRecording => SvgIcon.FromContent("<path d='M18 10
 /// </summary>
 public static SvgIcon EmergencyShare => SvgIcon.FromContent("<path d='M12 9c-3.15 0-6 2.41-6 6.15 0 2.49 2 5.44 6 8.85 4-3.41 6-6.36 6-8.85C18 11.41 15.15 9 12 9zm0 7.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM12 4c1.93 0 3.68.78 4.95 2.05l-1.41 1.41a5.022 5.022 0 0 0-7.08 0L7.05 6.05A6.976 6.976 0 0 1 12 4zm7.78-.77-1.41 1.41C16.74 3.01 14.49 2 12.01 2S7.27 3.01 5.64 4.63L4.22 3.22C6.22 1.23 8.97 0 12.01 0s5.78 1.23 7.77 3.23z'></path>", attributeSet0);
 /// <summary>
+/// Gets the EMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon EMobiledata => SvgIcon.FromContent("<path d='M16 9V7H8v10h8v-2h-6v-2h6v-2h-6V9h6z'></path>", attributeSet0);
+/// <summary>
 /// Gets the EmojiEmotions SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon EmojiEmotions => SvgIcon.FromContent("<path d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM8.5 8c.83 0 1.5.67 1.5 1.5S9.33 11 8.5 11 7 10.33 7 9.5 7.67 8 8.5 8zM12 18c-2.28 0-4.22-1.66-5-4h10c-.78 2.34-2.72 4-5 4zm3.5-7c-.83 0-1.5-.67-1.5-1.5S14.67 8 15.5 8s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z'></path>", attributeSet0);
@@ -2786,10 +2790,6 @@ public static SvgIcon Extension => SvgIcon.FromContent("<path d='M20.36 11H19V5h
 /// </summary>
 public static SvgIcon ExtensionOff => SvgIcon.FromContent("<path d='m19.78 22.61-1.63-1.63c-.05 0-.1.02-.15.02h-3.8c0-2.71-2.16-3-2.7-3s-2.7.29-2.7 3H3v-5.8c2.71 0 3-2.16 3-2.7s-.3-2.7-2.99-2.7V6c0-.05.02-.09.02-.14L1.39 4.22 2.8 2.81l18.38 18.38-1.4 1.42zm.22-5.44V15a2.5 2.5 0 0 0 0-5V4h-6a2.5 2.5 0 0 0-5 0H6.83L20 17.17z'></path>", attributeSet0);
 /// <summary>
-/// Gets the EMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon EMobiledata => SvgIcon.FromContent("<path d='M16 9V7H8v10h8v-2h-6v-2h6v-2h-6V9h6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the Face SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Face => SvgIcon.FromContent("<path d='M9 11.75a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5zm6 0a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37a9.974 9.974 0 0 0 10.41 3.97c.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z'></path>", attributeSet0);
@@ -2822,13 +2822,13 @@ public static SvgIcon FaceRetouchingNatural => SvgIcon.FromContent("<circle cx='
 /// </summary>
 public static SvgIcon FaceRetouchingOff => SvgIcon.FromContent("<circle cx='9' cy='13' r='1.25'></circle><path d='M17.5 10c.75 0 1.47-.09 2.17-.24.21.71.33 1.46.33 2.24 0 1.22-.28 2.37-.77 3.4l1.49 1.49A9.981 9.981 0 0 0 22 12c0-5.52-4.48-10-10-10-1.78 0-3.44.47-4.89 1.28l5.33 5.33c1.49.88 3.21 1.39 5.06 1.39zM1.89 3.72l2.19 2.19A9.958 9.958 0 0 0 2 12c0 5.52 4.48 10 10 10 2.29 0 4.4-.78 6.09-2.08l2.19 2.19 1.41-1.41L3.31 2.31 1.89 3.72zm14.77 14.77A7.91 7.91 0 0 1 12 20c-4.41 0-8-3.59-8-8 0-.05.01-.1 0-.14a9.946 9.946 0 0 0 3.64-2.39l9.02 9.02z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Factory SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Factory => SvgIcon.FromContent("<path d='M22 10v12H2V10l7-3v2l5-2v3h8zm-4.8-1.5L18 2h3l.8 6.5h-4.6zM11 18h2v-4h-2v4zm-4 0h2v-4H7v4zm10-4h-2v4h2v-4z'></path>", attributeSet0);
-/// <summary>
 /// Gets the FactCheck SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon FactCheck => SvgIcon.FromContent("<path fill-rule='evenodd' d='M2 3v18h20V3H2zm8 14H5v-2h5v2zm0-4H5v-2h5v2zm0-4H5V7h5v2zm4.82 6L12 12.16l1.41-1.41 1.41 1.42L17.99 9l1.42 1.42L14.82 15z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Factory SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Factory => SvgIcon.FromContent("<path d='M22 10v12H2V10l7-3v2l5-2v3h8zm-4.8-1.5L18 2h3l.8 6.5h-4.6zM11 18h2v-4h-2v4zm-4 0h2v-4H7v4zm10-4h-2v4h2v-4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the FamilyRestroom SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -3038,10 +3038,6 @@ public static SvgIcon FindReplace => SvgIcon.FromContent("<path d='M11 6c1.38 0 
 /// </summary>
 public static SvgIcon Fingerprint => SvgIcon.FromContent("<path d='M17.81 4.47c-.08 0-.16-.02-.23-.06C15.66 3.42 14 3 12.01 3c-1.98 0-3.86.47-5.57 1.41-.24.13-.54.04-.68-.2a.506.506 0 0 1 .2-.68C7.82 2.52 9.86 2 12.01 2c2.13 0 3.99.47 6.03 1.52.25.13.34.43.21.67a.49.49 0 0 1-.44.28zM3.5 9.72a.499.499 0 0 1-.41-.79c.99-1.4 2.25-2.5 3.75-3.27C9.98 4.04 14 4.03 17.15 5.65c1.5.77 2.76 1.86 3.75 3.25a.5.5 0 0 1-.12.7c-.23.16-.54.11-.7-.12a9.388 9.388 0 0 0-3.39-2.94c-2.87-1.47-6.54-1.47-9.4.01-1.36.7-2.5 1.7-3.4 2.96-.08.14-.23.21-.39.21zm6.25 12.07a.47.47 0 0 1-.35-.15c-.87-.87-1.34-1.43-2.01-2.64-.69-1.23-1.05-2.73-1.05-4.34 0-2.97 2.54-5.39 5.66-5.39s5.66 2.42 5.66 5.39c0 .28-.22.5-.5.5s-.5-.22-.5-.5c0-2.42-2.09-4.39-4.66-4.39s-4.66 1.97-4.66 4.39c0 1.44.32 2.77.93 3.85.64 1.15 1.08 1.64 1.85 2.42.19.2.19.51 0 .71-.11.1-.24.15-.37.15zm7.17-1.85c-1.19 0-2.24-.3-3.1-.89-1.49-1.01-2.38-2.65-2.38-4.39 0-.28.22-.5.5-.5s.5.22.5.5c0 1.41.72 2.74 1.94 3.56.71.48 1.54.71 2.54.71.24 0 .64-.03 1.04-.1.27-.05.53.13.58.41.05.27-.13.53-.41.58-.57.11-1.07.12-1.21.12zM14.91 22c-.04 0-.09-.01-.13-.02-1.59-.44-2.63-1.03-3.72-2.1a7.297 7.297 0 0 1-2.17-5.22c0-1.62 1.38-2.94 3.08-2.94s3.08 1.32 3.08 2.94c0 1.07.93 1.94 2.08 1.94s2.08-.87 2.08-1.94c0-3.77-3.25-6.83-7.25-6.83-2.84 0-5.44 1.58-6.61 4.03-.39.81-.59 1.76-.59 2.8 0 .78.07 2.01.67 3.61.1.26-.03.55-.29.64-.26.1-.55-.04-.64-.29a11.14 11.14 0 0 1-.73-3.96c0-1.2.23-2.29.68-3.24 1.33-2.79 4.28-4.6 7.51-4.6 4.55 0 8.25 3.51 8.25 7.83 0 1.62-1.38 2.94-3.08 2.94s-3.08-1.32-3.08-2.94c0-1.07-.93-1.94-2.08-1.94s-2.08.87-2.08 1.94c0 1.71.66 3.31 1.87 4.51.95.94 1.86 1.46 3.27 1.85.27.07.42.35.35.61-.05.23-.26.38-.47.38z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Fireplace SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Fireplace => SvgIcon.FromContent("<path d='M2 2v20h20V2H2zm11.2 11.74c-.08-.46-.07-.85.08-1.28.54 1.21 2.15 1.64 1.98 3.18-.19 1.69-2.11 2.37-3.39 1.32.76-.24 1.4-1.04 1.53-1.63.12-.55-.11-1.04-.2-1.59zM20 20h-2v-2h-2.02A4.98 4.98 0 0 0 17 15c0-1.89-1.09-2.85-1.85-3.37C12.2 9.61 13 7 13 7c-6.73 3.57-6.02 7.47-6 8 .03.96.49 2.07 1.23 3H6v2H4V4h16v16z'></path>", attributeSet0);
-/// <summary>
 /// Gets the FireExtinguisher SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon FireExtinguisher => SvgIcon.FromContent("<path d='M7 19h10v3H7v-3zm0-1h10v-5H7v5zM17 3v6l-3.15-.66c-.01 0-.01.01-.02.02 1.55.62 2.72 1.98 3.07 3.64H7.1c.34-1.66 1.52-3.02 3.07-3.64-.33-.26-.6-.58-.8-.95L5 6.5v-1l4.37-.91C9.87 3.65 10.86 3 12 3c.7 0 1.34.25 1.85.66L17 3zm-4 3c-.03-.59-.45-1-1-1s-1 .45-1 1 .45 1 1 1 1-.45 1-1z'></path>", attributeSet0);
@@ -3049,6 +3045,10 @@ public static SvgIcon FireExtinguisher => SvgIcon.FromContent("<path d='M7 19h10
 /// Gets the FireHydrantAlt SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon FireHydrantAlt => SvgIcon.FromContent("<path d='M21 11h-3V8h2V6h-2.35a5.99 5.99 0 0 0-11.3 0H4v2h2v3H3v6h3v3H4v2h16v-2h-2v-3h3v-6zm-9 6.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z'></path><circle cx='12' cy='14' r='1.5'></circle>", attributeSet0);
+/// <summary>
+/// Gets the Fireplace SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Fireplace => SvgIcon.FromContent("<path d='M2 2v20h20V2H2zm11.2 11.74c-.08-.46-.07-.85.08-1.28.54 1.21 2.15 1.64 1.98 3.18-.19 1.69-2.11 2.37-3.39 1.32.76-.24 1.4-1.04 1.53-1.63.12-.55-.11-1.04-.2-1.59zM20 20h-2v-2h-2.02A4.98 4.98 0 0 0 17 15c0-1.89-1.09-2.85-1.85-3.37C12.2 9.61 13 7 13 7c-6.73 3.57-6.02 7.47-6 8 .03.96.49 2.07 1.23 3H6v2H4V4h16v16z'></path>", attributeSet0);
 /// <summary>
 /// Gets the FireTruck SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -3086,6 +3086,10 @@ public static SvgIcon Flaky => SvgIcon.FromContent("<path fill-rule='evenodd' d=
 /// </summary>
 public static SvgIcon Flare => SvgIcon.FromContent("<path d='M7 11H1v2h6v-2zm2.17-3.24L7.05 5.64 5.64 7.05l2.12 2.12 1.41-1.41zM13 1h-2v6h2V1zm5.36 6.05-1.41-1.41-2.12 2.12 1.41 1.41 2.12-2.12zM17 11v2h6v-2h-6zm-5-2c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3zm2.83 7.24 2.12 2.12 1.41-1.41-2.12-2.12-1.41 1.41zm-9.19.71 1.41 1.41 2.12-2.12-1.41-1.41-2.12 2.12zM11 23h2v-6h-2v6z'></path>", attributeSet0);
 /// <summary>
+/// Gets the FlashAuto SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon FlashAuto => SvgIcon.FromContent("<path d='M3 2v12h3v9l7-12H9l4-9H3zm16 0h-2l-3.2 9h1.9l.7-2h3.2l.7 2h1.9L19 2zm-2.15 5.65L18 4l1.15 3.65h-2.3z'></path>", attributeSet0);
+/// <summary>
 /// Gets the FlashlightOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon FlashlightOff => SvgIcon.FromContent("<path d='M18 5V2H6v1.17L7.83 5zm-2 6 2-3V7H9.83L16 13.17zM2.81 2.81 1.39 4.22 8 10.83V22h8v-3.17l3.78 3.78 1.41-1.41L2.81 2.81z'></path>", attributeSet0);
@@ -3093,10 +3097,6 @@ public static SvgIcon FlashlightOff => SvgIcon.FromContent("<path d='M18 5V2H6v1
 /// Gets the FlashlightOn SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon FlashlightOn => SvgIcon.FromContent("<path d='M6 2h12v3H6zm0 5v1l2 3v11h8V11l2-3V7H6zm6 8.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the FlashAuto SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon FlashAuto => SvgIcon.FromContent("<path d='M3 2v12h3v9l7-12H9l4-9H3zm16 0h-2l-3.2 9h1.9l.7-2h3.2l.7 2h1.9L19 2zm-2.15 5.65L18 4l1.15 3.65h-2.3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the FlashOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -3430,6 +3430,10 @@ public static SvgIcon Girl => SvgIcon.FromContent("<path d='M12 7.5c.97 0 1.75-.
 /// </summary>
 public static SvgIcon Gite => SvgIcon.FromContent("<path d='M18 6H9V4H7v2H6l-4 4v9h20v-9l-4-4zM4 12h10v5H4v-5zm16 5h-4v-6.17l2-2 2 2V17z'></path>", attributeSet0);
 /// <summary>
+/// Gets the GMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon GMobiledata => SvgIcon.FromContent("<path d='M12 11v2h2v2H9V9h7V7H7v10h9v-6h-4z'></path>", attributeSet0);
+/// <summary>
 /// Gets the GolfCourse SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon GolfCourse => SvgIcon.FromContent("<circle cx='19.5' cy='19.5' r='1.5'></circle><path d='M17 5.92 9 2v18H7v-1.73c-1.79.35-3 .99-3 1.73 0 1.1 2.69 2 6 2s6-.9 6-2c0-.99-2.16-1.81-5-1.97V8.98l6-3.06z'></path>", attributeSet0);
@@ -3510,18 +3514,6 @@ public static SvgIcon GridView => SvgIcon.FromContent("<path d='M3 3h8v8H3zm0 10
 /// </summary>
 public static SvgIcon Group => SvgIcon.FromContent("<path d='M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5s-3 1.34-3 3 1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Groups SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Groups => SvgIcon.FromContent("<path d='M12 12.75c1.63 0 3.07.39 4.24.9 1.08.48 1.76 1.56 1.76 2.73V18H6v-1.61c0-1.18.68-2.26 1.76-2.73 1.17-.52 2.61-.91 4.24-.91zM4 13c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm1.13 1.1c-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58A2.01 2.01 0 0 0 0 16.43V18h4.5v-1.61c0-.83.23-1.61.63-2.29zM20 13c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85A6.95 6.95 0 0 0 20 14c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29V18H24v-1.57zM12 6c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Groups2 SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Groups2 => SvgIcon.FromContent("<path d='M10.27 12h3.46a1.5 1.5 0 0 0 1.48-1.75l-.3-1.79a2.951 2.951 0 0 0-5.82.01l-.3 1.79c-.15.91.55 1.74 1.48 1.74zm-8.61-.89c-.13.26-.18.57-.1.88.16.69.76 1.03 1.53 1h1.95c.83 0 1.51-.58 1.51-1.29 0-.14-.03-.27-.07-.4-.01-.03-.01-.05.01-.08.09-.16.14-.34.14-.53 0-.31-.14-.6-.36-.82-.03-.03-.03-.06-.02-.1.07-.2.07-.43.01-.65a1.12 1.12 0 0 0-.99-.74.09.09 0 0 1-.07-.03C5.03 8.14 4.72 8 4.37 8c-.3 0-.57.1-.75.26-.03.03-.06.03-.09.02a1.24 1.24 0 0 0-1.7 1.03c0 .02-.01.04-.03.06-.29.26-.46.65-.41 1.05.03.22.12.43.25.6.03.02.03.06.02.09zm14.58 2.54c-1.17-.52-2.61-.9-4.24-.9-1.63 0-3.07.39-4.24.9A2.988 2.988 0 0 0 6 16.39V18h12v-1.61c0-1.18-.68-2.26-1.76-2.74zm-15.02.93A2.01 2.01 0 0 0 0 16.43V18h4.5v-1.61c0-.83.23-1.61.63-2.29-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58zm21.56 0A6.95 6.95 0 0 0 20 14c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29V18H24v-1.57c0-.81-.48-1.53-1.22-1.85zM22 11v-.5c0-1.1-.9-2-2-2h-2c-.42 0-.65.48-.39.81l.7.63c-.19.31-.31.67-.31 1.06 0 1.1.9 2 2 2s2-.9 2-2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Groups3 SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Groups3 => SvgIcon.FromContent("<path d='M16.24 13.65c-1.17-.52-2.61-.9-4.24-.9-1.63 0-3.07.39-4.24.9A2.988 2.988 0 0 0 6 16.39V18h12v-1.61c0-1.18-.68-2.26-1.76-2.74zm-15.02.93A2.01 2.01 0 0 0 0 16.43V18h4.5v-1.61c0-.83.23-1.61.63-2.29-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58zm21.56 0A6.95 6.95 0 0 0 20 14c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29V18H24v-1.57c0-.81-.48-1.53-1.22-1.85zM12 12c1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3 1.34 3 3 3zM1.497 11 4 8.497 6.503 11 4 13.503zM20 9l-2.5 4h5z'></path>", attributeSet0);
-/// <summary>
 /// Gets the GroupAdd SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon GroupAdd => SvgIcon.FromContent("<path d='M22 9V7h-2v2h-2v2h2v2h2v-2h2V9zM8 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 1c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4zm4.51-8.95C13.43 5.11 14 6.49 14 8s-.57 2.89-1.49 3.95C14.47 11.7 16 10.04 16 8s-1.53-3.7-3.49-3.95zm4.02 9.78C17.42 14.66 18 15.7 18 17v3h2v-3c0-1.45-1.59-2.51-3.47-3.17z'></path>", attributeSet0);
@@ -3534,13 +3526,21 @@ public static SvgIcon GroupOff => SvgIcon.FromContent("<path d='M15 8c0-1.42-.5-
 /// </summary>
 public static SvgIcon GroupRemove => SvgIcon.FromContent("<path d='M24 9v2h-6V9h6zM8 4C5.79 4 4 5.79 4 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4zm4.51-8.95C13.43 5.11 14 6.49 14 8s-.57 2.89-1.49 3.95C14.47 11.7 16 10.04 16 8s-1.53-3.7-3.49-3.95zm4.02 9.78C17.42 14.66 18 15.7 18 17v3h2v-3c0-1.45-1.59-2.51-3.47-3.17z'></path>", attributeSet0);
 /// <summary>
+/// Gets the Groups SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Groups => SvgIcon.FromContent("<path d='M12 12.75c1.63 0 3.07.39 4.24.9 1.08.48 1.76 1.56 1.76 2.73V18H6v-1.61c0-1.18.68-2.26 1.76-2.73 1.17-.52 2.61-.91 4.24-.91zM4 13c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm1.13 1.1c-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58A2.01 2.01 0 0 0 0 16.43V18h4.5v-1.61c0-.83.23-1.61.63-2.29zM20 13c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm4 3.43c0-.81-.48-1.53-1.22-1.85A6.95 6.95 0 0 0 20 14c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29V18H24v-1.57zM12 6c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Groups2 SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Groups2 => SvgIcon.FromContent("<path d='M10.27 12h3.46a1.5 1.5 0 0 0 1.48-1.75l-.3-1.79a2.951 2.951 0 0 0-5.82.01l-.3 1.79c-.15.91.55 1.74 1.48 1.74zm-8.61-.89c-.13.26-.18.57-.1.88.16.69.76 1.03 1.53 1h1.95c.83 0 1.51-.58 1.51-1.29 0-.14-.03-.27-.07-.4-.01-.03-.01-.05.01-.08.09-.16.14-.34.14-.53 0-.31-.14-.6-.36-.82-.03-.03-.03-.06-.02-.1.07-.2.07-.43.01-.65a1.12 1.12 0 0 0-.99-.74.09.09 0 0 1-.07-.03C5.03 8.14 4.72 8 4.37 8c-.3 0-.57.1-.75.26-.03.03-.06.03-.09.02a1.24 1.24 0 0 0-1.7 1.03c0 .02-.01.04-.03.06-.29.26-.46.65-.41 1.05.03.22.12.43.25.6.03.02.03.06.02.09zm14.58 2.54c-1.17-.52-2.61-.9-4.24-.9-1.63 0-3.07.39-4.24.9A2.988 2.988 0 0 0 6 16.39V18h12v-1.61c0-1.18-.68-2.26-1.76-2.74zm-15.02.93A2.01 2.01 0 0 0 0 16.43V18h4.5v-1.61c0-.83.23-1.61.63-2.29-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58zm21.56 0A6.95 6.95 0 0 0 20 14c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29V18H24v-1.57c0-.81-.48-1.53-1.22-1.85zM22 11v-.5c0-1.1-.9-2-2-2h-2c-.42 0-.65.48-.39.81l.7.63c-.19.31-.31.67-.31 1.06 0 1.1.9 2 2 2s2-.9 2-2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Groups3 SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Groups3 => SvgIcon.FromContent("<path d='M16.24 13.65c-1.17-.52-2.61-.9-4.24-.9-1.63 0-3.07.39-4.24.9A2.988 2.988 0 0 0 6 16.39V18h12v-1.61c0-1.18-.68-2.26-1.76-2.74zm-15.02.93A2.01 2.01 0 0 0 0 16.43V18h4.5v-1.61c0-.83.23-1.61.63-2.29-.37-.06-.74-.1-1.13-.1-.99 0-1.93.21-2.78.58zm21.56 0A6.95 6.95 0 0 0 20 14c-.39 0-.76.04-1.13.1.4.68.63 1.46.63 2.29V18H24v-1.57c0-.81-.48-1.53-1.22-1.85zM12 12c1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3 1.34 3 3 3zM1.497 11 4 8.497 6.503 11 4 13.503zM20 9l-2.5 4h5z'></path>", attributeSet0);
+/// <summary>
 /// Gets the GroupWork SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon GroupWork => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM8 17.5a2.5 2.5 0 0 1 0-5 2.5 2.5 0 0 1 0 5zM9.5 8a2.5 2.5 0 0 1 5 0 2.5 2.5 0 0 1-5 0zm6.5 9.5a2.5 2.5 0 0 1 0-5 2.5 2.5 0 0 1 0 5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the GMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon GMobiledata => SvgIcon.FromContent("<path d='M12 11v2h2v2H9V9h7V7H7v10h9v-6h-4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the GTranslate SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -3726,6 +3726,10 @@ public static SvgIcon Hls => SvgIcon.FromContent("<path d='M6.5 9H8v6H6.5v-2.5h-
 /// </summary>
 public static SvgIcon HlsOff => SvgIcon.FromContent("<path d='M17.83 15h2.67v-3.5H17v-1h2v.5h1.5V9h-5v3.5H19v1h-2V13h-1.17l2 2zM8 10.83V15H6.5v-2.5h-2V15H3V9h1.5v2h2V9.33L1.39 4.22 2.8 2.81l18.38 18.38-1.41 1.41-7.6-7.6H10v-2.17l-2-2z'></path>", attributeSet0);
 /// <summary>
+/// Gets the HMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon HMobiledata => SvgIcon.FromContent("<path d='M15 11H9V7H7v10h2v-4h6v4h2V7h-2v4z'></path>", attributeSet0);
+/// <summary>
 /// Gets the HolidayVillage SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon HolidayVillage => SvgIcon.FromContent("<path d='M18 20V8.35L13.65 4h-2.83L16 9.18V20h2zm4 0V6.69L19.31 4h-2.83L20 7.52V20h2zM8 4l-6 6v10h5v-5h2v5h5V10L8 4zm1 9H7v-2h2v2z'></path>", attributeSet0);
@@ -3814,6 +3818,10 @@ public static SvgIcon HowToReg => SvgIcon.FromContent("<path d='m9 17 3-2.94a9.3
 /// </summary>
 public static SvgIcon HowToVote => SvgIcon.FromContent("<path d='M18 13h-.68l-2 2h1.91L19 17H5l1.78-2h2.05l-2-2H6l-3 3v6h18v-6zm1.81-5.04L13.45 1.6 5.68 9.36l6.36 6.36 7.77-7.76zm-6.35-3.55L17 7.95l-4.95 4.95-3.54-3.54 4.95-4.95z'></path>", attributeSet0);
 /// <summary>
+/// Gets the HPlusMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon HPlusMobiledata => SvgIcon.FromContent("<path d='M12 11H6V7H4v10h2v-4h6v4h2V7h-2v4zm10 0h-2V9h-2v2h-2v2h2v2h2v-2h2v-2z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Html SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Html => SvgIcon.FromContent("<path d='M3.5 9H5v6H3.5v-2.5h-2V15H0V9h1.5v2h2V9zm15 0H12v6h1.5v-4.5h1V14H16v-3.51h1V15h1.5V9zM11 9H6v1.5h1.75V15h1.5v-4.5H11V9zm13 6v-1.5h-2.5V9H20v6h4z'></path>", attributeSet0);
@@ -3834,14 +3842,6 @@ public static SvgIcon Hub => SvgIcon.FromContent("<path d='M8.4 18.2c.38.5.6 1.1
 /// </summary>
 public static SvgIcon Hvac => SvgIcon.FromContent("<path d='M8.56 14h6.89c.26-.45.44-.96.51-1.5h-7.9c.06.54.23 1.05.5 1.5zM12 16c1.01 0 1.91-.39 2.62-1H9.38c.71.61 1.61 1 2.62 1zm0-8c-1.01 0-1.91.39-2.62 1h5.24c-.71-.61-1.61-1-2.62-1zm-3.44 2c-.26.45-.44.96-.51 1.5h7.9c-.07-.54-.24-1.05-.51-1.5H8.56z'></path><path d='M3 3v18h18V3H3zm9 15c-3.31 0-6-2.69-6-6s2.69-6 6-6 6 2.69 6 6-2.69 6-6 6z'></path>", attributeSet0);
 /// <summary>
-/// Gets the HMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon HMobiledata => SvgIcon.FromContent("<path d='M15 11H9V7H7v10h2v-4h6v4h2V7h-2v4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the HPlusMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon HPlusMobiledata => SvgIcon.FromContent("<path d='M12 11H6V7H4v10h2v-4h6v4h2V7h-2v4zm10 0h-2V9h-2v2h-2v2h2v2h2v-2h2v-2z'></path>", attributeSet0);
-/// <summary>
 /// Gets the Icecream SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Icecream => SvgIcon.FromContent("<path d='M18.38 6.24C17.79 3.24 15.14 1 12 1S6.21 3.24 5.62 6.24A4.014 4.014 0 0 0 3 10c0 2.21 1.79 4 4 4 .12 0 .23-.02.34-.02L12.07 23l4.61-9.03c.11.01.21.03.32.03 2.21 0 4-1.79 4-4 0-1.71-1.08-3.19-2.62-3.76zm-6.33 12.39-2.73-5.21a6.468 6.468 0 0 0 5.4-.02l-2.67 5.23z'></path>", attributeSet0);
@@ -3854,10 +3854,6 @@ public static SvgIcon IceSkating => SvgIcon.FromContent("<path d='M21 17c0 1.66-
 /// </summary>
 public static SvgIcon Image => SvgIcon.FromContent("<path d='M21 21V3H3v18h18zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z'></path>", attributeSet0);
 /// <summary>
-/// Gets the ImagesearchRoller SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ImagesearchRoller => SvgIcon.FromContent("<path d='M20 2v6H6V6H4v4h10v5h2v8h-6v-8h2v-3H2V4h4V2h14z'></path>", attributeSet0);
-/// <summary>
 /// Gets the ImageAspectRatio SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ImageAspectRatio => SvgIcon.FromContent("<path d='M16 10h-2v2h2v-2zm0 4h-2v2h2v-2zm-8-4H6v2h2v-2zm4 0h-2v2h2v-2zm10-6H2v16h20V4zm-2 14H4V6h16v12z'></path>", attributeSet0);
@@ -3869,6 +3865,10 @@ public static SvgIcon ImageNotSupported => SvgIcon.FromContent("<path d='m21.9 2
 /// Gets the ImageSearch SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ImageSearch => SvgIcon.FromContent("<path d='M18 13v7H4V6h5.02c.05-.71.22-1.38.48-2H2v18h18v-7l-2-2zm-1.5 5h-11l2.75-3.53 1.96 2.36 2.75-3.54L16.5 18zm2.8-9.11c.44-.7.7-1.51.7-2.39C20 4.01 17.99 2 15.5 2S11 4.01 11 6.5s2.01 4.5 4.49 4.5c.88 0 1.7-.26 2.39-.7L21 13.42 22.42 12 19.3 8.89zM15.5 9a2.5 2.5 0 0 1 0-5 2.5 2.5 0 0 1 0 5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ImagesearchRoller SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ImagesearchRoller => SvgIcon.FromContent("<path d='M20 2v6H6V6H4v4h10v5h2v8h-6v-8h2v-3H2V4h4V2h14z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ImportantDevices SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4450,13 +4450,13 @@ public static SvgIcon LockReset => SvgIcon.FromContent("<path d='M13 3a9 9 0 0 0
 /// </summary>
 public static SvgIcon Login => SvgIcon.FromContent("<path d='M11 7 9.6 8.4l2.6 2.6H2v2h10.2l-2.6 2.6L11 17l5-5-5-5zm9 12h-8v2h10V3H12v2h8v14z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Logout SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Logout => SvgIcon.FromContent("<path d='M5 5h7V3H3v18h9v-2H5z'></path><path d='m21 12-4-4v3H9v2h8v3z'></path>", attributeSet0);
-/// <summary>
 /// Gets the LogoDev SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon LogoDev => SvgIcon.FromContent("<path d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM7.68 14.98H6V9h1.71c1.28 0 1.71 1.03 1.71 1.71v2.56c0 .68-.42 1.71-1.74 1.71zm4.7-3.52v1.07H11.2v1.39h1.93v1.07h-2.25c-.4.01-.74-.31-.75-.71V9.75c-.01-.4.31-.74.71-.75h2.28v1.07H11.2v1.39h1.18zm4.5 2.77c-.48 1.11-1.33.89-1.71 0L13.77 9h1.18l1.07 4.11L17.09 9h1.18l-1.39 5.23z'></path><path d='M7.77 10.12h-.63v3.77h.63c.14 0 .28-.05.42-.16.14-.1.21-.26.21-.47v-2.52c0-.21-.07-.37-.21-.47a.72.72 0 0 0-.42-.15z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Logout SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Logout => SvgIcon.FromContent("<path d='M5 5h7V3H3v18h9v-2H5z'></path><path d='m21 12-4-4v3H9v2h8v3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Looks SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4546,18 +4546,6 @@ public static SvgIcon Male => SvgIcon.FromContent("<path d='M9.5 11c1.93 0 3.5 1
 /// </summary>
 public static SvgIcon Man => SvgIcon.FromContent("<path d='M16 7H8v8h2v7h4v-7h2z'></path><circle cx='12' cy='4' r='2'></circle>", attributeSet0);
 /// <summary>
-/// Gets the ManageAccounts SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ManageAccounts => SvgIcon.FromContent("<path d='M10.67 13.02c-.22-.01-.44-.02-.67-.02-2.42 0-4.68.67-6.61 1.82-.88.52-1.39 1.5-1.39 2.53V20h9.26a6.963 6.963 0 0 1-.59-6.98z'></path><circle cx='10' cy='8' r='4'></circle><path d='M20.75 16c0-.22-.03-.42-.06-.63l1.14-1.01-1-1.73-1.45.49c-.32-.27-.68-.48-1.08-.63L18 11h-2l-.3 1.49c-.4.15-.76.36-1.08.63l-1.45-.49-1 1.73 1.14 1.01c-.03.21-.06.41-.06.63s.03.42.06.63l-1.14 1.01 1 1.73 1.45-.49c.32.27.68.48 1.08.63L16 21h2l.3-1.49c.4-.15.76-.36 1.08-.63l1.45.49 1-1.73-1.14-1.01c.03-.21.06-.41.06-.63zM17 18c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the ManageHistory SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ManageHistory => SvgIcon.FromContent("<path d='m22.69 18.37 1.14-1-1-1.73-1.45.49c-.32-.27-.68-.48-1.08-.63L20 14h-2l-.3 1.49c-.4.15-.76.36-1.08.63l-1.45-.49-1 1.73 1.14 1c-.08.5-.08.76 0 1.26l-1.14 1 1 1.73 1.45-.49c.32.27.68.48 1.08.63L18 24h2l.3-1.49c.4-.15.76-.36 1.08-.63l1.45.49 1-1.73-1.14-1c.08-.51.08-.77 0-1.27zM19 21c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM11 7v5.41l2.36 2.36 1.04-1.79-1.4-1.39V7h-2zm10 5a9 9 0 0 0-9-9C9.17 3 6.65 4.32 5 6.36V4H3v6h6V8H6.26A7.01 7.01 0 0 1 12 5c3.86 0 7 3.14 7 7h2zm-10.14 6.91c-2.99-.49-5.35-2.9-5.78-5.91H3.06c.5 4.5 4.31 8 8.94 8h.07l-1.21-2.09z'></path>", attributeSet0);
-/// <summary>
-/// Gets the ManageSearch SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ManageSearch => SvgIcon.FromContent("<path d='M7 9H2V7h5v2zm0 3H2v2h5v-2zm13.59 7-3.83-3.83c-.8.52-1.74.83-2.76.83-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5c0 1.02-.31 1.96-.83 2.75L22 17.59 20.59 19zM17 11c0-1.65-1.35-3-3-3s-3 1.35-3 3 1.35 3 3 3 3-1.35 3-3zM2 19h10v-2H2v2z'></path>", attributeSet0);
-/// <summary>
 /// Gets the Man2 SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Man2 => SvgIcon.FromContent("<path d='M16 7H8v8h2.5v7h3v-7H16z'></path><circle cx='12' cy='4' r='2'></circle>", attributeSet0);
@@ -4569,6 +4557,18 @@ public static SvgIcon Man3 => SvgIcon.FromContent("<path d='M16 7H8v8h2v7h4v-7h2
 /// Gets the Man4 SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Man4 => SvgIcon.FromContent("<path d='M7.96 7 10 22h4l2.04-15z'></path><circle cx='12' cy='4' r='2'></circle>", attributeSet0);
+/// <summary>
+/// Gets the ManageAccounts SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ManageAccounts => SvgIcon.FromContent("<path d='M10.67 13.02c-.22-.01-.44-.02-.67-.02-2.42 0-4.68.67-6.61 1.82-.88.52-1.39 1.5-1.39 2.53V20h9.26a6.963 6.963 0 0 1-.59-6.98z'></path><circle cx='10' cy='8' r='4'></circle><path d='M20.75 16c0-.22-.03-.42-.06-.63l1.14-1.01-1-1.73-1.45.49c-.32-.27-.68-.48-1.08-.63L18 11h-2l-.3 1.49c-.4.15-.76.36-1.08.63l-1.45-.49-1 1.73 1.14 1.01c-.03.21-.06.41-.06.63s.03.42.06.63l-1.14 1.01 1 1.73 1.45-.49c.32.27.68.48 1.08.63L16 21h2l.3-1.49c.4-.15.76-.36 1.08-.63l1.45.49 1-1.73-1.14-1.01c.03-.21.06-.41.06-.63zM17 18c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ManageHistory SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ManageHistory => SvgIcon.FromContent("<path d='m22.69 18.37 1.14-1-1-1.73-1.45.49c-.32-.27-.68-.48-1.08-.63L20 14h-2l-.3 1.49c-.4.15-.76.36-1.08.63l-1.45-.49-1 1.73 1.14 1c-.08.5-.08.76 0 1.26l-1.14 1 1 1.73 1.45-.49c.32.27.68.48 1.08.63L18 24h2l.3-1.49c.4-.15.76-.36 1.08-.63l1.45.49 1-1.73-1.14-1c.08-.51.08-.77 0-1.27zM19 21c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM11 7v5.41l2.36 2.36 1.04-1.79-1.4-1.39V7h-2zm10 5a9 9 0 0 0-9-9C9.17 3 6.65 4.32 5 6.36V4H3v6h6V8H6.26A7.01 7.01 0 0 1 12 5c3.86 0 7 3.14 7 7h2zm-10.14 6.91c-2.99-.49-5.35-2.9-5.78-5.91H3.06c.5 4.5 4.31 8 8.94 8h.07l-1.21-2.09z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ManageSearch SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ManageSearch => SvgIcon.FromContent("<path d='M7 9H2V7h5v2zm0 3H2v2h5v-2zm13.59 7-3.83-3.83c-.8.52-1.74.83-2.76.83-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5c0 1.02-.31 1.96-.83 2.75L22 17.59 20.59 19zM17 11c0-1.65-1.35-3-3-3s-3 1.35-3 3 1.35 3 3 3 3-1.35 3-3zM2 19h10v-2H2v2z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Map SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4585,14 +4585,6 @@ public static SvgIcon MapsUgc => SvgIcon.FromContent("<path d='M12 4c4.41 0 8 3.
 /// Gets the Margin SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Margin => SvgIcon.FromContent("<path d='M3 3v18h18V3H3zm6 10H7v-2h2v2zm0-4H7V7h2v2zm4 4h-2v-2h2v2zm0-4h-2V7h2v2zm4 4h-2v-2h2v2zm0-4h-2V7h2v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Markunread SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Markunread => SvgIcon.FromContent("<path d='M22 4H2v16h20V4zm-2 4-8 5-8-5V6l8 5 8-5v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the MarkunreadMailbox SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon MarkunreadMailbox => SvgIcon.FromContent("<path d='M22 6H10v6H8V4h6V0H6v6H2v16h20V6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the MarkAsUnread SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4614,9 +4606,17 @@ public static SvgIcon MarkEmailRead => SvgIcon.FromContent("<path d='M12 19a6.99
 /// </summary>
 public static SvgIcon MarkEmailUnread => SvgIcon.FromContent("<path d='M22 8.98V20H2V4h12.1c-.06.32-.1.66-.1 1 0 1.48.65 2.79 1.67 3.71L12 11 4 6v2l8 5 5.3-3.32c.54.2 1.1.32 1.7.32 1.13 0 2.16-.39 3-1.02zM16 5c0 1.66 1.34 3 3 3s3-1.34 3-3-1.34-3-3-3-3 1.34-3 3z'></path>", attributeSet0);
 /// <summary>
+/// Gets the Markunread SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Markunread => SvgIcon.FromContent("<path d='M22 4H2v16h20V4zm-2 4-8 5-8-5V6l8 5 8-5v2z'></path>", attributeSet0);
+/// <summary>
 /// Gets the MarkUnreadChatAlt SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon MarkUnreadChatAlt => SvgIcon.FromContent("<circle cx='19' cy='3' r='3'></circle><path d='M6 8V6h9.03a4.906 4.906 0 0 1-.92-4H2.01L2 22l4-4h16V6.97C21.16 7.61 20.13 8 19 8H6zm8 6H6v-2h8v2zm4-3H6V9h12v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the MarkunreadMailbox SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon MarkunreadMailbox => SvgIcon.FromContent("<path d='M22 6H10v6H8V4h6V0H6v6H2v16h20V6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Masks SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4626,10 +4626,6 @@ public static SvgIcon Masks => SvgIcon.FromContent("<path d='M19.5 6c-1.31 0-2.3
 /// </summary>
 public static SvgIcon Maximize => SvgIcon.FromContent("<path d='M3 3h18v2H3V3z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Mediation SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Mediation => SvgIcon.FromContent("<path d='M18 13h-5.06A8.974 8.974 0 0 1 8 20.05 3.005 3.005 0 0 1 5 23c-1.66 0-3-1.34-3-3s1.34-3 3-3c.95 0 1.78.45 2.33 1.14A6.969 6.969 0 0 0 10.91 13h-3.1C7.4 14.16 6.3 15 5 15c-1.66 0-3-1.34-3-3s1.34-3 3-3c1.3 0 2.4.84 2.82 2h3.1c-.32-2.23-1.69-4.1-3.59-5.14C6.78 6.55 5.95 7 5 7 3.34 7 2 5.66 2 4s1.34-3 3-3a2.99 2.99 0 0 1 2.99 2.95A8.974 8.974 0 0 1 12.93 11H18V8l4 4-4 4v-3z'></path>", attributeSet0);
-/// <summary>
 /// Gets the MediaBluetoothOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon MediaBluetoothOff => SvgIcon.FromContent("<path d='M9 6.17V3h6v4h-4v1.17l-2-2zM19.42 15 22 17.57l-.8.8-6.78-6.78.8-.8 2.75 2.75V9h.6L22 12.43 19.42 15zm-.25-1.45 1.13-1.13-1.13-1.13v2.26zm-1.96 3.66 3.98 3.98-1.41 1.41-3.98-3.98-.58.58-.85-.85.58-.58L11 13.83V17c0 2.21-1.78 4-3.99 4S3 19.21 3 17s1.79-4 4.01-4c.73 0 1.41.21 2 .55v-1.72L1.39 4.22 2.8 2.81l13.56 13.56.85.84z'></path>", attributeSet0);
@@ -4637,6 +4633,10 @@ public static SvgIcon MediaBluetoothOff => SvgIcon.FromContent("<path d='M9 6.17
 /// Gets the MediaBluetoothOn SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon MediaBluetoothOn => SvgIcon.FromContent("<path d='m9 3 .01 10.55c-.6-.34-1.28-.55-2-.55a4.001 4.001 0 1 0 0 8C9.23 21 11 19.21 11 17V7h4V3H9zm12 9.43L17.57 9h-.6v4.55l-2.75-2.75-.85.85L16.73 15l-3.35 3.35.85.85 2.75-2.75V21h.6L21 17.57 18.42 15 21 12.43zm-2.83-1.13 1.13 1.13-1.13 1.13V11.3zm1.13 6.27-1.13 1.13v-2.26l1.13 1.13z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Mediation SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Mediation => SvgIcon.FromContent("<path d='M18 13h-5.06A8.974 8.974 0 0 1 8 20.05 3.005 3.005 0 0 1 5 23c-1.66 0-3-1.34-3-3s1.34-3 3-3c.95 0 1.78.45 2.33 1.14A6.969 6.969 0 0 0 10.91 13h-3.1C7.4 14.16 6.3 15 5 15c-1.66 0-3-1.34-3-3s1.34-3 3-3c1.3 0 2.4.84 2.82 2h3.1c-.32-2.23-1.69-4.1-3.59-5.14C6.78 6.55 5.95 7 5 7 3.34 7 2 5.66 2 4s1.34-3 3-3a2.99 2.99 0 0 1 2.99 2.95A8.974 8.974 0 0 1 12.93 11H18V8l4 4-4 4v-3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the MedicalInformation SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4690,10 +4690,6 @@ public static SvgIcon Message => SvgIcon.FromContent("<path d='M22 2H2.01L2 22l4
 /// </summary>
 public static SvgIcon Mic => SvgIcon.FromContent("<path d='M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z'></path><path d='M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Microwave SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Microwave => SvgIcon.FromContent("<path d='M6.8 10.61 5.37 9.19C5.73 8.79 6.59 8 7.75 8c.8 0 1.39.39 1.81.67.31.21.51.33.69.33.37 0 .8-.41.95-.61l1.42 1.42c-.36.4-1.22 1.19-2.37 1.19-.79 0-1.37-.38-1.79-.66-.33-.22-.52-.34-.71-.34-.37 0-.8.41-.95.61zM7.75 15c.19 0 .38.12.71.34.42.28 1 .66 1.79.66 1.16 0 2.01-.79 2.37-1.19l-1.42-1.42c-.15.2-.59.61-.95.61-.18 0-.38-.12-.69-.33-.42-.28-1.01-.67-1.81-.67-1.16 0-2.02.79-2.38 1.19l1.42 1.42c.16-.2.59-.61.96-.61zM22 4v16H2V4h20zm-8 2H4v12h10V6zm5 10c0-.55-.45-1-1-1s-1 .45-1 1 .45 1 1 1 1-.45 1-1zm0-4c0-.55-.45-1-1-1s-1 .45-1 1 .45 1 1 1 1-.45 1-1zm0-5h-2v2h2V7z'></path>", attributeSet0);
-/// <summary>
 /// Gets the MicExternalOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon MicExternalOff => SvgIcon.FromContent("<path d='M10 5c0-1.66-1.34-3-3-3-.62 0-1.19.19-1.67.5l4.15 4.15C9.8 6.18 10 5.61 10 5zm4-1h4v11.17l2 2V2h-8v7.17l2 2zM2.1 2.1.69 3.51 5.17 8H4l1 10h1v4h8v-5.17l6.49 6.49 1.41-1.41L2.1 2.1zM12 20H8v-2h1l.56-5.61L12 14.83V20z'></path>", attributeSet0);
@@ -4709,6 +4705,10 @@ public static SvgIcon MicNone => SvgIcon.FromContent("<path d='M12 14c1.66 0 3-1
 /// Gets the MicOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon MicOff => SvgIcon.FromContent("<path d='M15 10.6V5c0-1.66-1.34-3-3-3-1.54 0-2.79 1.16-2.96 2.65L15 10.6zm4 .4h-1.7c0 .58-.1 1.13-.27 1.64l1.27 1.27c.44-.88.7-1.87.7-2.91zM4.41 2.86 3 4.27l6 6V11c0 1.66 1.34 3 3 3 .23 0 .44-.03.65-.08l1.66 1.66c-.71.33-1.5.52-2.31.52-2.76 0-5.3-2.1-5.3-5.1H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28a7.13 7.13 0 0 0 2.55-.9l4.2 4.2 1.41-1.41L4.41 2.86z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Microwave SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Microwave => SvgIcon.FromContent("<path d='M6.8 10.61 5.37 9.19C5.73 8.79 6.59 8 7.75 8c.8 0 1.39.39 1.81.67.31.21.51.33.69.33.37 0 .8-.41.95-.61l1.42 1.42c-.36.4-1.22 1.19-2.37 1.19-.79 0-1.37-.38-1.79-.66-.33-.22-.52-.34-.71-.34-.37 0-.8.41-.95.61zM7.75 15c.19 0 .38.12.71.34.42.28 1 .66 1.79.66 1.16 0 2.01-.79 2.37-1.19l-1.42-1.42c-.15.2-.59.61-.95.61-.18 0-.38-.12-.69-.33-.42-.28-1.01-.67-1.81-.67-1.16 0-2.02.79-2.38 1.19l1.42 1.42c.16-.2.59-.61.96-.61zM22 4v16H2V4h20zm-8 2H4v12h10V6zm5 10c0-.55-.45-1-1-1s-1 .45-1 1 .45 1 1 1 1-.45 1-1zm0-4c0-.55-.45-1-1-1s-1 .45-1 1 .45 1 1 1 1-.45 1-1zm0-5h-2v2h2V7z'></path>", attributeSet0);
 /// <summary>
 /// Gets the MilitaryTech SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -4754,10 +4754,6 @@ public static SvgIcon MobileScreenShare => SvgIcon.FromContent("<path d='M5.01 1
 /// </summary>
 public static SvgIcon Mode => SvgIcon.FromContent("<path d='M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM21.41 6.34l-3.75-3.75-2.53 2.54 3.75 3.75 2.53-2.54z'></path>", attributeSet0);
 /// <summary>
-/// Gets the ModelTraining SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ModelTraining => SvgIcon.FromContent("<path d='M15.5 13.5c0 2-2.5 3.5-2.5 5h-2c0-1.5-2.5-3-2.5-5 0-1.93 1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5zm-2.5 6h-2V21h2v-1.5zm6-6.5c0 1.68-.59 3.21-1.58 4.42l1.42 1.42a8.978 8.978 0 0 0-1-12.68l-1.42 1.42A6.993 6.993 0 0 1 19 13zm-3-8-4-4v3a9 9 0 0 0-9 9c0 2.23.82 4.27 2.16 5.84l1.42-1.42A6.938 6.938 0 0 1 5 13c0-3.86 3.14-7 7-7v3l4-4z'></path>", attributeSet0);
-/// <summary>
 /// Gets the ModeComment SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ModeComment => SvgIcon.FromContent("<path d='M22 2H2v16h16l4 4z'></path>", attributeSet0);
@@ -4773,6 +4769,10 @@ public static SvgIcon ModeEditOutline => SvgIcon.FromContent("<path d='M3 17.25V
 /// Gets the ModeFanOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ModeFanOff => SvgIcon.FromContent("<path d='m16.34 8.36-2.29.82c-.18-.13-.38-.25-.58-.34.17-.83.63-1.58 1.36-2.06C16.85 5.44 16.18 2 13.39 2c-3.08 0-4.9 1.47-5.3 3.26L18.73 15.9c1.5.39 3.27-.51 3.27-2.51 0-4.39-3.01-6.23-5.66-5.03zM2.81 2.81 1.39 4.22 5.27 8.1C3.77 7.7 2 8.61 2 10.61c0 4.4 3.01 6.24 5.66 5.03l2.29-.82c.18.13.38.25.58.34-.17.83-.63 1.58-1.36 2.06C7.15 18.56 7.82 22 10.61 22c3.08 0 4.9-1.47 5.3-3.26l3.87 3.87 1.41-1.41L2.81 2.81z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ModelTraining SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ModelTraining => SvgIcon.FromContent("<path d='M15.5 13.5c0 2-2.5 3.5-2.5 5h-2c0-1.5-2.5-3-2.5-5 0-1.93 1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5zm-2.5 6h-2V21h2v-1.5zm6-6.5c0 1.68-.59 3.21-1.58 4.42l1.42 1.42a8.978 8.978 0 0 0-1-12.68l-1.42 1.42A6.993 6.993 0 0 1 19 13zm-3-8-4-4v3a9 9 0 0 0-9 9c0 2.23.82 4.27 2.16 5.84l1.42-1.42A6.938 6.938 0 0 1 5 13c0-3.86 3.14-7 7-7v3l4-4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ModeNight SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5010,10 +5010,6 @@ public static SvgIcon NetworkWifi2Bar => SvgIcon.FromContent("<path d='M12 4C7.3
 /// </summary>
 public static SvgIcon NetworkWifi3Bar => SvgIcon.FromContent("<path d='M12 4C7.31 4 3.07 5.9 0 8.98L12 21 24 8.98A16.88 16.88 0 0 0 12 4zM2.92 9.07C5.51 7.08 8.67 6 12 6s6.49 1.08 9.08 3.07l-2.85 2.86A10.945 10.945 0 0 0 12 10c-2.31 0-4.46.71-6.23 1.93L2.92 9.07z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Newspaper SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Newspaper => SvgIcon.FromContent("<path d='m22 3-1.67 1.67L18.67 3 17 4.67 15.33 3l-1.66 1.67L12 3l-1.67 1.67L8.67 3 7 4.67 5.33 3 3.67 4.67 2 3v18h20V3zM11 19H4v-6h7v6zm9 0h-7v-2h7v2zm0-4h-7v-2h7v2zm0-4H4V8h16v3z'></path>", attributeSet0);
-/// <summary>
 /// Gets the NewLabel SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon NewLabel => SvgIcon.FromContent("<path d='m21 12-4.97 7H12v-6H9v-3H3V5h13.03L21 12zm-11 3H7v-3H5v3H2v2h3v3h2v-3h3v-2z'></path>", attributeSet0);
@@ -5021,6 +5017,10 @@ public static SvgIcon NewLabel => SvgIcon.FromContent("<path d='m21 12-4.97 7H12
 /// Gets the NewReleases SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon NewReleases => SvgIcon.FromContent("<path d='m23 12-2.44-2.78.34-3.68-3.61-.82-1.89-3.18L12 3 8.6 1.54 6.71 4.72l-3.61.81.34 3.68L1 12l2.44 2.78-.34 3.69 3.61.82 1.89 3.18L12 21l3.4 1.46 1.89-3.18 3.61-.82-.34-3.68L23 12zm-10 5h-2v-2h2v2zm0-4h-2V7h2v6z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Newspaper SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Newspaper => SvgIcon.FromContent("<path d='m22 3-1.67 1.67L18.67 3 17 4.67 15.33 3l-1.66 1.67L12 3l-1.67 1.67L8.67 3 7 4.67 5.33 3 3.67 4.67 2 3v18h20V3zM11 19H4v-6h7v6zm9 0h-7v-2h7v2zm0-4h-7v-2h7v2zm0-4H4V8h16v3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the NextPlan SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5046,97 +5046,13 @@ public static SvgIcon Nightlight => SvgIcon.FromContent("<path d='M14 2c1.82 0 3
 /// </summary>
 public static SvgIcon NightlightRound => SvgIcon.FromContent("<path d='M15.5 22c1.05 0 2.05-.16 3-.46-4.06-1.27-7-5.06-7-9.54s2.94-8.27 7-9.54c-.95-.3-1.95-.46-3-.46-5.52 0-10 4.48-10 10s4.48 10 10 10z'></path>", attributeSet0);
 /// <summary>
-/// Gets the NightsStay SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NightsStay => SvgIcon.FromContent("<path d='M11.1 12.08c-2.33-4.51-.5-8.48.53-10.07C6.27 2.2 1.98 6.59 1.98 12c0 .14.02.28.02.42.62-.27 1.29-.42 2-.42 1.66 0 3.18.83 4.1 2.15A4.01 4.01 0 0 1 11 18c0 1.52-.87 2.83-2.12 3.51.98.32 2.03.5 3.11.5 3.5 0 6.58-1.8 8.37-4.52-2.36.23-6.98-.97-9.26-5.41z'></path><path d='M7 16h-.18C6.4 14.84 5.3 14 4 14c-1.66 0-3 1.34-3 3s1.34 3 3 3h3c1.1 0 2-.9 2-2s-.9-2-2-2z'></path>", attributeSet0);
-/// <summary>
 /// Gets the NightShelter SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon NightShelter => SvgIcon.FromContent("<path d='M12 3 4 9v12h16V9l-8-6zm-2.25 9.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5zM17 18h-1v-1.5H8V18H7v-7h1v4.5h3.5V12H17v6z'></path>", attributeSet0);
 /// <summary>
-/// Gets the NoiseAware SvgIcon from the GoogleMaterialSharpIcon library.
+/// Gets the NightsStay SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
-public static SvgIcon NoiseAware => SvgIcon.FromContent("<path d='M16 15h-2a1.003 1.003 0 0 1-1.95.32c-.15-.44-.4-1.08-.93-1.61l-1.36-1.36C9.28 11.87 9 11.19 9 10.5a2.5 2.5 0 0 1 4.95-.5h2.02c-.25-2.25-2.16-4-4.47-4C9.02 6 7 8.02 7 10.5c0 1.22.49 2.41 1.35 3.27l1.36 1.36c.17.17.31.44.44.82A3.013 3.013 0 0 0 13 18c1.65 0 3-1.35 3-3z'></path><circle cx='13.5' cy='12.5' r='1.5'></circle><path d='m3.6 6.58 1.58 1.26c.35-.57.77-1.1 1.24-1.57L4.85 5.02c-.47.47-.88 1-1.25 1.56zm5.86-2.16-.87-1.81c-.63.23-1.24.52-1.8.87l.87 1.81c.56-.36 1.16-.65 1.8-.87zM4.49 9.26l-1.96-.45c-.21.63-.36 1.28-.44 1.95l1.96.45a7.9 7.9 0 0 1 .44-1.95zM20.4 6.58a9.4 9.4 0 0 0-1.25-1.56l-1.58 1.26c.48.47.89.99 1.24 1.57l1.59-1.27zM4.04 12.79l-1.96.45c.08.67.23 1.33.44 1.95l1.97-.45c-.22-.62-.38-1.27-.45-1.95zm13.17-9.31c-.57-.35-1.17-.64-1.8-.87l-.87 1.81c.64.22 1.24.51 1.8.87l.87-1.81zM13 4.07V2.05c-.33-.03-.66-.05-1-.05s-.67.02-1 .05v2.02c.33-.04.66-.07 1-.07s.67.03 1 .07zm-2 15.86v2.02c.33.03.66.05 1 .05s.67-.02 1-.05v-2.02c-.33.04-.66.07-1 .07s-.67-.03-1-.07zm8.51-5.19 1.97.45c.21-.63.36-1.28.44-1.95l-1.96-.45c-.07.68-.23 1.33-.45 1.95zm.45-3.53 1.96-.45a9.69 9.69 0 0 0-.44-1.95l-1.97.45c.22.62.38 1.27.45 1.95zm-2.38 6.52 1.58 1.26c.47-.48.88-1 1.25-1.56l-1.58-1.26a9.4 9.4 0 0 1-1.25 1.56zM6.79 20.52c.57.35 1.17.64 1.8.87l.87-1.81c-.64-.22-1.24-.51-1.8-.87l-.87 1.81zm7.75-.94.87 1.81c.63-.23 1.24-.52 1.8-.87l-.87-1.81c-.56.36-1.16.65-1.8.87zM3.6 17.42a9.4 9.4 0 0 0 1.25 1.56l1.58-1.26a7.87 7.87 0 0 1-1.24-1.57L3.6 17.42z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NoiseControlOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NoiseControlOff => SvgIcon.FromContent("<path d='M12 4c1.44 0 2.79.38 3.95 1.05L17.4 3.6C15.85 2.59 13.99 2 12 2s-3.85.59-5.41 1.59l1.45 1.45A8.034 8.034 0 0 1 12 4zm8 8c0 1.44-.38 2.79-1.05 3.95l1.45 1.45c1.01-1.55 1.6-3.41 1.6-5.4s-.59-3.85-1.59-5.41l-1.45 1.45A8.034 8.034 0 0 1 20 12zm-8 8c-1.44 0-2.79-.38-3.95-1.05L6.6 20.4C8.15 21.41 10.01 22 12 22s3.85-.59 5.41-1.59l-1.45-1.45A8.034 8.034 0 0 1 12 20zm-8-8c0-1.44.38-2.79 1.05-3.95L3.59 6.59C2.59 8.15 2 10.01 2 12s.59 3.85 1.59 5.41l1.45-1.45A8.034 8.034 0 0 1 4 12zm7.5-6C9.02 6 7 8.02 7 10.5c0 1.22.49 2.41 1.35 3.27l1.36 1.36c.17.17.31.44.44.82A3.013 3.013 0 0 0 13 18c1.65 0 3-1.35 3-3h-2a1.003 1.003 0 0 1-1.95.32c-.15-.44-.4-1.08-.93-1.61l-1.36-1.36C9.28 11.87 9 11.19 9 10.5a2.5 2.5 0 0 1 4.95-.5h2.02c-.25-2.25-2.16-4-4.47-4z'></path><circle cx='13.5' cy='12.5' r='1.5'></circle>", attributeSet0);
-/// <summary>
-/// Gets the NordicWalking SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NordicWalking => SvgIcon.FromContent("<path d='M19 23h-1.5v-9H19v9zM7.53 14H6l-2 9h1.53l2-9zm5.97-8.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM9.8 8.9 7 23h2.1l1.8-8 2.1 2v6h2v-7.5l-2.1-2 .6-3C14.8 12 16.8 13 19 13v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6a2.145 2.145 0 0 0-2.65-.84L6 8.3V13h2V9.6l1.8-.7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the North SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon North => SvgIcon.FromContent("<path d='m5 9 1.41 1.41L11 5.83V22h2V5.83l4.59 4.59L19 9l-7-7-7 7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NorthEast SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NorthEast => SvgIcon.FromContent("<path d='M9 5v2h6.59L4 18.59 5.41 20 17 8.41V15h2V5H9z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NorthWest SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NorthWest => SvgIcon.FromContent("<path d='M5 15h2V8.41L18.59 20 20 18.59 8.41 7H15V5H5v10z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Note SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Note => SvgIcon.FromContent("<path d='m22 10-6-6H2v16h20V10zm-7-4.5 5.5 5.5H15V5.5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Notes SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Notes => SvgIcon.FromContent("<path d='M21 11.01 3 11v2h18zM3 16h12v2H3zM21 6H3v2.01L21 8z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NoteAdd SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NoteAdd => SvgIcon.FromContent("<path d='M14 2H4v20h16V8l-6-6zm2 14h-3v3h-2v-3H8v-2h3v-3h2v3h3v2zm-3-7V3.5L18.5 9H13z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NoteAlt SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NoteAlt => SvgIcon.FromContent("<path d='M21 3h-6.18C14.4 1.84 13.3 1 12 1s-2.4.84-2.82 2H3v18h18V3zm-9-.25c.41 0 .75.34.75.75s-.34.75-.75.75-.75-.34-.75-.75.34-.75.75-.75zM9.1 17H7v-2.14l5.96-5.96 2.12 2.12L9.1 17zm8.1-8.09-1.41 1.41-2.13-2.12 1.41-1.41 2.13 2.12z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Notifications SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Notifications => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotificationsActive SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotificationsActive => SvgIcon.FromContent("<path d='M7.58 4.08 6.15 2.65C3.75 4.48 2.17 7.3 2.03 10.5h2a8.445 8.445 0 0 1 3.55-6.42zm12.39 6.42h2c-.15-3.2-1.73-6.02-4.12-7.85l-1.42 1.43a8.495 8.495 0 0 1 3.54 6.42zM18 11c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2v-5zm-6 11c.14 0 .27-.01.4-.04.65-.14 1.18-.58 1.44-1.18.1-.24.15-.5.15-.78h-4c.01 1.1.9 2 2.01 2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotificationsNone SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotificationsNone => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V2.5h-3v2.18C7.64 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2zm-2 1H8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotificationsOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotificationsOff => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-11c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18c-.24.06-.47.15-.69.23L18 13.1V11zM5.41 3.35 4 4.76l2.81 2.81C6.29 8.57 6 9.73 6 11v5l-2 2v1h14.24l1.74 1.74 1.41-1.41L5.41 3.35z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotificationsPaused SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotificationsPaused => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18C7.63 5.36 6 7.93 6 11v5l-2 2v1h16v-1l-2-2zm-3.5-6.2-2.8 3.4h2.8V15h-5v-1.8l2.8-3.4H9.5V8h5v1.8z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotificationAdd SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotificationAdd => SvgIcon.FromContent("<path d='M10 20h4c0 1.1-.9 2-2 2s-2-.9-2-2zm4-11c0 2.61 1.67 4.83 4 5.66V17h2v2H4v-2h2v-7c0-2.79 1.91-5.14 4.5-5.8V2h3v2.2c.71.18 1.36.49 1.95.9A5.902 5.902 0 0 0 14 9zm10-1h-3V5h-2v3h-3v2h3v3h2v-3h3V8z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotificationImportant SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotificationImportant => SvgIcon.FromContent("<path d='M12 23c1.1 0 1.99-.89 1.99-1.99h-3.98c0 1.1.89 1.99 1.99 1.99zm7-6v-6c0-3.35-2.36-6.15-5.5-6.83V1.5h-3v2.67C7.36 4.85 5 7.65 5 11v6l-2 2v1h18v-1l-2-2zm-6-1h-2v-2h2v2zm0-4h-2V8h2v4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotAccessible SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotAccessible => SvgIcon.FromContent("<path d='M12 2c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm-2 18c-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1a5 5 0 1 0 5.9 5.9h-2.07c-.41 1.16-1.52 2-2.83 2zm11.19 1.19L2.81 2.81 1.39 4.22 10 12.83V17h4.17l5.61 5.61 1.41-1.42zM19 11c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.24-.24-.44-.36-.63-.46-.36-.19-.72-.3-1.2-.26-.49.04-.91.27-1.23.61L14 11.05c1.29 1.07 3.25 1.94 5 1.95v-2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotInterested SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotInterested => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8 0-1.85.63-3.55 1.69-4.9L16.9 18.31A7.902 7.902 0 0 1 12 20zm6.31-3.1L7.1 5.69A7.902 7.902 0 0 1 12 4c4.42 0 8 3.58 8 8 0 1.85-.63 3.55-1.69 4.9z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotListedLocation SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotListedLocation => SvgIcon.FromContent("<path d='M12.01 16a.99.99 0 0 0 1-1 .99.99 0 0 0-1-1c-.28 0-.51.1-.71.29-.2.19-.3.43-.3.7s.1.51.29.71c.2.2.44.3.72.3zm-.88-3.66V13h1.85v-.42c0-.33.06-.6.18-.81.12-.21.33-.47.65-.77.4-.38.68-.75.89-1.09.19-.35.3-.76.3-1.25s-.13-.94-.39-1.35a2.57 2.57 0 0 0-1.05-.96C13.11 6.12 12.58 6 12 6c-.78 0-1.51.32-2.03.79C9.46 7.27 9 7.99 9 9h1.68c0-.52.19-.77.4-.98.21-.2.58-.3.96-.3.35 0 .64.1.85.3.21.2.32.45.32.74 0 .24-.06.46-.19.64-.13.19-.33.41-.61.66-.48.42-.81.79-1 1.12-.19.33-.28.71-.28 1.16zM12 2c4.2 0 8 3.22 8 8.2 0 3.32-2.67 7.25-8 11.8-5.33-4.55-8-8.48-8-11.8C4 5.22 7.8 2 12 2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the NotStarted SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon NotStarted => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm1 0V8l5 4-5 4z'></path>", attributeSet0);
+public static SvgIcon NightsStay => SvgIcon.FromContent("<path d='M11.1 12.08c-2.33-4.51-.5-8.48.53-10.07C6.27 2.2 1.98 6.59 1.98 12c0 .14.02.28.02.42.62-.27 1.29-.42 2-.42 1.66 0 3.18.83 4.1 2.15A4.01 4.01 0 0 1 11 18c0 1.52-.87 2.83-2.12 3.51.98.32 2.03.5 3.11.5 3.5 0 6.58-1.8 8.37-4.52-2.36.23-6.98-.97-9.26-5.41z'></path><path d='M7 16h-.18C6.4 14.84 5.3 14 4 14c-1.66 0-3 1.34-3 3s1.34 3 3 3h3c1.1 0 2-.9 2-2s-.9-2-2-2z'></path>", attributeSet0);
 /// <summary>
 /// Gets the NoAccounts SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5178,6 +5094,14 @@ public static SvgIcon NoFlash => SvgIcon.FromContent("<path d='M2.45 2.45 1.04 3
 /// </summary>
 public static SvgIcon NoFood => SvgIcon.FromContent("<path d='M11.35 8.52 11 5h5V1h2v4h5l-1.38 13.79L18 15.17l-6.65-6.65zM21.9 21.9 2.1 2.1.69 3.51l5.7 5.7C3.46 9.83 1 11.76 1 15h11.17l2 2H1v2h15v-.17l4.49 4.49 1.41-1.42zM1 23h15v-2H1v2z'></path>", attributeSet0);
 /// <summary>
+/// Gets the NoiseAware SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NoiseAware => SvgIcon.FromContent("<path d='M16 15h-2a1.003 1.003 0 0 1-1.95.32c-.15-.44-.4-1.08-.93-1.61l-1.36-1.36C9.28 11.87 9 11.19 9 10.5a2.5 2.5 0 0 1 4.95-.5h2.02c-.25-2.25-2.16-4-4.47-4C9.02 6 7 8.02 7 10.5c0 1.22.49 2.41 1.35 3.27l1.36 1.36c.17.17.31.44.44.82A3.013 3.013 0 0 0 13 18c1.65 0 3-1.35 3-3z'></path><circle cx='13.5' cy='12.5' r='1.5'></circle><path d='m3.6 6.58 1.58 1.26c.35-.57.77-1.1 1.24-1.57L4.85 5.02c-.47.47-.88 1-1.25 1.56zm5.86-2.16-.87-1.81c-.63.23-1.24.52-1.8.87l.87 1.81c.56-.36 1.16-.65 1.8-.87zM4.49 9.26l-1.96-.45c-.21.63-.36 1.28-.44 1.95l1.96.45a7.9 7.9 0 0 1 .44-1.95zM20.4 6.58a9.4 9.4 0 0 0-1.25-1.56l-1.58 1.26c.48.47.89.99 1.24 1.57l1.59-1.27zM4.04 12.79l-1.96.45c.08.67.23 1.33.44 1.95l1.97-.45c-.22-.62-.38-1.27-.45-1.95zm13.17-9.31c-.57-.35-1.17-.64-1.8-.87l-.87 1.81c.64.22 1.24.51 1.8.87l.87-1.81zM13 4.07V2.05c-.33-.03-.66-.05-1-.05s-.67.02-1 .05v2.02c.33-.04.66-.07 1-.07s.67.03 1 .07zm-2 15.86v2.02c.33.03.66.05 1 .05s.67-.02 1-.05v-2.02c-.33.04-.66.07-1 .07s-.67-.03-1-.07zm8.51-5.19 1.97.45c.21-.63.36-1.28.44-1.95l-1.96-.45c-.07.68-.23 1.33-.45 1.95zm.45-3.53 1.96-.45a9.69 9.69 0 0 0-.44-1.95l-1.97.45c.22.62.38 1.27.45 1.95zm-2.38 6.52 1.58 1.26c.47-.48.88-1 1.25-1.56l-1.58-1.26a9.4 9.4 0 0 1-1.25 1.56zM6.79 20.52c.57.35 1.17.64 1.8.87l.87-1.81c-.64-.22-1.24-.51-1.8-.87l-.87 1.81zm7.75-.94.87 1.81c.63-.23 1.24-.52 1.8-.87l-.87-1.81c-.56.36-1.16.65-1.8.87zM3.6 17.42a9.4 9.4 0 0 0 1.25 1.56l1.58-1.26a7.87 7.87 0 0 1-1.24-1.57L3.6 17.42z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NoiseControlOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NoiseControlOff => SvgIcon.FromContent("<path d='M12 4c1.44 0 2.79.38 3.95 1.05L17.4 3.6C15.85 2.59 13.99 2 12 2s-3.85.59-5.41 1.59l1.45 1.45A8.034 8.034 0 0 1 12 4zm8 8c0 1.44-.38 2.79-1.05 3.95l1.45 1.45c1.01-1.55 1.6-3.41 1.6-5.4s-.59-3.85-1.59-5.41l-1.45 1.45A8.034 8.034 0 0 1 20 12zm-8 8c-1.44 0-2.79-.38-3.95-1.05L6.6 20.4C8.15 21.41 10.01 22 12 22s3.85-.59 5.41-1.59l-1.45-1.45A8.034 8.034 0 0 1 12 20zm-8-8c0-1.44.38-2.79 1.05-3.95L3.59 6.59C2.59 8.15 2 10.01 2 12s.59 3.85 1.59 5.41l1.45-1.45A8.034 8.034 0 0 1 4 12zm7.5-6C9.02 6 7 8.02 7 10.5c0 1.22.49 2.41 1.35 3.27l1.36 1.36c.17.17.31.44.44.82A3.013 3.013 0 0 0 13 18c1.65 0 3-1.35 3-3h-2a1.003 1.003 0 0 1-1.95.32c-.15-.44-.4-1.08-.93-1.61l-1.36-1.36C9.28 11.87 9 11.19 9 10.5a2.5 2.5 0 0 1 4.95-.5h2.02c-.25-2.25-2.16-4-4.47-4z'></path><circle cx='13.5' cy='12.5' r='1.5'></circle>", attributeSet0);
+/// <summary>
 /// Gets the NoLuggage SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon NoLuggage => SvgIcon.FromContent("<path d='M12.75 9v.92l1.75 1.75V9H16v4.17l3 3V6h-4V2H9v4h-.17l3 3h.92zM10.5 3.5h3V6h-3V3.5zm10.69 17.69L2.81 2.81 1.39 4.22 5 7.83V21h2v1h2v-1h6v1h2v-1h1.17l1.61 1.61 1.41-1.42zM8 18v-7.17l1.5 1.5V18H8zm3.25 0v-3.92l1.5 1.5V18h-1.5z'></path>", attributeSet0);
@@ -5194,6 +5118,22 @@ public static SvgIcon NoMeetingRoom => SvgIcon.FromContent("<path d='M14 6h3v7.8
 /// </summary>
 public static SvgIcon NoPhotography => SvgIcon.FromContent("<path d='M10.94 8.12 7.48 4.66 9 3h6l1.83 2H22v14.17l-5.12-5.12c.08-.34.12-.69.12-1.05 0-2.76-2.24-5-5-5-.36 0-.71.04-1.06.12zm9.55 15.19L18.17 21H2V5h.17L.69 3.51 2.1 2.1 21 21l.9.9-1.41 1.41zm-6-5.99-1.5-1.5c-.32.1-.64.18-.99.18-1.66 0-3-1.34-3-3 0-.35.08-.67.19-.98l-1.5-1.5A4.74 4.74 0 0 0 7 13c0 2.76 2.24 5 5 5 .91 0 1.76-.25 2.49-.68z'></path>", attributeSet0);
 /// <summary>
+/// Gets the NordicWalking SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NordicWalking => SvgIcon.FromContent("<path d='M19 23h-1.5v-9H19v9zM7.53 14H6l-2 9h1.53l2-9zm5.97-8.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM9.8 8.9 7 23h2.1l1.8-8 2.1 2v6h2v-7.5l-2.1-2 .6-3C14.8 12 16.8 13 19 13v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6a2.145 2.145 0 0 0-2.65-.84L6 8.3V13h2V9.6l1.8-.7z'></path>", attributeSet0);
+/// <summary>
+/// Gets the North SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon North => SvgIcon.FromContent("<path d='m5 9 1.41 1.41L11 5.83V22h2V5.83l4.59 4.59L19 9l-7-7-7 7z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NorthEast SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NorthEast => SvgIcon.FromContent("<path d='M9 5v2h6.59L4 18.59 5.41 20 17 8.41V15h2V5H9z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NorthWest SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NorthWest => SvgIcon.FromContent("<path d='M5 15h2V8.41L18.59 20 20 18.59 8.41 7H15V5H5v10z'></path>", attributeSet0);
+/// <summary>
 /// Gets the NoSim SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon NoSim => SvgIcon.FromContent("<path d='M3.79 3.74 2.38 5.15l2.74 2.74-.12.12V21h13.27l1.58 1.62 1.41-1.41zM19 16.11V3h-8.99L7.95 5.06z'></path>", attributeSet0);
@@ -5202,9 +5142,69 @@ public static SvgIcon NoSim => SvgIcon.FromContent("<path d='M3.79 3.74 2.38 5.1
 /// </summary>
 public static SvgIcon NoStroller => SvgIcon.FromContent("<path d='M10.91 8.08 6.53 3.7C7.6 3.25 8.77 3 10 3c1.56 0 3.03.4 4.3 1.1l-3.39 3.98zm10.28 13.11-4.78-4.78-5.75-5.75-7.85-7.85-1.42 1.41 7.97 7.97L5.27 17h8.9l1.13 1.13c-.88.33-1.47 1.25-1.26 2.28.15.76.78 1.39 1.54 1.54 1.03.21 1.95-.38 2.28-1.26l1.91 1.91 1.42-1.41zM6 18c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zM17 6.27c.58-.68.97-1.27 1.65-1.27.77 0 1.35.66 1.35 1.48V7h2v-.52C22 4.56 20.52 3 18.65 3c-1.66 0-2.54 1.27-3.18 2.03l-3.5 4.11L17 14.17v-7.9z'></path>", attributeSet0);
 /// <summary>
+/// Gets the NotAccessible SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotAccessible => SvgIcon.FromContent("<path d='M12 2c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm-2 18c-1.66 0-3-1.34-3-3 0-1.31.84-2.41 2-2.83V12.1a5 5 0 1 0 5.9 5.9h-2.07c-.41 1.16-1.52 2-2.83 2zm11.19 1.19L2.81 2.81 1.39 4.22 10 12.83V17h4.17l5.61 5.61 1.41-1.42zM19 11c-1.54.02-3.09-.75-4.07-1.83l-1.29-1.43c-.24-.24-.44-.36-.63-.46-.36-.19-.72-.3-1.2-.26-.49.04-.91.27-1.23.61L14 11.05c1.29 1.07 3.25 1.94 5 1.95v-2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Note SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Note => SvgIcon.FromContent("<path d='m22 10-6-6H2v16h20V10zm-7-4.5 5.5 5.5H15V5.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NoteAdd SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NoteAdd => SvgIcon.FromContent("<path d='M14 2H4v20h16V8l-6-6zm2 14h-3v3h-2v-3H8v-2h3v-3h2v3h3v2zm-3-7V3.5L18.5 9H13z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NoteAlt SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NoteAlt => SvgIcon.FromContent("<path d='M21 3h-6.18C14.4 1.84 13.3 1 12 1s-2.4.84-2.82 2H3v18h18V3zm-9-.25c.41 0 .75.34.75.75s-.34.75-.75.75-.75-.34-.75-.75.34-.75.75-.75zM9.1 17H7v-2.14l5.96-5.96 2.12 2.12L9.1 17zm8.1-8.09-1.41 1.41-2.13-2.12 1.41-1.41 2.13 2.12z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Notes SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Notes => SvgIcon.FromContent("<path d='M21 11.01 3 11v2h18zM3 16h12v2H3zM21 6H3v2.01L21 8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotificationAdd SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotificationAdd => SvgIcon.FromContent("<path d='M10 20h4c0 1.1-.9 2-2 2s-2-.9-2-2zm4-11c0 2.61 1.67 4.83 4 5.66V17h2v2H4v-2h2v-7c0-2.79 1.91-5.14 4.5-5.8V2h3v2.2c.71.18 1.36.49 1.95.9A5.902 5.902 0 0 0 14 9zm10-1h-3V5h-2v3h-3v2h3v3h2v-3h3V8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotificationImportant SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotificationImportant => SvgIcon.FromContent("<path d='M12 23c1.1 0 1.99-.89 1.99-1.99h-3.98c0 1.1.89 1.99 1.99 1.99zm7-6v-6c0-3.35-2.36-6.15-5.5-6.83V1.5h-3v2.67C7.36 4.85 5 7.65 5 11v6l-2 2v1h18v-1l-2-2zm-6-1h-2v-2h2v2zm0-4h-2V8h2v4z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Notifications SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Notifications => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotificationsActive SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotificationsActive => SvgIcon.FromContent("<path d='M7.58 4.08 6.15 2.65C3.75 4.48 2.17 7.3 2.03 10.5h2a8.445 8.445 0 0 1 3.55-6.42zm12.39 6.42h2c-.15-3.2-1.73-6.02-4.12-7.85l-1.42 1.43a8.495 8.495 0 0 1 3.54 6.42zM18 11c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2v-5zm-6 11c.14 0 .27-.01.4-.04.65-.14 1.18-.58 1.44-1.18.1-.24.15-.5.15-.78h-4c.01 1.1.9 2 2.01 2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotificationsNone SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotificationsNone => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.07-1.63-5.64-4.5-6.32V2.5h-3v2.18C7.64 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2zm-2 1H8v-6c0-2.48 1.51-4.5 4-4.5s4 2.02 4 4.5v6z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotificationsOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotificationsOff => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-11c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18c-.24.06-.47.15-.69.23L18 13.1V11zM5.41 3.35 4 4.76l2.81 2.81C6.29 8.57 6 9.73 6 11v5l-2 2v1h14.24l1.74 1.74 1.41-1.41L5.41 3.35z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotificationsPaused SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotificationsPaused => SvgIcon.FromContent("<path d='M12 22c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V2.5h-3v2.18C7.63 5.36 6 7.93 6 11v5l-2 2v1h16v-1l-2-2zm-3.5-6.2-2.8 3.4h2.8V15h-5v-1.8l2.8-3.4H9.5V8h5v1.8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotInterested SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotInterested => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8 0-1.85.63-3.55 1.69-4.9L16.9 18.31A7.902 7.902 0 0 1 12 20zm6.31-3.1L7.1 5.69A7.902 7.902 0 0 1 12 4c4.42 0 8 3.58 8 8 0 1.85-.63 3.55-1.69 4.9z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotListedLocation SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotListedLocation => SvgIcon.FromContent("<path d='M12.01 16a.99.99 0 0 0 1-1 .99.99 0 0 0-1-1c-.28 0-.51.1-.71.29-.2.19-.3.43-.3.7s.1.51.29.71c.2.2.44.3.72.3zm-.88-3.66V13h1.85v-.42c0-.33.06-.6.18-.81.12-.21.33-.47.65-.77.4-.38.68-.75.89-1.09.19-.35.3-.76.3-1.25s-.13-.94-.39-1.35a2.57 2.57 0 0 0-1.05-.96C13.11 6.12 12.58 6 12 6c-.78 0-1.51.32-2.03.79C9.46 7.27 9 7.99 9 9h1.68c0-.52.19-.77.4-.98.21-.2.58-.3.96-.3.35 0 .64.1.85.3.21.2.32.45.32.74 0 .24-.06.46-.19.64-.13.19-.33.41-.61.66-.48.42-.81.79-1 1.12-.19.33-.28.71-.28 1.16zM12 2c4.2 0 8 3.22 8 8.2 0 3.32-2.67 7.25-8 11.8-5.33-4.55-8-8.48-8-11.8C4 5.22 7.8 2 12 2z'></path>", attributeSet0);
+/// <summary>
 /// Gets the NoTransfer SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon NoTransfer => SvgIcon.FromContent("<path d='M5.78 2.95C7.24 2.16 9.48 2 12 2c4.42 0 8 .5 8 4v10c0 .35-.08.67-.19.98L13.83 11H18V6H8.83L5.78 2.95zm14 19.66L18.17 21H16v-2H8v2H5v-2.78c-.61-.55-1-1.34-1-2.22V6.83L1.39 4.22 2.8 2.81l18.38 18.38-1.4 1.42zM9 15.5c0-.83-.67-1.5-1.5-1.5S6 14.67 6 15.5 6.67 17 7.5 17 9 16.33 9 15.5zM8.17 11 6 8.83V11h2.17z'></path>", attributeSet0);
+/// <summary>
+/// Gets the NotStarted SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon NotStarted => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm1 0V8l5 4-5 4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Numbers SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5230,13 +5230,13 @@ public static SvgIcon OilBarrel => SvgIcon.FromContent("<path d='M21 13v-2h-2V5h
 /// </summary>
 public static SvgIcon OndemandVideo => SvgIcon.FromContent("<path d='M23 3H1v16h7v2h8v-2h6.99L23 3zm-2 14H3V5h18v12zm-5-6-7 4V7l7 4z'></path>", attributeSet0);
 /// <summary>
-/// Gets the OnlinePrediction SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon OnlinePrediction => SvgIcon.FromContent("<path d='M15.5 11.5c0 2-2.5 3.5-2.5 5h-2c0-1.5-2.5-3-2.5-5C8.5 9.57 10.07 8 12 8s3.5 1.57 3.5 3.5zm-2.5 6h-2V19h2v-1.5zm9-5.5c0-2.76-1.12-5.26-2.93-7.07l-1.06 1.06A8.481 8.481 0 0 1 20.5 12c0 2.34-.95 4.47-2.49 6.01l1.06 1.06A9.969 9.969 0 0 0 22 12zM3.5 12c0-2.34.95-4.47 2.49-6.01L4.93 4.93A9.969 9.969 0 0 0 2 12c0 2.76 1.12 5.26 2.93 7.07l1.06-1.06A8.481 8.481 0 0 1 3.5 12zm14 0c0 1.52-.62 2.89-1.61 3.89l1.06 1.06A6.976 6.976 0 0 0 19 12c0-1.93-.78-3.68-2.05-4.95l-1.06 1.06c.99 1 1.61 2.37 1.61 3.89zM7.05 16.95l1.06-1.06c-1-1-1.61-2.37-1.61-3.89s.62-2.89 1.61-3.89L7.05 7.05A6.976 6.976 0 0 0 5 12c0 1.93.78 3.68 2.05 4.95z'></path>", attributeSet0);
-/// <summary>
 /// Gets the OnDeviceTraining SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon OnDeviceTraining => SvgIcon.FromContent("<path d='M11 16h2v1h-2zm1-5c-1.1 0-2 .9-2 2 0 .74.4 1.38 1 1.72v.78h2v-.78c.6-.35 1-.98 1-1.72 0-1.1-.9-2-2-2z'></path><path d='M20 1.01 4 1v22h16V1.01zM18 18H6V6h12v12z'></path><path d='M16.01 15.95c.62-.83.99-1.84.99-2.95s-.37-2.12-.99-2.95l-1.07 1.07c.35.54.56 1.19.56 1.88s-.21 1.34-.56 1.88l1.07 1.07zm-6.95-1.07c-.35-.54-.56-1.19-.56-1.88 0-1.93 1.57-3.5 3.5-3.5v1.25l2.25-2-2.25-2V8c-2.76 0-5 2.24-5 5 0 1.11.37 2.12.99 2.95l1.07-1.07z'></path>", attributeSet0);
+/// <summary>
+/// Gets the OnlinePrediction SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon OnlinePrediction => SvgIcon.FromContent("<path d='M15.5 11.5c0 2-2.5 3.5-2.5 5h-2c0-1.5-2.5-3-2.5-5C8.5 9.57 10.07 8 12 8s3.5 1.57 3.5 3.5zm-2.5 6h-2V19h2v-1.5zm9-5.5c0-2.76-1.12-5.26-2.93-7.07l-1.06 1.06A8.481 8.481 0 0 1 20.5 12c0 2.34-.95 4.47-2.49 6.01l1.06 1.06A9.969 9.969 0 0 0 22 12zM3.5 12c0-2.34.95-4.47 2.49-6.01L4.93 4.93A9.969 9.969 0 0 0 2 12c0 2.76 1.12 5.26 2.93 7.07l1.06-1.06A8.481 8.481 0 0 1 3.5 12zm14 0c0 1.52-.62 2.89-1.61 3.89l1.06 1.06A6.976 6.976 0 0 0 19 12c0-1.93-.78-3.68-2.05-4.95l-1.06 1.06c.99 1 1.61 2.37 1.61 3.89zM7.05 16.95l1.06-1.06c-1-1-1.61-2.37-1.61-3.89s.62-2.89 1.61-3.89L7.05 7.05A6.976 6.976 0 0 0 5 12c0 1.93.78 3.68 2.05 4.95z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Opacity SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5474,14 +5474,6 @@ public static SvgIcon PermScanWifi => SvgIcon.FromContent("<path d='M12 3C6.95 3
 /// </summary>
 public static SvgIcon Person => SvgIcon.FromContent("<path d='M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z'></path>", attributeSet0);
 /// <summary>
-/// Gets the PersonalInjury SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PersonalInjury => SvgIcon.FromContent("<path d='M8 6c0-2.21 1.79-4 4-4s4 1.79 4 4-1.79 4-4 4-4-1.79-4-4zm9 16h1c1.1 0 2-.9 2-2v-4.78c0-1.12-.61-2.15-1.61-2.66-.43-.22-.9-.43-1.39-.62V22zm-4.66-5L15 11.33c-.93-.21-1.93-.33-3-.33-2.53 0-4.71.7-6.39 1.56A2.97 2.97 0 0 0 4 15.22V22h2.34c-.22-.45-.34-.96-.34-1.5C6 18.57 7.57 17 9.5 17h2.84zM10 22l1.41-3H9.5c-.83 0-1.5.67-1.5 1.5S8.67 22 9.5 22h.5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PersonalVideo SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PersonalVideo => SvgIcon.FromContent("<path d='M23 3H1v16h7v2h8v-2h6.99L23 3zm-2 14H3V5h18v12z'></path>", attributeSet0);
-/// <summary>
 /// Gets the Person2 SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Person2 => SvgIcon.FromContent("<path d='M18.39 14.56C16.71 13.7 14.53 13 12 13s-4.71.7-6.39 1.56A2.97 2.97 0 0 0 4 17.22V20h16v-2.78c0-1.12-.61-2.15-1.61-2.66zM9.78 12h4.44c1.21 0 2.14-1.06 1.98-2.26l-.32-2.45C15.57 5.39 13.92 4 12 4S8.43 5.39 8.12 7.29L7.8 9.74c-.16 1.2.77 2.26 1.98 2.26z'></path>", attributeSet0);
@@ -5509,6 +5501,14 @@ public static SvgIcon PersonAddAlt1 => SvgIcon.FromContent("<path d='M13 8c0-2.2
 /// Gets the PersonAddDisabled SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon PersonAddDisabled => SvgIcon.FromContent("<path d='M14.48 11.95c.17.02.34.05.52.05 2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4c0 .18.03.35.05.52l3.43 3.43zm2.21 2.21L22.53 20H23v-2c0-2.14-3.56-3.5-6.31-3.84zM0 3.12l4 4V10H1v2h3v3h2v-3h2.88l2.51 2.51C9.19 15.11 7 16.3 7 18v2h9.88l4 4 1.41-1.41L1.41 1.71 0 3.12zM6.88 10H6v-.88l.88.88z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PersonalInjury SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PersonalInjury => SvgIcon.FromContent("<path d='M8 6c0-2.21 1.79-4 4-4s4 1.79 4 4-1.79 4-4 4-4-1.79-4-4zm9 16h1c1.1 0 2-.9 2-2v-4.78c0-1.12-.61-2.15-1.61-2.66-.43-.22-.9-.43-1.39-.62V22zm-4.66-5L15 11.33c-.93-.21-1.93-.33-3-.33-2.53 0-4.71.7-6.39 1.56A2.97 2.97 0 0 0 4 15.22V22h2.34c-.22-.45-.34-.96-.34-1.5C6 18.57 7.57 17 9.5 17h2.84zM10 22l1.41-3H9.5c-.83 0-1.5.67-1.5 1.5S8.67 22 9.5 22h.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PersonalVideo SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PersonalVideo => SvgIcon.FromContent("<path d='M23 3H1v16h7v2h8v-2h6.99L23 3zm-2 14H3V5h18v12z'></path>", attributeSet0);
 /// <summary>
 /// Gets the PersonOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5558,30 +5558,6 @@ public static SvgIcon Phishing => SvgIcon.FromContent("<path d='M19 9c0-1.3-.84-
 /// </summary>
 public static SvgIcon Phone => SvgIcon.FromContent("<path d='m21 15.46-5.27-.61-2.52 2.52a15.045 15.045 0 0 1-6.59-6.59l2.53-2.53L8.54 3H3.03C2.45 13.18 10.82 21.55 21 20.97v-5.51z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Phonelink SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Phonelink => SvgIcon.FromContent("<path d='M4 6h18V4H2v13H0v3h14v-3H4V6zm20 2h-8v12h8V8zm-2 9h-4v-7h4v7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PhonelinkErase SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PhonelinkErase => SvgIcon.FromContent("<path d='m13 8.2-1-1-4 4-4-4-1 1 4 4-4 4 1 1 4-4 4 4 1-1-4-4 4-4zM21 1H7v5h2V4h10v16H9v-2H7v5h14V1z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PhonelinkLock SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PhonelinkLock => SvgIcon.FromContent("<path d='M21 1H7v5h2V4h10v16H9v-2H7v5h14V1zM10.8 11V9.5C10.8 8.1 9.4 7 8 7S5.2 8.1 5.2 9.5V11H4v6h8v-6h-1.2zm-1.3 0h-3V9.5c0-.8.7-1.3 1.5-1.3s1.5.5 1.5 1.3V11z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PhonelinkOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PhonelinkOff => SvgIcon.FromContent("<path d='m4.56 4-2.5-2.49L4.56 4zM24 8h-8v4.61l2 2V10h4v7h-1.61l3 3H24zm-2-2V4H7.39l2 2zM2.06 1.51.65 2.92 2 4.27V17H0v3h17.73l2.35 2.35 1.41-1.41L2.06 1.51zM4 17V6.27L14.73 17H4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PhonelinkRing SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PhonelinkRing => SvgIcon.FromContent("<path d='m20.1 7.7-1 1c1.8 1.8 1.8 4.6 0 6.5l1 1c2.5-2.3 2.5-6.1 0-8.5zM18 9.8l-1 1c.5.7.5 1.6 0 2.3l1 1c1.2-1.2 1.2-3 0-4.3zM16 1H2v22h14V1zm-2 19H4V4h10v16z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PhonelinkSetup SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PhonelinkSetup => SvgIcon.FromContent("<path d='M7 1v5h2V4h10v16H9v-2H7v5h14V1zm2.5 14.5c.29-.12.55-.29.8-.48l-.02.03 1.41.55 1.27-2.2-1.18-.95-.02.03c.02-.16.05-.32.05-.48s-.03-.32-.05-.48l.02.03 1.18-.95-1.26-2.2-1.41.55.02.03c-.26-.19-.52-.36-.81-.48L9.27 7H6.73L6.5 8.5c-.29.12-.55.29-.8.48l.02-.03L4.3 8.4l-1.27 2.2 1.18.95.02-.03c-.01.16-.04.32-.04.48s.03.32.05.48l-.02-.03-1.18.95 1.27 2.2 1.41-.55-.02-.03c.25.19.51.36.8.48l.23 1.5h2.54l.23-1.5zM6 12c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2z'></path>", attributeSet0);
-/// <summary>
 /// Gets the PhoneAndroid SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon PhoneAndroid => SvgIcon.FromContent("<path d='M19 1H5v22h14V1zm-5 20h-4v-1h4v1zm3-3H7V4h10v14z'></path>", attributeSet0);
@@ -5609,6 +5585,30 @@ public static SvgIcon PhoneForwarded => SvgIcon.FromContent("<path d='m18 11 5-5
 /// Gets the PhoneIphone SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon PhoneIphone => SvgIcon.FromContent("<path d='M18 1H5v22h13V1zm-6.5 21c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4.5-4H7V4h9v14z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Phonelink SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Phonelink => SvgIcon.FromContent("<path d='M4 6h18V4H2v13H0v3h14v-3H4V6zm20 2h-8v12h8V8zm-2 9h-4v-7h4v7z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PhonelinkErase SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PhonelinkErase => SvgIcon.FromContent("<path d='m13 8.2-1-1-4 4-4-4-1 1 4 4-4 4 1 1 4-4 4 4 1-1-4-4 4-4zM21 1H7v5h2V4h10v16H9v-2H7v5h14V1z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PhonelinkLock SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PhonelinkLock => SvgIcon.FromContent("<path d='M21 1H7v5h2V4h10v16H9v-2H7v5h14V1zM10.8 11V9.5C10.8 8.1 9.4 7 8 7S5.2 8.1 5.2 9.5V11H4v6h8v-6h-1.2zm-1.3 0h-3V9.5c0-.8.7-1.3 1.5-1.3s1.5.5 1.5 1.3V11z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PhonelinkOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PhonelinkOff => SvgIcon.FromContent("<path d='m4.56 4-2.5-2.49L4.56 4zM24 8h-8v4.61l2 2V10h4v7h-1.61l3 3H24zm-2-2V4H7.39l2 2zM2.06 1.51.65 2.92 2 4.27V17H0v3h17.73l2.35 2.35 1.41-1.41L2.06 1.51zM4 17V6.27L14.73 17H4z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PhonelinkRing SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PhonelinkRing => SvgIcon.FromContent("<path d='m20.1 7.7-1 1c1.8 1.8 1.8 4.6 0 6.5l1 1c2.5-2.3 2.5-6.1 0-8.5zM18 9.8l-1 1c.5.7.5 1.6 0 2.3l1 1c1.2-1.2 1.2-3 0-4.3zM16 1H2v22h14V1zm-2 19H4V4h10v16z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PhonelinkSetup SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PhonelinkSetup => SvgIcon.FromContent("<path d='M7 1v5h2V4h10v16H9v-2H7v5h14V1zm2.5 14.5c.29-.12.55-.29.8-.48l-.02.03 1.41.55 1.27-2.2-1.18-.95-.02.03c.02-.16.05-.32.05-.48s-.03-.32-.05-.48l.02.03 1.18-.95-1.26-2.2-1.41.55.02.03c-.26-.19-.52-.36-.81-.48L9.27 7H6.73L6.5 8.5c-.29.12-.55.29-.8.48l.02-.03L4.3 8.4l-1.27 2.2 1.18.95.02-.03c-.01.16-.04.32-.04.48s.03.32.05.48l-.02-.03-1.18.95 1.27 2.2 1.41-.55-.02-.03c.25.19.51.36.8.48l.23 1.5h2.54l.23-1.5zM6 12c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2z'></path>", attributeSet0);
 /// <summary>
 /// Gets the PhoneLocked SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -5730,30 +5730,6 @@ public static SvgIcon Place => SvgIcon.FromContent("<path d='M12 12c-1.1 0-2-.9-
 /// </summary>
 public static SvgIcon Plagiarism => SvgIcon.FromContent("<circle cx='11.5' cy='14.5' r='1.5'></circle><path d='M14 2H4v20h16V8l-6-6zm1.04 17.45-1.88-1.88c-1.33.71-3.01.53-4.13-.59a3.495 3.495 0 0 1 0-4.95 3.495 3.495 0 0 1 4.95 0 3.48 3.48 0 0 1 .59 4.13l1.88 1.88-1.41 1.41zM13 9V3.5L18.5 9H13z'></path>", attributeSet0);
 /// <summary>
-/// Gets the PlaylistAdd SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PlaylistAdd => SvgIcon.FromContent("<path d='M14 10H3v2h11v-2zm0-4H3v2h11V6zm4 8v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zM3 16h7v-2H3v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PlaylistAddCheck SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PlaylistAddCheck => SvgIcon.FromContent("<path d='M3 10h11v2H3zm0-4h11v2H3zm0 8h7v2H3zm17.59-2.07-4.25 4.24-2.12-2.12-1.41 1.41L16.34 19 22 13.34z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PlaylistAddCheckCircle SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PlaylistAddCheckCircle => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM7 7h7v2H7V7zm0 3h7v2H7v-2zm3 5H7v-2h3v2zm4.05 3.36-2.83-2.83 1.41-1.41 1.41 1.41L17.59 12 19 13.41l-4.95 4.95z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PlaylistAddCircle SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PlaylistAddCircle => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM7 7h7v2H7V7zm3 8H7v-2h3v2zm-3-3v-2h7v2H7zm12 3h-2v2h-2v-2h-2v-2h2v-2h2v2h2v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PlaylistPlay SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PlaylistPlay => SvgIcon.FromContent("<path d='M3 10h11v2H3zm0-4h11v2H3zm0 8h7v2H3zm13-1v8l6-4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the PlaylistRemove SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon PlaylistRemove => SvgIcon.FromContent("<path d='M14 10H3v2h11v-2zm0-4H3v2h11V6zM3 16h7v-2H3v2zm11.41 6L17 19.41 19.59 22 21 20.59 18.41 18 21 15.41 19.59 14 17 16.59 14.41 14 13 15.41 15.59 18 13 20.59 14.41 22z'></path>", attributeSet0);
-/// <summary>
 /// Gets the PlayArrow SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon PlayArrow => SvgIcon.FromContent("<path d='M8 5v14l11-7L8 5z'></path>", attributeSet0);
@@ -5781,6 +5757,30 @@ public static SvgIcon PlayForWork => SvgIcon.FromContent("<path d='M11 5v5.59H7.
 /// Gets the PlayLesson SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon PlayLesson => SvgIcon.FromContent("<path d='M18 11c.34 0 .67.03 1 .08V2H3v20h9.26A6.995 6.995 0 0 1 18 11zM7 11V4h5v7L9.5 9.5 7 11z'></path><path d='M18 13c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm-1.25 7.5v-5l4 2.5-4 2.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PlaylistAdd SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PlaylistAdd => SvgIcon.FromContent("<path d='M14 10H3v2h11v-2zm0-4H3v2h11V6zm4 8v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zM3 16h7v-2H3v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PlaylistAddCheck SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PlaylistAddCheck => SvgIcon.FromContent("<path d='M3 10h11v2H3zm0-4h11v2H3zm0 8h7v2H3zm17.59-2.07-4.25 4.24-2.12-2.12-1.41 1.41L16.34 19 22 13.34z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PlaylistAddCheckCircle SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PlaylistAddCheckCircle => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM7 7h7v2H7V7zm0 3h7v2H7v-2zm3 5H7v-2h3v2zm4.05 3.36-2.83-2.83 1.41-1.41 1.41 1.41L17.59 12 19 13.41l-4.95 4.95z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PlaylistAddCircle SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PlaylistAddCircle => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM7 7h7v2H7V7zm3 8H7v-2h3v2zm-3-3v-2h7v2H7zm12 3h-2v2h-2v-2h-2v-2h2v-2h2v2h2v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PlaylistPlay SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PlaylistPlay => SvgIcon.FromContent("<path d='M3 10h11v2H3zm0-4h11v2H3zm0 8h7v2H3zm13-1v8l6-4z'></path>", attributeSet0);
+/// <summary>
+/// Gets the PlaylistRemove SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon PlaylistRemove => SvgIcon.FromContent("<path d='M14 10H3v2h11v-2zm0-4H3v2h11V6zM3 16h7v-2H3v2zm11.41 6L17 19.41 19.59 22 21 20.59 18.41 18 21 15.41 19.59 14 17 16.59 14.41 14 13 15.41 15.59 18 13 20.59 14.41 22z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Plumbing SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6234,6 +6234,10 @@ public static SvgIcon RiceBowl => SvgIcon.FromContent("<path d='M22 12c0-5.52-4.
 /// </summary>
 public static SvgIcon RingVolume => SvgIcon.FromContent("<path d='m21.16 6.26-1.41-1.41-3.56 3.55 1.41 1.41s3.45-3.52 3.56-3.55zM11 2h2v5h-2zM6.4 9.81 7.81 8.4 4.26 4.84 2.84 6.26c.11.03 3.56 3.55 3.56 3.55zM0 17.39l3.68 3.68 3.92-3.11v-3.37c2.85-.93 5.94-.93 8.8 0v3.38l3.91 3.1L24 17.39c-6.41-7.19-17.59-7.19-24 0z'></path>", attributeSet0);
 /// <summary>
+/// Gets the RMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon RMobiledata => SvgIcon.FromContent("<path d='M7.8 7.2 9 10H7L5.87 7.33H4V10H2V2h7v5.2H7.8zM7 4H4v1.33h3V4z'></path>", attributeSet0);
+/// <summary>
 /// Gets the Rocket SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Rocket => SvgIcon.FromContent("<path d='M12 2.5s4.5 2.04 4.5 10.5c0 2.49-1.04 5.57-1.6 7H9.1c-.56-1.43-1.6-4.51-1.6-7C7.5 4.54 12 2.5 12 2.5zm2 8.5c0-1.1-.9-2-2-2s-2 .9-2 2 .9 2 2 2 2-.9 2-2zm-6.31 9.52c-.48-1.23-1.52-4.17-1.67-6.87L4 15v7l3.69-1.48zM20 22v-7l-2.02-1.35c-.15 2.69-1.2 5.64-1.67 6.87L20 22z'></path>", attributeSet0);
@@ -6330,21 +6334,17 @@ public static SvgIcon Rule => SvgIcon.FromContent("<path d='M16.54 11 13 7.46l1.
 /// </summary>
 public static SvgIcon RuleFolder => SvgIcon.FromContent("<path d='M22 6H12l-2-2H2v16h20V6zM7.83 16 5 13.17l1.41-1.41 1.41 1.41 3.54-3.54 1.41 1.41L7.83 16zm9.58-3L19 14.59 17.59 16 16 14.41 14.41 16 13 14.59 14.59 13 13 11.41 14.41 10 16 11.59 17.59 10 19 11.41 17.41 13z'></path>", attributeSet0);
 /// <summary>
-/// Gets the RunningWithErrors SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon RunningWithErrors => SvgIcon.FromContent("<path d='M22 10v8h-2v-8h2zm-2 10v2h2v-2h-2zm-2-2.71A7.99 7.99 0 0 1 12 20c-4.41 0-8-3.59-8-8s3.59-8 8-8v9l7.55-7.55A9.965 9.965 0 0 0 12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c2.25 0 4.33-.74 6-2v-2.71z'></path>", attributeSet0);
-/// <summary>
 /// Gets the RunCircle SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon RunCircle => SvgIcon.FromContent("<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1.5 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2.5 6c-.7 0-2.01-.54-2.91-1.76l-.41 2.35L14 14.03V18h-1v-3.58l-1.11-1.21-.52 2.64-3.77-.77.2-.98 2.78.57.96-4.89-1.54.57V12H9V9.65l3.28-1.21c.49-.18 1.03.06 1.26.53.83 1.7 2.05 2.03 2.46 2.03v1z'></path>", attributeSet0);
 /// <summary>
+/// Gets the RunningWithErrors SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon RunningWithErrors => SvgIcon.FromContent("<path d='M22 10v8h-2v-8h2zm-2 10v2h2v-2h-2zm-2-2.71A7.99 7.99 0 0 1 12 20c-4.41 0-8-3.59-8-8s3.59-8 8-8v9l7.55-7.55A9.965 9.965 0 0 0 12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c2.25 0 4.33-.74 6-2v-2.71z'></path>", attributeSet0);
+/// <summary>
 /// Gets the RvHookup SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon RvHookup => SvgIcon.FromContent("<path d='M20 17V9H7V7l-3 3 3 3v-2h4v3H4v5h4c0 1.66 1.34 3 3 3s3-1.34 3-3h8v-2h-2zm-9 3c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm7-6h-4v-3h4v3zM17 2v2H9v2h8v2l3-3-3-3z'></path>", attributeSet0);
-/// <summary>
-/// Gets the RMobiledata SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon RMobiledata => SvgIcon.FromContent("<path d='M7.8 7.2 9 10H7L5.87 7.33H4V10H2V2h7v5.2H7.8zM7 4H4v1.33h3V4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the SafetyCheck SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6374,10 +6374,6 @@ public static SvgIcon SatelliteAlt => SvgIcon.FromContent("<path d='m15.44.59-3.
 /// </summary>
 public static SvgIcon Save => SvgIcon.FromContent("<path d='M17 3H3v18h18V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z'></path>", attributeSet0);
 /// <summary>
-/// Gets the SavedSearch SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon SavedSearch => SvgIcon.FromContent("<path d='M14.73 13.31A6.388 6.388 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.43 0 2.74-.48 3.81-1.27L19.59 21 21 19.59l-6.27-6.28zM9.5 14C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z'></path><path d='M10.29 8.44 9.5 6l-.79 2.44H6.25l2.01 1.59-.77 2.47 2.01-1.53 2.01 1.53-.77-2.47 2.01-1.59z'></path>", attributeSet0);
-/// <summary>
 /// Gets the SaveAlt SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SaveAlt => SvgIcon.FromContent("<path d='M19 12v7H5v-7H3v9h18v-9h-2zm-6 .67 2.59-2.58L17 11.5l-5 5-5-5 1.41-1.41L11 12.67V3h2v9.67z'></path>", attributeSet0);
@@ -6385,6 +6381,10 @@ public static SvgIcon SaveAlt => SvgIcon.FromContent("<path d='M19 12v7H5v-7H3v9
 /// Gets the SaveAs SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SaveAs => SvgIcon.FromContent("<path d='M21 12.4V7l-4-4H3v18h9.4l8.6-8.6zM15 15c0 1.66-1.34 3-3 3s-3-1.34-3-3 1.34-3 3-3 3 1.34 3 3zM6 6h9v4H6V6zm13.99 10.25 1.77 1.77L16.77 23H15v-1.77l4.99-4.98zm3.62-.09-1.2 1.2-1.77-1.77 1.2-1.2 1.77 1.77z'></path>", attributeSet0);
+/// <summary>
+/// Gets the SavedSearch SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon SavedSearch => SvgIcon.FromContent("<path d='M14.73 13.31A6.388 6.388 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.43 0 2.74-.48 3.81-1.27L19.59 21 21 19.59l-6.27-6.28zM9.5 14C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z'></path><path d='M10.29 8.44 9.5 6l-.79 2.44H6.25l2.01 1.59-.77 2.47 2.01-1.53 2.01 1.53-.77-2.47 2.01-1.59z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Savings SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6430,14 +6430,6 @@ public static SvgIcon Score => SvgIcon.FromContent("<path d='M21 3H3v18h18V3zm-9
 /// </summary>
 public static SvgIcon Scoreboard => SvgIcon.FromContent("<path d='M17.5 13.5H16v-3h1.5v3zM22 4h-5V2h-2v2H9V2H7v2H2v16h20V4zM9.5 12.5h-3v1h3V15H5v-3.5h3v-1H5V9h4.5v3.5zm3.25 5.5h-1.5v-1.5h1.5V18zm0-3.5h-1.5V13h1.5v1.5zm0-3.5h-1.5V9.5h1.5V11zm0-3.5h-1.5V6h1.5v1.5zM19 9v6h-4.5V9H19z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Screenshot SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Screenshot => SvgIcon.FromContent("<path d='M5 1v22h14V1H5zm12 17H7V6h10v12zM9.5 8.5H12V7H8v4h1.5V8.5zM12 17h4v-4h-1.5v2.5H12V17z'></path>", attributeSet0);
-/// <summary>
-/// Gets the ScreenshotMonitor SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ScreenshotMonitor => SvgIcon.FromContent("<path d='M22 3H2v16h6v2h8v-2h6V3zm-2 14H4V5h16v12z'></path><path d='M6.5 7.5H9V6H5v4h1.5zM19 12h-1.5v2.5H15V16h4z'></path>", attributeSet0);
-/// <summary>
 /// Gets the ScreenLockLandscape SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ScreenLockLandscape => SvgIcon.FromContent("<path d='M23 5H1v14h22V5zm-4 12H5V7h14v10zM9 16h6v-5h-1v-.9c0-1-.69-1.92-1.68-2.08C11.07 7.83 10 8.79 10 10v1H9v5zm1.8-6c0-.66.54-1.2 1.2-1.2s1.2.54 1.2 1.2v1h-2.4v-1z'></path>", attributeSet0);
@@ -6465,6 +6457,14 @@ public static SvgIcon ScreenSearchDesktop => SvgIcon.FromContent("<path d='M1 19
 /// Gets the ScreenShare SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ScreenShare => SvgIcon.FromContent("<path d='m20 18 2-2V4H2v12l2 2H0v2h24v-2h-4zm-7-3.53v-2.19c-2.78 0-4.61.85-6 2.72.56-2.67 2.11-5.33 6-5.87V7l4 3.73-4 3.74z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Screenshot SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Screenshot => SvgIcon.FromContent("<path d='M5 1v22h14V1H5zm12 17H7V6h10v12zM9.5 8.5H12V7H8v4h1.5V8.5zM12 17h4v-4h-1.5v2.5H12V17z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ScreenshotMonitor SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ScreenshotMonitor => SvgIcon.FromContent("<path d='M22 3H2v16h6v2h8v-2h6V3zm-2 14H4V5h16v12z'></path><path d='M6.5 7.5H9V6H5v4h1.5zM19 12h-1.5v2.5H15V16h4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ScubaDiving SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6542,14 +6542,6 @@ public static SvgIcon SendTimeExtension => SvgIcon.FromContent("<path d='M20 4h-
 /// </summary>
 public static SvgIcon SendToMobile => SvgIcon.FromContent("<path d='M17 18H7V6h10v1h2V1H5v22h14v-6h-2z'></path><path d='m22 12-4-4v3h-5v2h5v3z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Sensors SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Sensors => SvgIcon.FromContent("<path d='M7.76 16.24C6.67 15.16 6 13.66 6 12s.67-3.16 1.76-4.24l1.42 1.42C8.45 9.9 8 10.9 8 12c0 1.1.45 2.1 1.17 2.83l-1.41 1.41zm8.48 0C17.33 15.16 18 13.66 18 12s-.67-3.16-1.76-4.24l-1.42 1.42C15.55 9.9 16 10.9 16 12c0 1.1-.45 2.1-1.17 2.83l1.41 1.41zM12 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm8 2c0 2.21-.9 4.21-2.35 5.65l1.42 1.42C20.88 17.26 22 14.76 22 12s-1.12-5.26-2.93-7.07l-1.42 1.42A7.94 7.94 0 0 1 20 12zM6.35 6.35 4.93 4.93C3.12 6.74 2 9.24 2 12s1.12 5.26 2.93 7.07l1.42-1.42C4.9 16.21 4 14.21 4 12s.9-4.21 2.35-5.65z'></path>", attributeSet0);
-/// <summary>
-/// Gets the SensorsOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon SensorsOff => SvgIcon.FromContent("<path d='M8.14 10.96c-.09.33-.14.68-.14 1.04 0 1.1.45 2.1 1.17 2.83l-1.42 1.42A6.018 6.018 0 0 1 6 12c0-.93.21-1.8.58-2.59L5.11 7.94A7.897 7.897 0 0 0 4 12c0 2.21.9 4.21 2.35 5.65l-1.42 1.42A9.969 9.969 0 0 1 2 12c0-2.04.61-3.93 1.66-5.51L1.39 4.22 2.8 2.81l18.38 18.38-1.41 1.41L8.14 10.96zm9.28 3.63c.37-.79.58-1.66.58-2.59 0-1.66-.67-3.16-1.76-4.24l-1.42 1.42a3.951 3.951 0 0 1 1.04 3.86l1.56 1.55zM20 12c0 1.48-.4 2.87-1.11 4.06l1.45 1.45A9.91 9.91 0 0 0 22 12c0-2.76-1.12-5.26-2.93-7.07l-1.42 1.42A7.94 7.94 0 0 1 20 12z'></path>", attributeSet0);
-/// <summary>
 /// Gets the SensorDoor SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SensorDoor => SvgIcon.FromContent("<path d='M20 2H4v20h16V2zm-4.5 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z'></path>", attributeSet0);
@@ -6557,6 +6549,14 @@ public static SvgIcon SensorDoor => SvgIcon.FromContent("<path d='M20 2H4v20h16V
 /// Gets the SensorOccupied SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SensorOccupied => SvgIcon.FromContent("<path d='M12 11c1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3 1.34 3 3 3zm0 1c-1.84 0-3.56.5-5.03 1.37-.61.35-.97 1.02-.97 1.72V17h12v-1.91c0-.7-.36-1.36-.97-1.72A9.844 9.844 0 0 0 12 12zm9.23-3.85 1.85-.77A12.056 12.056 0 0 0 16.62.92l-.77 1.85c2.42 1.02 4.36 2.96 5.38 5.38zM8.15 2.77 7.38.92A12.089 12.089 0 0 0 .92 7.38l1.85.77c1.02-2.42 2.96-4.36 5.38-5.38zM2.77 15.85l-1.85.77c1.22 2.91 3.55 5.25 6.46 6.46l.77-1.85a10.117 10.117 0 0 1-5.38-5.38zm13.08 5.38.77 1.85c2.91-1.22 5.25-3.55 6.46-6.46l-1.85-.77a10.117 10.117 0 0 1-5.38 5.38z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Sensors SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Sensors => SvgIcon.FromContent("<path d='M7.76 16.24C6.67 15.16 6 13.66 6 12s.67-3.16 1.76-4.24l1.42 1.42C8.45 9.9 8 10.9 8 12c0 1.1.45 2.1 1.17 2.83l-1.41 1.41zm8.48 0C17.33 15.16 18 13.66 18 12s-.67-3.16-1.76-4.24l-1.42 1.42C15.55 9.9 16 10.9 16 12c0 1.1-.45 2.1-1.17 2.83l1.41 1.41zM12 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm8 2c0 2.21-.9 4.21-2.35 5.65l1.42 1.42C20.88 17.26 22 14.76 22 12s-1.12-5.26-2.93-7.07l-1.42 1.42A7.94 7.94 0 0 1 20 12zM6.35 6.35 4.93 4.93C3.12 6.74 2 9.24 2 12s1.12 5.26 2.93 7.07l1.42-1.42C4.9 16.21 4 14.21 4 12s.9-4.21 2.35-5.65z'></path>", attributeSet0);
+/// <summary>
+/// Gets the SensorsOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon SensorsOff => SvgIcon.FromContent("<path d='M8.14 10.96c-.09.33-.14.68-.14 1.04 0 1.1.45 2.1 1.17 2.83l-1.42 1.42A6.018 6.018 0 0 1 6 12c0-.93.21-1.8.58-2.59L5.11 7.94A7.897 7.897 0 0 0 4 12c0 2.21.9 4.21 2.35 5.65l-1.42 1.42A9.969 9.969 0 0 1 2 12c0-2.04.61-3.93 1.66-5.51L1.39 4.22 2.8 2.81l18.38 18.38-1.41 1.41L8.14 10.96zm9.28 3.63c.37-.79.58-1.66.58-2.59 0-1.66-.67-3.16-1.76-4.24l-1.42 1.42a3.951 3.951 0 0 1 1.04 3.86l1.56 1.55zM20 12c0 1.48-.4 2.87-1.11 4.06l1.45 1.45A9.91 9.91 0 0 0 22 12c0-2.76-1.12-5.26-2.93-7.07l-1.42 1.42A7.94 7.94 0 0 1 20 12z'></path>", attributeSet0);
 /// <summary>
 /// Gets the SensorWindow SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6585,6 +6585,10 @@ public static SvgIcon SentimentVeryDissatisfied => SvgIcon.FromContent("<path d=
 /// Gets the SentimentVerySatisfied SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SentimentVerySatisfied => SvgIcon.FromContent("<path d='M8.88 9.94 9.94 11 11 9.94 8.88 7.82 6.76 9.94 7.82 11zM12 17.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5zm1-7.56L14.06 11l1.06-1.06L16.18 11l1.06-1.06-2.12-2.12zM11.99 2C6.47 2 2 6.47 2 12s4.47 10 9.99 10S22 17.53 22 12 17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the SetMeal SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon SetMeal => SvgIcon.FromContent("<path d='m21.05 17.56-17.97.94L3 17l17.98-.94.07 1.5zM21 19.48H3v1.5h18v-1.5zM22 3v11H2V3h20zm-2 3c-1.68 0-3.04.98-3.21 2.23-.64-.73-2.73-2.73-6.54-2.73-4.67 0-6.75 3-6.75 3s2.08 3 6.75 3c3.81 0 5.9-2 6.54-2.73C16.96 10.02 18.32 11 20 11V6z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Settings SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6666,10 +6670,6 @@ public static SvgIcon SettingsSystemDaydream => SvgIcon.FromContent("<path d='M9
 /// </summary>
 public static SvgIcon SettingsVoice => SvgIcon.FromContent("<path d='M7 24h2v-2H7v2zm5-11c1.66 0 2.99-1.34 2.99-3L15 4c0-1.66-1.34-3-3-3S9 2.34 9 4v6c0 1.66 1.34 3 3 3zm-1 11h2v-2h-2v2zm4 0h2v-2h-2v2zm4-14h-1.7c0 3-2.54 5.1-5.3 5.1S6.7 13 6.7 10H5c0 3.41 2.72 6.23 6 6.72V20h2v-3.28c3.28-.49 6-3.31 6-6.72z'></path>", attributeSet0);
 /// <summary>
-/// Gets the SetMeal SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon SetMeal => SvgIcon.FromContent("<path d='m21.05 17.56-17.97.94L3 17l17.98-.94.07 1.5zM21 19.48H3v1.5h18v-1.5zM22 3v11H2V3h20zm-2 3c-1.68 0-3.04.98-3.21 2.23-.64-.73-2.73-2.73-6.54-2.73-4.67 0-6.75 3-6.75 3s2.08 3 6.75 3c3.81 0 5.9-2 6.54-2.73C16.96 10.02 18.32 11 20 11V6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the SevereCold SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SevereCold => SvgIcon.FromContent("<path d='m12 10.41 4-4L14.59 5 12 7.59V4h-2v3.59L7.41 5 6 6.41l4 4V12H8.41l-4-4L3 9.41 5.59 12H2v2h3.59L3 16.59 4.41 18l4-4H10v1.59l-4 4L7.41 21 10 18.41V22h2v-3.59L14.59 21 16 19.59l-4-4V14h1.59l4 4L19 16.59 16.41 14H20v-2h-8zM19 2h2v5h-2zm0 6h2v2h-2z'></path>", attributeSet0);
@@ -6698,6 +6698,10 @@ public static SvgIcon ShieldMoon => SvgIcon.FromContent("<path d='M12 2 4 5v6.09
 /// </summary>
 public static SvgIcon Shop => SvgIcon.FromContent("<path d='M16 6V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H2v15h20V6h-6zm-6-2h4v2h-4V4zM9 18V9l7.5 4L9 18z'></path>", attributeSet0);
 /// <summary>
+/// Gets the Shop2 SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Shop2 => SvgIcon.FromContent("<path d='M3 9H1v13h18v-2H3z'></path><path d='M18 5V1h-8v4H5v13h18V5h-5zm-6-2h4v2h-4V3zm0 12V8l5.5 3.5L12 15z'></path>", attributeSet0);
+/// <summary>
 /// Gets the ShoppingBag SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ShoppingBag => SvgIcon.FromContent("<path d='M20 6h-4c0-2.21-1.79-4-4-4S8 3.79 8 6H4v16h16V6zm-10 5H8V8h2v3zm2-7c1.1 0 2 .9 2 2h-4c0-1.1.9-2 2-2zm4 7h-2V8h2v3z'></path>", attributeSet0);
@@ -6714,10 +6718,6 @@ public static SvgIcon ShoppingCart => SvgIcon.FromContent("<path d='M17 18c-1.1 
 /// </summary>
 public static SvgIcon ShoppingCartCheckout => SvgIcon.FromContent("<path d='M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-8.9-5h8.66L21 4.96 19.25 4l-3.7 7H8.53L4.27 2H1v2h2l3.6 7.59L3.61 17H19v-2H7l1.1-2zM12 2l4 4-4 4-1.41-1.41L12.17 7H8V5h4.17l-1.59-1.59L12 2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Shop2 SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Shop2 => SvgIcon.FromContent("<path d='M3 9H1v13h18v-2H3z'></path><path d='M18 5V1h-8v4H5v13h18V5h-5zm-6-2h4v2h-4V3zm0 12V8l5.5 3.5L12 15z'></path>", attributeSet0);
-/// <summary>
 /// Gets the ShopTwo SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ShopTwo => SvgIcon.FromContent("<path d='M3 9H1v13h18v-2H3V9zm15-4V3c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H5v13h18V5h-5zm-6-2h4v2h-4V3zm0 12V8l5.5 3-5.5 4z'></path>", attributeSet0);
@@ -6730,13 +6730,13 @@ public static SvgIcon Shortcut => SvgIcon.FromContent("<path d='m21 11-6-6v5H8c-
 /// </summary>
 public static SvgIcon ShortText => SvgIcon.FromContent("<path d='M4 9h16v2H4V9zm0 4h10v2H4v-2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Shower SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Shower => SvgIcon.FromContent("<circle cx='8' cy='17' r='1'></circle><circle cx='12' cy='17' r='1'></circle><circle cx='16' cy='17' r='1'></circle><path d='M13 5.08V3h-2v2.08C7.61 5.57 5 8.47 5 12v2h14v-2c0-3.53-2.61-6.43-6-6.92z'></path><circle cx='8' cy='20' r='1'></circle><circle cx='12' cy='20' r='1'></circle><circle cx='16' cy='20' r='1'></circle>", attributeSet0);
-/// <summary>
 /// Gets the ShowChart SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ShowChart => SvgIcon.FromContent("<path d='m3.5 18.49 6-6.01 4 4L22 6.92l-1.41-1.41-7.09 7.97-4-4L2 16.99l1.5 1.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Shower SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Shower => SvgIcon.FromContent("<circle cx='8' cy='17' r='1'></circle><circle cx='12' cy='17' r='1'></circle><circle cx='16' cy='17' r='1'></circle><path d='M13 5.08V3h-2v2.08C7.61 5.57 5 8.47 5 12v2h14v-2c0-3.53-2.61-6.43-6-6.92z'></path><circle cx='8' cy='20' r='1'></circle><circle cx='12' cy='20' r='1'></circle><circle cx='16' cy='20' r='1'></circle>", attributeSet0);
 /// <summary>
 /// Gets the Shuffle SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6834,13 +6834,13 @@ public static SvgIcon SignalWifiStatusbarConnectedNoInternet4 => SvgIcon.FromCon
 /// </summary>
 public static SvgIcon SignalWifiStatusbarNull => SvgIcon.FromContent("<path d='M12 4C7.31 4 3.07 5.9 0 8.98L12 21 24 8.98A16.88 16.88 0 0 0 12 4zM2.92 9.07C5.51 7.08 8.67 6 12 6s6.49 1.08 9.08 3.07L12 18.17l-9.08-9.1z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Signpost SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Signpost => SvgIcon.FromContent("<path d='M12 2c-.55 0-1 .45-1 1v1H5.5C4.67 4 4 4.67 4 5.5v3c0 .83.67 1.5 1.5 1.5H11v2H6.62c-.4 0-.78.16-1.06.44l-1.5 1.5a1.49 1.49 0 0 0 0 2.12l1.5 1.5c.28.28.66.44 1.06.44H11v3c0 .55.45 1 1 1s1-.45 1-1v-3h5.5c.83 0 1.5-.67 1.5-1.5v-3c0-.83-.67-1.5-1.5-1.5H13v-2h4.38c.4 0 .78-.16 1.06-.44l1.5-1.5c.59-.59.59-1.54 0-2.12l-1.5-1.5c-.28-.28-.66-.44-1.06-.44H13V3c0-.55-.45-1-1-1z'></path>", attributeSet0);
-/// <summary>
 /// Gets the SignLanguage SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SignLanguage => SvgIcon.FromContent("<path d='m12.49 13-1.39-2.7L12.49 9 19 15.2V24H4.5v-2H10v-1H3v-2h7v-1H2v-2h8v-1H3.5v-2h8.99zm-.71-5.88c-.84.4-1.17.62-1.63 1.19L6.76 4.74l1.45-1.38 3.57 3.76zM9.64 9.21a3.46 3.46 0 0 0-.2 1.79h-.86L5.62 7.89l1.45-1.38 2.57 2.7zm12.34 3.13L22 3.35l-1.9-.1-1 2.86L13.3 0l-1.45 1.38 4.09 4.3-.73.69L9.74.64 8.3 2l3.36 3.53 1.06 1.11 2.65 2.33 5.08 4.83 1.53-1.46z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Signpost SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Signpost => SvgIcon.FromContent("<path d='M12 2c-.55 0-1 .45-1 1v1H5.5C4.67 4 4 4.67 4 5.5v3c0 .83.67 1.5 1.5 1.5H11v2H6.62c-.4 0-.78.16-1.06.44l-1.5 1.5a1.49 1.49 0 0 0 0 2.12l1.5 1.5c.28.28.66.44 1.06.44H11v3c0 .55.45 1 1 1s1-.45 1-1v-3h5.5c.83 0 1.5-.67 1.5-1.5v-3c0-.83-.67-1.5-1.5-1.5H13v-2h4.38c.4 0 .78-.16 1.06-.44l1.5-1.5c.59-.59.59-1.54 0-2.12l-1.5-1.5c-.28-.28-.66-.44-1.06-.44H13V3c0-.55-.45-1-1-1z'></path>", attributeSet0);
 /// <summary>
 /// Gets the SimCard SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -6886,10 +6886,6 @@ public static SvgIcon Slideshow => SvgIcon.FromContent("<path d='M10 8v8l5-4-5-4
 /// </summary>
 public static SvgIcon SlowMotionVideo => SvgIcon.FromContent("<path d='M13.05 9.79 10 7.5v9l3.05-2.29L16 12l-2.95-2.21zm0 0L10 7.5v9l3.05-2.29L16 12l-2.95-2.21zm0 0L10 7.5v9l3.05-2.29L16 12l-2.95-2.21zM11 4.07V2.05c-2.01.2-3.84 1-5.32 2.21L7.1 5.69A7.941 7.941 0 0 1 11 4.07zM5.69 7.1 4.26 5.68A9.949 9.949 0 0 0 2.05 11h2.02c.18-1.46.76-2.79 1.62-3.9zM4.07 13H2.05c.2 2.01 1 3.84 2.21 5.32l1.43-1.43A7.868 7.868 0 0 1 4.07 13zm1.61 6.74A9.981 9.981 0 0 0 11 21.95v-2.02a7.941 7.941 0 0 1-3.9-1.62l-1.42 1.43zM22 12c0 5.16-3.92 9.42-8.95 9.95v-2.02C16.97 19.41 20 16.05 20 12s-3.03-7.41-6.95-7.93V2.05C18.08 2.58 22 6.84 22 12z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Smartphone SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Smartphone => SvgIcon.FromContent("<path d='M5 1v22h14V1H5zm12 18H7V5h10v14z'></path>", attributeSet0);
-/// <summary>
 /// Gets the SmartButton SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SmartButton => SvgIcon.FromContent("<path d='M22 17h-3v-2h1V9H4v6h6v2H2V7h20v10zm-7.5 2 1.09-2.41L18 15.5l-2.41-1.09L14.5 12l-1.09 2.41L11 15.5l2.41 1.09L14.5 19zm2.5-5 .62-1.38L19 12l-1.38-.62L17 10l-.62 1.38L15 12l1.38.62L17 14z'></path>", attributeSet0);
@@ -6897,6 +6893,10 @@ public static SvgIcon SmartButton => SvgIcon.FromContent("<path d='M22 17h-3v-2h
 /// Gets the SmartDisplay SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon SmartDisplay => SvgIcon.FromContent("<path d='M22 4H2v16h20V4zM9.5 16.5v-9l7 4.5-7 4.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Smartphone SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Smartphone => SvgIcon.FromContent("<path d='M5 1v22h14V1H5zm12 18H7V5h10v14z'></path>", attributeSet0);
 /// <summary>
 /// Gets the SmartScreen SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7162,14 +7162,6 @@ public static SvgIcon Stairs => SvgIcon.FromContent("<path d='M3 3v18h18V3H3zm15
 /// </summary>
 public static SvgIcon Star => SvgIcon.FromContent("<path d='M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Stars SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Stars => SvgIcon.FromContent("<path d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm4.24 16L12 15.45 7.77 18l1.12-4.81-3.73-3.23 4.92-.42L12 5l1.92 4.53 4.92.42-3.73 3.23L16.23 18z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Start SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Start => SvgIcon.FromContent("<path d='M14.59 7.41 18.17 11H6v2h12.17l-3.59 3.59L16 18l6-6-6-6-1.41 1.41zM2 6v12h2V6H2z'></path>", attributeSet0);
-/// <summary>
 /// Gets the StarBorder SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon StarBorder => SvgIcon.FromContent("<path d='m22 9.24-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z'></path>", attributeSet0);
@@ -7193,6 +7185,14 @@ public static SvgIcon StarPurple500 => SvgIcon.FromContent("<path d='M12 17.27 1
 /// Gets the StarRate SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon StarRate => SvgIcon.FromContent("<path d='M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Stars SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Stars => SvgIcon.FromContent("<path d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm4.24 16L12 15.45 7.77 18l1.12-4.81-3.73-3.23 4.92-.42L12 5l1.92 4.53 4.92.42-3.73 3.23L16.23 18z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Start SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Start => SvgIcon.FromContent("<path d='M14.59 7.41 18.17 11H6v2h12.17l-3.59 3.59L16 18l6-6-6-6-1.41 1.41zM2 6v12h2V6H2z'></path>", attributeSet0);
 /// <summary>
 /// Gets the StayCurrentLandscape SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7474,18 +7474,6 @@ public static SvgIcon SystemUpdateAlt => SvgIcon.FromContent("<path d='m12 16 4-
 /// </summary>
 public static SvgIcon Tab => SvgIcon.FromContent("<path d='M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H3V5h10v4h8v10zm2-16H1v18h22V3zm-2 16H3V5h10v4h8v10z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Tablet SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Tablet => SvgIcon.FromContent("<path d='M23 4H1v16h21.99L23 4zm-4 14H5V6h14v12z'></path>", attributeSet0);
-/// <summary>
-/// Gets the TabletAndroid SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon TabletAndroid => SvgIcon.FromContent("<path d='M21 0H3v24h18V0zm-7 22h-4v-1h4v1zm5.25-3H4.75V3h14.5v16z'></path>", attributeSet0);
-/// <summary>
-/// Gets the TabletMac SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon TabletMac => SvgIcon.FromContent("<path d='M21 0H2v24h19V0zm-9.5 23c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm7.5-4H4V3h15v16z'></path>", attributeSet0);
-/// <summary>
 /// Gets the TableBar SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon TableBar => SvgIcon.FromContent("<path d='M22 7.5C22 5.57 17.52 4 12 4S2 5.57 2 7.5c0 1.81 3.95 3.31 9 3.48V15H8l-2 5h2l1.2-3h5.6l1.2 3h2l-2-5h-3v-4.02c5.05-.17 9-1.67 9-3.48z'></path>", attributeSet0);
@@ -7501,6 +7489,18 @@ public static SvgIcon TableRestaurant => SvgIcon.FromContent("<path d='m22.33 11
 /// Gets the TableRows SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon TableRows => SvgIcon.FromContent("<path d='M21 8H3V4h18v4zm0 2H3v4h18v-4zm0 6H3v4h18v-4z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Tablet SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Tablet => SvgIcon.FromContent("<path d='M23 4H1v16h21.99L23 4zm-4 14H5V6h14v12z'></path>", attributeSet0);
+/// <summary>
+/// Gets the TabletAndroid SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon TabletAndroid => SvgIcon.FromContent("<path d='M21 0H3v24h18V0zm-7 22h-4v-1h4v1zm5.25-3H4.75V3h14.5v16z'></path>", attributeSet0);
+/// <summary>
+/// Gets the TabletMac SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon TabletMac => SvgIcon.FromContent("<path d='M21 0H2v24h19V0zm-9.5 23c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm7.5-4H4V3h15v16z'></path>", attributeSet0);
 /// <summary>
 /// Gets the TableView SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7522,13 +7522,13 @@ public static SvgIcon TagFaces => SvgIcon.FromContent("<path d='M12.01 2C6.49 2 
 /// </summary>
 public static SvgIcon TakeoutDining => SvgIcon.FromContent("<path d='m22 7.46-1.41-1.41L19 7.63l.03-.56L14.98 3H9.02L4.97 7.07l.03.5-1.59-1.56L2 7.44 4.66 10h14.69zM5.93 20h12.14l.63-8.45H5.3z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Tapas SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Tapas => SvgIcon.FromContent("<path d='M22 10V1h-8v9c0 1.86 1.28 3.41 3 3.86V21h-2v2h6v-2h-2v-7.14c1.72-.45 3-2 3-3.86zm-2-7v3h-4V3h4zM10 9H8V8h2a2.5 2.5 0 0 0 0-5H8V1H6v2H4a2.5 2.5 0 0 0 0 5h2v1H4a2.5 2.5 0 0 0 0 5h2v9h2v-9h2a2.5 2.5 0 0 0 0-5z'></path>", attributeSet0);
-/// <summary>
 /// Gets the TapAndPlay SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon TapAndPlay => SvgIcon.FromContent("<path d='M2 16v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0 4v3h3c0-1.66-1.34-3-3-3zm0-8v2a9 9 0 0 1 9 9h2c0-6.08-4.92-11-11-11zM5 1v9.37c.69.16 1.36.37 2 .64V5h10v13h-3.03c.52 1.25.84 2.59.95 4H19V1H5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Tapas SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Tapas => SvgIcon.FromContent("<path d='M22 10V1h-8v9c0 1.86 1.28 3.41 3 3.86V21h-2v2h6v-2h-2v-7.14c1.72-.45 3-2 3-3.86zm-2-7v3h-4V3h4zM10 9H8V8h2a2.5 2.5 0 0 0 0-5H8V1H6v2H4a2.5 2.5 0 0 0 0 5h2v1H4a2.5 2.5 0 0 0 0 5h2v9h2v-9h2a2.5 2.5 0 0 0 0-5z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Task SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7557,14 +7557,6 @@ public static SvgIcon Terminal => SvgIcon.FromContent("<path d='M2 4v16h20V4H2zm
 /// Gets the Terrain SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon Terrain => SvgIcon.FromContent("<path d='m14 6-3.75 5 2.85 3.8-1.6 1.2C9.81 13.75 7 10 7 10l-6 8h22L14 6z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Textsms SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Textsms => SvgIcon.FromContent("<path d='M22 2H2.01L2 22l4-4h16V2zM9 11H7V9h2v2zm4 0h-2V9h2v2zm4 0h-2V9h2v2z'></path>", attributeSet0);
-/// <summary>
-/// Gets the Texture SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Texture => SvgIcon.FromContent("<path d='M19.66 3 3.07 19.59V21h1.41L21.07 4.42V3zm-7.71 0-8.88 8.88v2.83L14.78 3zM3.07 3v4l4-4zm18 18v-4l-4 4zm-8.88 0 8.88-8.88V9.29L9.36 21z'></path>", attributeSet0);
 /// <summary>
 /// Gets the TextDecrease SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7606,17 +7598,25 @@ public static SvgIcon TextRotationDown => SvgIcon.FromContent("<path d='m6 20 3-
 /// </summary>
 public static SvgIcon TextRotationNone => SvgIcon.FromContent("<path d='m21 18-3-3v2H5v2h13v2l3-3zM9.5 11.8h5l.9 2.2h2.1L12.75 3h-1.5L6.5 14h2.1l.9-2.2zM12 4.98 13.87 10h-3.74L12 4.98z'></path>", attributeSet0);
 /// <summary>
+/// Gets the Textsms SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Textsms => SvgIcon.FromContent("<path d='M22 2H2.01L2 22l4-4h16V2zM9 11H7V9h2v2zm4 0h-2V9h2v2zm4 0h-2V9h2v2z'></path>", attributeSet0);
+/// <summary>
 /// Gets the TextSnippet SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon TextSnippet => SvgIcon.FromContent("<path d='m21 9-6-6H3v18h18V9zM7 7h7v2H7V7zm10 10H7v-2h10v2zm0-4H7v-2h10v2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Theaters SvgIcon from the GoogleMaterialSharpIcon library.
+/// Gets the Texture SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
-public static SvgIcon Theaters => SvgIcon.FromContent("<path d='M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm10 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z'></path>", attributeSet0);
+public static SvgIcon Texture => SvgIcon.FromContent("<path d='M19.66 3 3.07 19.59V21h1.41L21.07 4.42V3zm-7.71 0-8.88 8.88v2.83L14.78 3zM3.07 3v4l4-4zm18 18v-4l-4 4zm-8.88 0 8.88-8.88V9.29L9.36 21z'></path>", attributeSet0);
 /// <summary>
 /// Gets the TheaterComedy SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon TheaterComedy => SvgIcon.FromContent("<path d='M11 2v5.5h3.5v3.31C14.55 9.8 15.64 9 16.99 9c1.38 0 2.5.84 2.5 1.88H14.5v3.56c.76.36 1.61.56 2.5.56 3.31 0 6-2.69 6-6V2H11zm4 5.5c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm4 0c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z'></path><path d='M1 16c0 3.31 2.69 6 6 6s6-2.69 6-6V9H1v7zm6 1.88c-1.38 0-2.5-.84-2.5-1.88h5c0 1.04-1.12 1.88-2.5 1.88zm2-5.38c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm-4 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Theaters SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Theaters => SvgIcon.FromContent("<path d='M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm10 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Thermostat SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7625,10 +7625,6 @@ public static SvgIcon Thermostat => SvgIcon.FromContent("<path d='M15 13V5c0-1.6
 /// Gets the ThermostatAuto SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ThermostatAuto => SvgIcon.FromContent("<path d='M11 12V6c0-1.66-1.34-3-3-3S5 4.34 5 6v6c-1.21.91-2 2.37-2 4 0 1.12.38 2.14 1 2.97V19h.02c.91 1.21 2.35 2 3.98 2s3.06-.79 3.98-2H12v-.03c.62-.83 1-1.85 1-2.97 0-1.63-.79-3.09-2-4zm-6 4c0-.94.45-1.84 1.2-2.4L7 13V6c0-.55.45-1 1-1s1 .45 1 1v7l.8.6c.75.57 1.2 1.46 1.2 2.4H5zM18.62 4h-1.61l-3.38 9h1.56l.81-2.3h3.63l.8 2.3H22l-3.38-9zm-2.15 5.39 1.31-3.72h.08l1.31 3.72h-2.7z'></path>", attributeSet0);
-/// <summary>
-/// Gets the ThumbsUpDown SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon ThumbsUpDown => SvgIcon.FromContent("<path d='M12 5H5.82l.78-3.78L5.38 0 0 5.38V14h9.24L12 7.54zm2.76 5L12 16.46V19h6.18l-.78 3.78L18.62 24 24 18.62V10z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ThumbDown SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -7641,6 +7637,10 @@ public static SvgIcon ThumbDownAlt => SvgIcon.FromContent("<path d='M1 11.6V16h8
 /// Gets the ThumbDownOffAlt SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon ThumbDownOffAlt => SvgIcon.FromContent("<path d='M19 3h4v12h-4zM1 11.6V16h8.31l-1.12 5.38L9.83 23 17 15.82V3H4.69L1 11.6zM15 5v9.99l-4.34 4.35.61-2.93.5-2.41H3v-1.99L6.01 5H15z'></path>", attributeSet0);
+/// <summary>
+/// Gets the ThumbsUpDown SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon ThumbsUpDown => SvgIcon.FromContent("<path d='M12 5H5.82l.78-3.78L5.38 0 0 5.38V14h9.24L12 7.54zm2.76 5L12 16.46V19h6.18l-.78 3.78L18.62 24 24 18.62V10z'></path>", attributeSet0);
 /// <summary>
 /// Gets the ThumbUp SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -8014,25 +8014,13 @@ public static SvgIcon VerticalSplit => SvgIcon.FromContent("<path d='M3 15h8v-2H
 /// </summary>
 public static SvgIcon Vibration => SvgIcon.FromContent("<path d='M0 15h2V9H0v6zm3 2h2V7H3v10zm19-8v6h2V9h-2zm-3 8h2V7h-2v10zM18 3H6v18h12V3zm-2 16H8V5h8v14z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Videocam SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Videocam => SvgIcon.FromContent("<path d='M17 10.5V6H3v12h14v-4.5l4 4v-11l-4 4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the VideocamOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon VideocamOff => SvgIcon.FromContent("<path d='M21 16.61V6.5l-4 4V6h-6.61zM3.41 1.86 2 3.27 4.73 6H3v12h13.73l3 3 1.41-1.41z'></path>", attributeSet0);
-/// <summary>
-/// Gets the VideogameAsset SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon VideogameAsset => SvgIcon.FromContent("<path d='M23 6H1v12h22V6zm-12 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z'></path>", attributeSet0);
-/// <summary>
-/// Gets the VideogameAssetOff SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon VideogameAssetOff => SvgIcon.FromContent("<path d='M20.83 18H22V6H8.83l12 12zM17.5 9c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zm3.69 12.19L2.81 2.81 1.39 4.22 3.17 6H2v12h13.17l4.61 4.61 1.41-1.42zM9 13v2H7v-2H5v-2h2V9.83L10.17 13H9z'></path>", attributeSet0);
-/// <summary>
 /// Gets the VideoCall SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon VideoCall => SvgIcon.FromContent("<path d='M17 10.5V6H3v12h14v-4.5l4 4v-11l-4 4zM14 13h-3v3H9v-3H6v-2h3V8h2v3h3v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Videocam SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Videocam => SvgIcon.FromContent("<path d='M17 10.5V6H3v12h14v-4.5l4 4v-11l-4 4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the VideoCameraBack SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -8042,6 +8030,10 @@ public static SvgIcon VideoCameraBack => SvgIcon.FromContent("<path d='M18 10.48
 /// </summary>
 public static SvgIcon VideoCameraFront => SvgIcon.FromContent("<path d='M18 10.48V4H2v16h16v-6.48l4 3.98v-11l-4 3.98zM10 8c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm4 8H6v-.57c0-.81.48-1.53 1.22-1.85a6.95 6.95 0 0 1 5.56 0A2.01 2.01 0 0 1 14 15.43V16z'></path>", attributeSet0);
 /// <summary>
+/// Gets the VideocamOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon VideocamOff => SvgIcon.FromContent("<path d='M21 16.61V6.5l-4 4V6h-6.61zM3.41 1.86 2 3.27 4.73 6H3v12h13.73l3 3 1.41-1.41z'></path>", attributeSet0);
+/// <summary>
 /// Gets the VideoChat SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon VideoChat => SvgIcon.FromContent("<path d='M2 2v20l4-4h16V2H2zm15 11-2-1.99V14H7V6h8v2.99L17 7v6z'></path>", attributeSet0);
@@ -8049,6 +8041,14 @@ public static SvgIcon VideoChat => SvgIcon.FromContent("<path d='M2 2v20l4-4h16V
 /// Gets the VideoFile SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon VideoFile => SvgIcon.FromContent("<path d='M14 2H4v20h16V8l-6-6zm-1 7V3.5L18.5 9H13zm1 5 2-1.06v4.12L14 16v2H8v-6h6v2z'></path>", attributeSet0);
+/// <summary>
+/// Gets the VideogameAsset SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon VideogameAsset => SvgIcon.FromContent("<path d='M23 6H1v12h22V6zm-12 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z'></path>", attributeSet0);
+/// <summary>
+/// Gets the VideogameAssetOff SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon VideogameAssetOff => SvgIcon.FromContent("<path d='M20.83 18H22V6H8.83l12 12zM17.5 9c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zm3.69 12.19L2.81 2.81 1.39 4.22 3.17 6H2v12h13.17l4.61 4.61 1.41-1.42zM9 13v2H7v-2H5v-2h2V9.83L10.17 13H9z'></path>", attributeSet0);
 /// <summary>
 /// Gets the VideoLabel SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -8162,13 +8162,13 @@ public static SvgIcon Visibility => SvgIcon.FromContent("<path d='M12 4C7 4 2.73
 /// </summary>
 public static SvgIcon VisibilityOff => SvgIcon.FromContent("<path d='M12 6.5c2.76 0 5 2.24 5 5 0 .51-.1 1-.24 1.46l3.06 3.06c1.39-1.23 2.49-2.77 3.18-4.53C21.27 7.11 17 4 12 4c-1.27 0-2.49.2-3.64.57l2.17 2.17c.47-.14.96-.24 1.47-.24zM3.42 2.45 2.01 3.87l2.68 2.68A11.738 11.738 0 0 0 1 11.5C2.73 15.89 7 19 12 19c1.52 0 2.97-.3 4.31-.82l3.43 3.43 1.41-1.41L3.42 2.45zM12 16.5c-2.76 0-5-2.24-5-5 0-.77.18-1.5.49-2.14l1.57 1.57c-.03.18-.06.37-.06.57 0 1.66 1.34 3 3 3 .2 0 .38-.03.57-.07L14.14 16c-.65.32-1.37.5-2.14.5zm2.97-5.33a2.97 2.97 0 0 0-2.64-2.64l2.64 2.64z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Voicemail SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Voicemail => SvgIcon.FromContent("<path d='M18.5 6C15.46 6 13 8.46 13 11.5c0 1.33.47 2.55 1.26 3.5H9.74c.79-.95 1.26-2.17 1.26-3.5C11 8.46 8.54 6 5.5 6S0 8.46 0 11.5 2.46 17 5.5 17h13c3.04 0 5.5-2.46 5.5-5.5S21.54 6 18.5 6zm-13 9C3.57 15 2 13.43 2 11.5S3.57 8 5.5 8 9 9.57 9 11.5 7.43 15 5.5 15zm13 0c-1.93 0-3.5-1.57-3.5-3.5S16.57 8 18.5 8 22 9.57 22 11.5 20.43 15 18.5 15z'></path>", attributeSet0);
-/// <summary>
 /// Gets the VoiceChat SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon VoiceChat => SvgIcon.FromContent("<path d='M22 2H2.01L2 22l4-4h16V2zm-4 12-4-3.2V14H6V6h8v3.2L18 6v8z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Voicemail SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Voicemail => SvgIcon.FromContent("<path d='M18.5 6C15.46 6 13 8.46 13 11.5c0 1.33.47 2.55 1.26 3.5H9.74c.79-.95 1.26-2.17 1.26-3.5C11 8.46 8.54 6 5.5 6S0 8.46 0 11.5 2.46 17 5.5 17h13c3.04 0 5.5-2.46 5.5-5.5S21.54 6 18.5 6zm-13 9C3.57 15 2 13.43 2 11.5S3.57 8 5.5 8 9 9.57 9 11.5 7.43 15 5.5 15zm13 0c-1.93 0-3.5-1.57-3.5-3.5S16.57 8 18.5 8 22 9.57 22 11.5 20.43 15 18.5 15z'></path>", attributeSet0);
 /// <summary>
 /// Gets the VoiceOverOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -8254,10 +8254,6 @@ public static SvgIcon WatchOff => SvgIcon.FromContent("<path d='M12 7c2.76 0 5 2
 /// </summary>
 public static SvgIcon Water => SvgIcon.FromContent("<path d='M21.98 14H22h-.02zM5.35 13c1.19 0 1.42 1 3.33 1 1.95 0 2.09-1 3.33-1 1.19 0 1.42 1 3.33 1 1.95 0 2.09-1 3.33-1 1.19 0 1.4.98 3.31 1v-2c-1.19 0-1.42-1-3.33-1-1.95 0-2.09 1-3.33 1-1.19 0-1.42-1-3.33-1-1.95 0-2.09 1-3.33 1-1.19 0-1.42-1-3.33-1-1.95 0-2.09 1-3.33 1v2c1.9 0 2.17-1 3.35-1zm13.32 2c-1.95 0-2.09 1-3.33 1-1.19 0-1.42-1-3.33-1-1.95 0-2.1 1-3.34 1-1.24 0-1.38-1-3.33-1-1.95 0-2.1 1-3.34 1v2c1.95 0 2.11-1 3.34-1 1.24 0 1.38 1 3.33 1 1.95 0 2.1-1 3.34-1 1.19 0 1.42 1 3.33 1 1.94 0 2.09-1 3.33-1 1.19 0 1.42 1 3.33 1v-2c-1.24 0-1.38-1-3.33-1zM5.35 9c1.19 0 1.42 1 3.33 1 1.95 0 2.09-1 3.33-1 1.19 0 1.42 1 3.33 1 1.95 0 2.09-1 3.33-1 1.19 0 1.4.98 3.31 1V8c-1.19 0-1.42-1-3.33-1-1.95 0-2.09 1-3.33 1-1.19 0-1.42-1-3.33-1-1.95 0-2.09 1-3.33 1-1.19 0-1.42-1-3.33-1C3.38 7 3.24 8 2 8v2c1.9 0 2.17-1 3.35-1z'></path>", attributeSet0);
 /// <summary>
-/// Gets the WaterfallChart SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon WaterfallChart => SvgIcon.FromContent("<path d='M18 4h3v16h-3V4zM3 13h3v7H3v-7zm11-9h3v3h-3V4zm-4 1h3v4h-3V5zm-3 5h3v4H7v-4z'></path>", attributeSet0);
-/// <summary>
 /// Gets the WaterDamage SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon WaterDamage => SvgIcon.FromContent("<path d='M12 3 2 12h3v8h14v-8h3L12 3zm0 13c-1.1 0-2-.9-2-2s2-4 2-4 2 2.9 2 4-.9 2-2 2z'></path>", attributeSet0);
@@ -8265,6 +8261,10 @@ public static SvgIcon WaterDamage => SvgIcon.FromContent("<path d='M12 3 2 12h3v
 /// Gets the WaterDrop SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon WaterDrop => SvgIcon.FromContent("<path d='M12 2c-5.33 4.55-8 8.48-8 11.8 0 4.98 3.8 8.2 8 8.2s8-3.22 8-8.2c0-3.32-2.67-7.25-8-11.8zm1 16.91c-.32.06-.65.09-1 .09-2.69 0-4.88-1.94-5-5h1.5c.08 2.07 1.5 3.5 3.5 3.5.35 0 .69-.04 1-.13v1.54z'></path>", attributeSet0);
+/// <summary>
+/// Gets the WaterfallChart SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon WaterfallChart => SvgIcon.FromContent("<path d='M18 4h3v16h-3V4zM3 13h3v7H3v-7zm11-9h3v3h-3V4zm-4 1h3v4h-3V5zm-3 5h3v4H7v-4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the Waves SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -8310,10 +8310,6 @@ public static SvgIcon Wc => SvgIcon.FromContent("<path d='M5.5 22v-7.5H4V7h7v7.5
 /// </summary>
 public static SvgIcon Web => SvgIcon.FromContent("<path d='M22 4H2v16h20V4zM4 9h10.5v3.5H4V9zm0 5.5h10.5V18H4v-3.5zM20 18h-3.5V9H20v9z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Webhook SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Webhook => SvgIcon.FromContent("<path d='M10 15h5.88c.27-.31.67-.5 1.12-.5.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5c-.44 0-.84-.19-1.12-.5H11.9A5 5 0 1 1 6 11.1v2.07c-1.16.41-2 1.53-2 2.83 0 1.65 1.35 3 3 3s3-1.35 3-3v-1zm2.5-11c1.65 0 3 1.35 3 3h2c0-2.76-2.24-5-5-5a5.002 5.002 0 0 0-3.45 8.62l-2.35 3.9c-.68.14-1.2.75-1.2 1.48 0 .83.67 1.5 1.5 1.5a1.498 1.498 0 0 0 1.43-1.95l3.38-5.63A3.003 3.003 0 0 1 9.5 7c0-1.65 1.35-3 3-3zm4.5 9c-.64 0-1.23.2-1.72.54l-3.05-5.07C11.53 8.35 11 7.74 11 7c0-.83.67-1.5 1.5-1.5S14 6.17 14 7c0 .15-.02.29-.06.43l2.19 3.65c.28-.05.57-.08.87-.08 2.76 0 5 2.24 5 5s-2.24 5-5 5a5 5 0 0 1-4.33-2.5h2.67c.48.32 1.05.5 1.66.5 1.65 0 3-1.35 3-3s-1.35-3-3-3z'></path>", attributeSet0);
-/// <summary>
 /// Gets the WebAsset SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon WebAsset => SvgIcon.FromContent("<path d='M3 4v16h18V4H3zm16 14H5V8h14v10z'></path>", attributeSet0);
@@ -8321,6 +8317,10 @@ public static SvgIcon WebAsset => SvgIcon.FromContent("<path d='M3 4v16h18V4H3zm
 /// Gets the WebAssetOff SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon WebAssetOff => SvgIcon.FromContent("<path d='M6.83 4H22v15.17l-2-2V8h-9.17l-4-4zm13.66 19.31L17.17 20H2V4.83L.69 3.51 2.1 2.1l19.8 19.8-1.41 1.41zM15.17 18l-10-10H4v10h11.17z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Webhook SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Webhook => SvgIcon.FromContent("<path d='M10 15h5.88c.27-.31.67-.5 1.12-.5.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5c-.44 0-.84-.19-1.12-.5H11.9A5 5 0 1 1 6 11.1v2.07c-1.16.41-2 1.53-2 2.83 0 1.65 1.35 3 3 3s3-1.35 3-3v-1zm2.5-11c1.65 0 3 1.35 3 3h2c0-2.76-2.24-5-5-5a5.002 5.002 0 0 0-3.45 8.62l-2.35 3.9c-.68.14-1.2.75-1.2 1.48 0 .83.67 1.5 1.5 1.5a1.498 1.498 0 0 0 1.43-1.95l3.38-5.63A3.003 3.003 0 0 1 9.5 7c0-1.65 1.35-3 3-3zm4.5 9c-.64 0-1.23.2-1.72.54l-3.05-5.07C11.53 8.35 11 7.74 11 7c0-.83.67-1.5 1.5-1.5S14 6.17 14 7c0 .15-.02.29-.06.43l2.19 3.65c.28-.05.57-.08.87-.08 2.76 0 5 2.24 5 5s-2.24 5-5 5a5 5 0 0 1-4.33-2.5h2.67c.48.32 1.05.5 1.66.5 1.65 0 3-1.35 3-3s-1.35-3-3-3z'></path>", attributeSet0);
 /// <summary>
 /// Gets the WebStories SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
@@ -8442,14 +8442,6 @@ public static SvgIcon Woman2 => SvgIcon.FromContent("<path d='M13.41 7h-2.82L7 1
 /// </summary>
 public static SvgIcon Work => SvgIcon.FromContent("<path d='M22 6h-6V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H2v15h20V6zm-8 0h-4V4h4v2z'></path>", attributeSet0);
 /// <summary>
-/// Gets the Workspaces SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon Workspaces => SvgIcon.FromContent("<path d='M6 13c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6-10C9.8 3 8 4.8 8 7s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6 10c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4z'></path>", attributeSet0);
-/// <summary>
-/// Gets the WorkspacePremium SvgIcon from the GoogleMaterialSharpIcon library.
-/// </summary>
-public static SvgIcon WorkspacePremium => SvgIcon.FromContent("<path d='M9.68 13.69 12 11.93l2.31 1.76-.88-2.85L15.75 9h-2.84L12 6.19 11.09 9H8.25l2.31 1.84-.88 2.85zM20 10c0-4.42-3.58-8-8-8s-8 3.58-8 8c0 2.03.76 3.87 2 5.28V23l6-2 6 2v-7.72A7.96 7.96 0 0 0 20 10zm-8-6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6z'></path>", attributeSet0);
-/// <summary>
 /// Gets the WorkHistory SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon WorkHistory => SvgIcon.FromContent("<path d='M16.66 11.13c2-.37 3.88.11 5.34 1.13V6h-6V2H8v4H2v15h9.68a7 7 0 0 1-.52-4.51c.59-2.7 2.78-4.86 5.5-5.36zM10 4h4v2h-4V4z'></path><path d='M18 13c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm1.65 7.35L17.5 18.2V15h1v2.79l1.85 1.85-.7.71z'></path>", attributeSet0);
@@ -8461,6 +8453,14 @@ public static SvgIcon WorkOff => SvgIcon.FromContent("<path d='M10 4h4v2h-3.6L22
 /// Gets the WorkOutline SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
 public static SvgIcon WorkOutline => SvgIcon.FromContent("<path d='M14 6V4h-4v2h4zM4 8v11h16V8H4zm18-2v15H2.01V6H8V4c0-1.1.9-2 2-2h4c1.1 0 2 .9 2 2v2h6z'></path>", attributeSet0);
+/// <summary>
+/// Gets the WorkspacePremium SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon WorkspacePremium => SvgIcon.FromContent("<path d='M9.68 13.69 12 11.93l2.31 1.76-.88-2.85L15.75 9h-2.84L12 6.19 11.09 9H8.25l2.31 1.84-.88 2.85zM20 10c0-4.42-3.58-8-8-8s-8 3.58-8 8c0 2.03.76 3.87 2 5.28V23l6-2 6 2v-7.72A7.96 7.96 0 0 0 20 10zm-8-6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6z'></path>", attributeSet0);
+/// <summary>
+/// Gets the Workspaces SvgIcon from the GoogleMaterialSharpIcon library.
+/// </summary>
+public static SvgIcon Workspaces => SvgIcon.FromContent("<path d='M6 13c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6-10C9.8 3 8 4.8 8 7s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6 10c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4z'></path>", attributeSet0);
 /// <summary>
 /// Gets the WrapText SvgIcon from the GoogleMaterialSharpIcon library.
 /// </summary>
