@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="azure-pipelines-build.yml" />
+    <File Path="CHANGELOG.md" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Blazicons.GoogleMaterialDesign.Filled/Blazicons.GoogleMaterialDesign.Filled.csproj" />
+  <Project Path="Blazicons.GoogleMaterialDesign.Outlined/Blazicons.GoogleMaterialDesign.Outlined.csproj" />
+  <Project Path="Blazicons.GoogleMaterialDesign.Round/Blazicons.GoogleMaterialDesign.Round.csproj" />
+  <Project Path="Blazicons.GoogleMaterialDesign.Sharp/Blazicons.GoogleMaterialDesign.Sharp.csproj" />
+  <Project Path="Blazicons.GoogleMaterialDesign.TwoTone/Blazicons.GoogleMaterialDesign.TwoTone.csproj" />
+  <Project Path="Blazicons.GoogleMaterialDesign/Blazicons.GoogleMaterialDesign.csproj" />
+</Solution>
