@@ -43,7 +43,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="10.19.0.132793">
+    <PackageReference Include="SonarAnalyzer.CSharp" Version="10.20.0.135146">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
@@ -63,10 +63,25 @@
     <Folder Include="Generated\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Filled\Blazicons.GoogleMaterialDesign.Filled.csproj" />
-    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Outlined\Blazicons.GoogleMaterialDesign.Outlined.csproj" />
-    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Round\Blazicons.GoogleMaterialDesign.Round.csproj" />
-    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Sharp\Blazicons.GoogleMaterialDesign.Sharp.csproj" />
-    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.TwoTone\Blazicons.GoogleMaterialDesign.TwoTone.csproj" />
+    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Filled\Blazicons.GoogleMaterialDesign.Filled.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Outlined\Blazicons.GoogleMaterialDesign.Outlined.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Round\Blazicons.GoogleMaterialDesign.Round.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.Sharp\Blazicons.GoogleMaterialDesign.Sharp.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\Blazicons.GoogleMaterialDesign.TwoTone\Blazicons.GoogleMaterialDesign.TwoTone.csproj">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </ProjectReference>
   </ItemGroup>
 </Project>
